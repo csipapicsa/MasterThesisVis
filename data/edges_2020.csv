@@ -1,0 +1,306 @@
+source_id,source_name,target_id,target_name,weight,year,width
+3,Tech House,1,House,904,2020,10.966887417218542
+3,Tech House,22,Techno,877,2020,10.668874172185431
+3,Tech House,8,Progressive House,352,2020,4.874172185430464
+3,Tech House,4,Deep House,907,2020,11.0
+3,Tech House,16,Trance,72,2020,1.783664459161148
+3,Tech House,20,Electro,179,2020,2.964679911699779
+3,Tech House,25,Minimal,706,2020,8.781456953642383
+3,Tech House,26,Acid,128,2020,2.401766004415011
+3,Tech House,342,Bleep,5,2020,1.044150110375276
+3,Tech House,32,Breakbeat,118,2020,2.291390728476821
+3,Tech House,24,Breaks,96,2020,2.0485651214128033
+3,Tech House,103,Tech Trance,18,2020,1.1876379690949228
+3,Tech House,11,Electro House,81,2020,1.8830022075055188
+3,Tech House,106,Leftfield,50,2020,1.5408388520971301
+3,Tech House,21,Downtempo,117,2020,2.2803532008830025
+3,Tech House,42,Experimental,73,2020,1.794701986754967
+3,Tech House,28,Funk,2,2020,1.011037527593819
+3,Tech House,6,Acid House,53,2020,1.5739514348785872
+3,Tech House,17,Latin,8,2020,1.0772626931567328
+3,Tech House,9,Tribal House,45,2020,1.4856512141280354
+3,Tech House,15,Disco,31,2020,1.3311258278145695
+3,Tech House,93,Nu-Disco,61,2020,1.6622516556291391
+3,Tech House,102,Jungle,13,2020,1.1324503311258278
+3,Tech House,40,Ambient,118,2020,2.291390728476821
+3,Tech House,404,Neo Trance,37,2020,1.3973509933774835
+3,Tech House,179,Deep Techno,162,2020,2.7770419426048565
+3,Tech House,134,Minimal Techno,253,2020,3.781456953642384
+3,Tech House,7,Euro House,11,2020,1.1103752759381897
+3,Tech House,64,Broken Beat,21,2020,1.2207505518763797
+3,Tech House,19,Tribal,11,2020,1.1103752759381897
+3,Tech House,60,Dub Techno,62,2020,1.6732891832229582
+3,Tech House,61,Synth-pop,37,2020,1.3973509933774835
+3,Tech House,45,UK Garage,21,2020,1.2207505518763797
+3,Tech House,125,Hardcore,10,2020,1.099337748344371
+3,Tech House,2,Hard House,16,2020,1.1655629139072847
+3,Tech House,41,Microhouse,6,2020,1.055187637969095
+3,Tech House,5,Garage House,15,2020,1.1545253863134657
+3,Tech House,97,IDM,44,2020,1.4746136865342163
+3,Tech House,98,Trip Hop,8,2020,1.0772626931567328
+3,Tech House,81,Dance-pop,42,2020,1.4525386313465782
+3,Tech House,181,Holiday,2,2020,1.011037527593819
+3,Tech House,72,Hardstyle,5,2020,1.044150110375276
+3,Tech House,234,Post-Punk,3,2020,1.022075055187638
+3,Tech House,251,Drone,1,2020,1.0
+3,Tech House,171,Glitch,10,2020,1.099337748344371
+3,Tech House,170,Hyper Techno,1,2020,1.0
+3,Tech House,74,Drum n Bass,36,2020,1.3863134657836644
+3,Tech House,332,Synthwave,19,2020,1.1986754966887416
+3,Tech House,23,Abstract,16,2020,1.1655629139072847
+3,Tech House,68,Soundtrack,3,2020,1.022075055187638
+3,Tech House,185,Score,2,2020,1.011037527593819
+3,Tech House,323,Darkwave,3,2020,1.022075055187638
+3,Tech House,136,Indie Pop,3,2020,1.022075055187638
+3,Tech House,201,Progressive Breaks,11,2020,1.1103752759381897
+3,Tech House,163,Video Game Music,2,2020,1.011037527593819
+3,Tech House,70,Theme,4,2020,1.033112582781457
+3,Tech House,232,Dubstep,16,2020,1.1655629139072847
+3,Tech House,29,Dub,25,2020,1.2649006622516556
+3,Tech House,104,Alternative Rock,2,2020,1.011037527593819
+3,Tech House,54,Hip Hop,6,2020,1.055187637969095
+3,Tech House,100,Grime,7,2020,1.0662251655629138
+3,Tech House,118,Hard Techno,4,2020,1.033112582781457
+3,Tech House,59,Hard Trance,7,2020,1.0662251655629138
+3,Tech House,379,Glitch Hop,4,2020,1.033112582781457
+3,Tech House,95,Industrial,7,2020,1.0662251655629138
+3,Tech House,67,Eurodance,4,2020,1.033112582781457
+3,Tech House,18,Italodance,3,2020,1.022075055187638
+3,Tech House,174,Lo-Fi,2,2020,1.011037527593819
+3,Tech House,176,Punk,1,2020,1.0
+3,Tech House,212,Rhythmic Noise,2,2020,1.011037527593819
+3,Tech House,122,Indie Rock,2,2020,1.011037527593819
+3,Tech House,238,Pub Rock,1,2020,1.0
+3,Tech House,89,Pop Rock,2,2020,1.011037527593819
+3,Tech House,84,Hi NRG,1,2020,1.0
+3,Tech House,278,Bassline,27,2020,1.2869757174392937
+3,Tech House,227,Pop Punk,1,2020,1.0
+3,Tech House,137,Hands Up,2,2020,1.011037527593819
+3,Tech House,145,UK Funky,5,2020,1.044150110375276
+3,Tech House,402,Disco Polo,1,2020,1.0
+3,Tech House,53,Progressive Trance,24,2020,1.2538631346578366
+3,Tech House,311,Krautrock,3,2020,1.022075055187638
+3,Tech House,250,Prog Rock,1,2020,1.0
+3,Tech House,444,Moombahton,3,2020,1.022075055187638
+3,Tech House,448,Vaporwave,1,2020,1.0
+3,Tech House,115,Happy Hardcore,5,2020,1.044150110375276
+3,Tech House,14,Italo House,2,2020,1.011037527593819
+3,Tech House,177,Ambient House,1,2020,1.0
+3,Tech House,202,New Wave,5,2020,1.044150110375276
+3,Tech House,206,Electroclash,5,2020,1.044150110375276
+3,Tech House,65,Tropical House,10,2020,1.099337748344371
+3,Tech House,12,Ghetto House,8,2020,1.0772626931567328
+3,Tech House,30,Afrobeat,7,2020,1.0662251655629138
+3,Tech House,58,African,1,2020,1.0
+3,Tech House,395,Trap,4,2020,1.033112582781457
+3,Tech House,178,Ghettotech,4,2020,1.033112582781457
+3,Tech House,210,Gabber,1,2020,1.0
+3,Tech House,333,Speedcore,1,2020,1.0
+3,Tech House,449,Future House,2,2020,1.011037527593819
+3,Tech House,88,Pop Rap,1,2020,1.0
+3,Tech House,114,EBM,7,2020,1.0662251655629138
+3,Tech House,35,Jazzdance,4,2020,1.033112582781457
+3,Tech House,13,Hip-House,3,2020,1.022075055187638
+3,Tech House,150,Illbient,1,2020,1.0
+3,Tech House,57,Juke,4,2020,1.033112582781457
+3,Tech House,203,Psy-Trance,9,2020,1.0883002207505519
+3,Tech House,123,Chanson,1,2020,1.0
+3,Tech House,412,Electroacoustic,3,2020,1.022075055187638
+3,Tech House,225,Chiptune,2,2020,1.011037527593819
+3,Tech House,10,French House,2,2020,1.011037527593819
+3,Tech House,105,Italo-Disco,3,2020,1.022075055187638
+3,Tech House,305,Berlin-School,3,2020,1.022075055187638
+3,Tech House,44,Future Jazz,8,2020,1.0772626931567328
+3,Tech House,141,Ghetto,3,2020,1.022075055187638
+3,Tech House,199,Chillwave,10,2020,1.099337748344371
+3,Tech House,152,Noise,3,2020,1.022075055187638
+3,Tech House,369,Field Recording,1,2020,1.0
+3,Tech House,450,Guaracha,1,2020,1.0
+3,Tech House,293,Dark Ambient,4,2020,1.033112582781457
+3,Tech House,69,Ballad,1,2020,1.0
+3,Tech House,55,Donk,2,2020,1.011037527593819
+3,Tech House,306,Space Rock,1,2020,1.0
+3,Tech House,85,Acoustic,2,2020,1.011037527593819
+3,Tech House,219,Poetry,1,2020,1.0
+3,Tech House,294,Bass Music,8,2020,1.0772626931567328
+3,Tech House,327,Ethereal,2,2020,1.011037527593819
+3,Tech House,90,Jumpstyle,2,2020,1.011037527593819
+3,Tech House,155,Beatdown,2,2020,1.011037527593819
+3,Tech House,140,Rhythm & Blues,1,2020,1.0
+3,Tech House,158,Baltimore Club,1,2020,1.0
+3,Tech House,451,Hyperpop,1,2020,1.0
+3,Tech House,116,New Beat,1,2020,1.0
+3,Tech House,109,Reggae,2,2020,1.011037527593819
+3,Tech House,51,Dancehall,2,2020,1.011037527593819
+3,Tech House,405,Halftime,1,2020,1.0
+3,Tech House,130,Conscious,1,2020,1.0
+3,Tech House,299,Freetekno,1,2020,1.0
+3,Tech House,220,Calypso,1,2020,1.0
+3,Tech House,132,Neofolk,2,2020,1.011037527593819
+3,Tech House,34,Vocal,3,2020,1.022075055187638
+3,Tech House,111,Modern Classical,3,2020,1.022075055187638
+3,Tech House,213,Instrumental,2,2020,1.011037527593819
+3,Tech House,128,Acid Jazz,4,2020,1.033112582781457
+3,Tech House,339,Musique Concrète,1,2020,1.0
+3,Tech House,352,Hard Beat,1,2020,1.0
+3,Tech House,175,Surf,1,2020,1.0
+3,Tech House,378,Noise Rock,1,2020,1.0
+3,Tech House,148,Reggaeton,2,2020,1.011037527593819
+3,Tech House,80,Novelty,1,2020,1.0
+3,Tech House,269,Art Rock,1,2020,1.0
+3,Tech House,91,Comedy,1,2020,1.0
+3,Tech House,229,Sound Collage,2,2020,1.011037527593819
+3,Tech House,165,Goa Trance,1,2020,1.0
+3,Tech House,286,Hardcore Hip-Hop,1,2020,1.0
+3,Tech House,190,Breakcore,1,2020,1.0
+3,Tech House,313,Power Electronics,1,2020,1.0
+3,Tech House,274,Light Music,1,2020,1.0
+3,Tech House,107,Folk,1,2020,1.0
+3,Tech House,37,Schlager,1,2020,1.0
+3,Tech House,242,Cumbia,1,2020,1.0
+3,Tech House,182,Balearic,1,2020,1.0
+8,Progressive House,1,House,181,2020,2.986754966887417
+8,Progressive House,53,Progressive Trance,259,2020,3.847682119205298
+8,Progressive House,201,Progressive Breaks,40,2020,1.4304635761589404
+8,Progressive House,4,Deep House,199,2020,3.185430463576159
+8,Progressive House,3,Tech House,138,2020,2.512141280353201
+8,Progressive House,26,Acid,9,2020,1.0883002207505519
+8,Progressive House,20,Electro,31,2020,1.3311258278145695
+8,Progressive House,14,Italo House,5,2020,1.044150110375276
+8,Progressive House,16,Trance,92,2020,2.0044150110375276
+8,Progressive House,199,Chillwave,1,2020,1.0
+8,Progressive House,22,Techno,294,2020,4.233995584988962
+8,Progressive House,21,Downtempo,54,2020,1.5849889624724063
+8,Progressive House,25,Minimal,9,2020,1.0883002207505519
+8,Progressive House,24,Breaks,18,2020,1.1876379690949228
+8,Progressive House,81,Dance-pop,25,2020,1.2649006622516556
+8,Progressive House,11,Electro House,84,2020,1.9161147902869757
+8,Progressive House,42,Experimental,8,2020,1.0772626931567328
+8,Progressive House,5,Garage House,3,2020,1.022075055187638
+8,Progressive House,40,Ambient,26,2020,1.2759381898454747
+8,Progressive House,111,Modern Classical,2,2020,1.011037527593819
+8,Progressive House,32,Breakbeat,19,2020,1.1986754966887416
+8,Progressive House,61,Synth-pop,9,2020,1.0883002207505519
+8,Progressive House,179,Deep Techno,21,2020,1.2207505518763797
+8,Progressive House,19,Tribal,4,2020,1.033112582781457
+8,Progressive House,404,Neo Trance,7,2020,1.0662251655629138
+8,Progressive House,6,Acid House,6,2020,1.055187637969095
+8,Progressive House,7,Euro House,6,2020,1.055187637969095
+8,Progressive House,97,IDM,5,2020,1.044150110375276
+8,Progressive House,136,Indie Pop,4,2020,1.033112582781457
+8,Progressive House,134,Minimal Techno,8,2020,1.0772626931567328
+8,Progressive House,125,Hardcore,4,2020,1.033112582781457
+8,Progressive House,93,Nu-Disco,3,2020,1.022075055187638
+8,Progressive House,177,Ambient House,3,2020,1.022075055187638
+8,Progressive House,278,Bassline,3,2020,1.022075055187638
+8,Progressive House,210,Gabber,1,2020,1.0
+8,Progressive House,48,Freestyle,1,2020,1.0
+8,Progressive House,68,Soundtrack,3,2020,1.022075055187638
+8,Progressive House,185,Score,1,2020,1.0
+8,Progressive House,64,Broken Beat,4,2020,1.033112582781457
+8,Progressive House,452,Footwork,3,2020,1.022075055187638
+8,Progressive House,332,Synthwave,6,2020,1.055187637969095
+8,Progressive House,45,UK Garage,3,2020,1.022075055187638
+8,Progressive House,74,Drum n Bass,8,2020,1.0772626931567328
+8,Progressive House,122,Indie Rock,5,2020,1.044150110375276
+8,Progressive House,448,Vaporwave,2,2020,1.011037527593819
+8,Progressive House,293,Dark Ambient,2,2020,1.011037527593819
+8,Progressive House,104,Alternative Rock,2,2020,1.011037527593819
+8,Progressive House,171,Glitch,1,2020,1.0
+8,Progressive House,174,Lo-Fi,1,2020,1.0
+8,Progressive House,106,Leftfield,5,2020,1.044150110375276
+8,Progressive House,342,Bleep,1,2020,1.0
+8,Progressive House,176,Punk,2,2020,1.011037527593819
+8,Progressive House,212,Rhythmic Noise,1,2020,1.0
+8,Progressive House,23,Abstract,3,2020,1.022075055187638
+8,Progressive House,238,Pub Rock,1,2020,1.0
+8,Progressive House,89,Pop Rock,6,2020,1.055187637969095
+8,Progressive House,84,Hi NRG,1,2020,1.0
+8,Progressive House,227,Pop Punk,1,2020,1.0
+8,Progressive House,137,Hands Up,1,2020,1.0
+8,Progressive House,145,UK Funky,1,2020,1.0
+8,Progressive House,59,Hard Trance,2,2020,1.011037527593819
+8,Progressive House,18,Italodance,3,2020,1.022075055187638
+8,Progressive House,115,Happy Hardcore,5,2020,1.044150110375276
+8,Progressive House,13,Hip-House,1,2020,1.0
+8,Progressive House,12,Ghetto House,1,2020,1.0
+8,Progressive House,103,Tech Trance,2,2020,1.011037527593819
+8,Progressive House,203,Psy-Trance,6,2020,1.055187637969095
+8,Progressive House,323,Darkwave,1,2020,1.0
+8,Progressive House,282,Goth Rock,1,2020,1.0
+8,Progressive House,114,EBM,1,2020,1.0
+8,Progressive House,65,Tropical House,5,2020,1.044150110375276
+8,Progressive House,29,Dub,3,2020,1.022075055187638
+8,Progressive House,15,Disco,3,2020,1.022075055187638
+8,Progressive House,72,Hardstyle,5,2020,1.044150110375276
+8,Progressive House,34,Vocal,3,2020,1.022075055187638
+8,Progressive House,232,Dubstep,5,2020,1.044150110375276
+8,Progressive House,395,Trap,5,2020,1.044150110375276
+8,Progressive House,66,J-pop,2,2020,1.011037527593819
+8,Progressive House,150,Illbient,1,2020,1.0
+8,Progressive House,9,Tribal House,7,2020,1.0662251655629138
+8,Progressive House,67,Eurodance,2,2020,1.011037527593819
+8,Progressive House,87,Jersey Club,1,2020,1.0
+8,Progressive House,88,Pop Rap,5,2020,1.044150110375276
+8,Progressive House,54,Hip Hop,6,2020,1.055187637969095
+8,Progressive House,69,Ballad,5,2020,1.044150110375276
+8,Progressive House,37,Schlager,1,2020,1.0
+8,Progressive House,60,Dub Techno,1,2020,1.0
+8,Progressive House,41,Microhouse,1,2020,1.0
+8,Progressive House,113,Contemporary R&B,3,2020,1.022075055187638
+8,Progressive House,47,Soul,2,2020,1.011037527593819
+8,Progressive House,62,RnB/Swing,1,2020,1.0
+8,Progressive House,130,Conscious,2,2020,1.011037527593819
+8,Progressive House,148,Reggaeton,2,2020,1.011037527593819
+8,Progressive House,17,Latin,2,2020,1.011037527593819
+8,Progressive House,123,Chanson,2,2020,1.011037527593819
+8,Progressive House,361,J-Rock,1,2020,1.0
+8,Progressive House,218,Heavy Metal,2,2020,1.011037527593819
+8,Progressive House,101,Eurobeat,1,2020,1.0
+8,Progressive House,44,Future Jazz,1,2020,1.0
+8,Progressive House,197,Spoken Word,1,2020,1.0
+8,Progressive House,248,Soul-Jazz,1,2020,1.0
+8,Progressive House,237,Blues Rock,2,2020,1.011037527593819
+8,Progressive House,269,Art Rock,1,2020,1.0
+8,Progressive House,172,Classic Rock,2,2020,1.011037527593819
+8,Progressive House,98,Trip Hop,2,2020,1.011037527593819
+8,Progressive House,216,Symphonic Rock,1,2020,1.0
+8,Progressive House,85,Acoustic,2,2020,1.011037527593819
+8,Progressive House,110,Soft Rock,2,2020,1.011037527593819
+8,Progressive House,119,Easy Listening,1,2020,1.0
+8,Progressive House,226,Dixieland,1,2020,1.0
+8,Progressive House,198,New Age,1,2020,1.0
+8,Progressive House,189,Folk Rock,2,2020,1.011037527593819
+8,Progressive House,140,Rhythm & Blues,2,2020,1.011037527593819
+8,Progressive House,217,Contemporary Jazz,1,2020,1.0
+8,Progressive House,187,Latin Jazz,1,2020,1.0
+8,Progressive House,70,Theme,1,2020,1.0
+8,Progressive House,127,Cool Jazz,1,2020,1.0
+8,Progressive House,270,Rockabilly,1,2020,1.0
+8,Progressive House,162,Psychedelic,1,2020,1.0
+8,Progressive House,129,Reggae-Pop,1,2020,1.0
+8,Progressive House,28,Funk,1,2020,1.0
+8,Progressive House,230,Britpop,1,2020,1.0
+8,Progressive House,202,New Wave,1,2020,1.0
+8,Progressive House,240,Power Pop,1,2020,1.0
+8,Progressive House,267,Garage Rock,1,2020,1.0
+8,Progressive House,312,Mod,1,2020,1.0
+8,Progressive House,161,Rock & Roll,1,2020,1.0
+8,Progressive House,138,Country Rock,1,2020,1.0
+8,Progressive House,263,Glam,1,2020,1.0
+8,Progressive House,250,Prog Rock,1,2020,1.0
+8,Progressive House,214,Psychedelic Rock,1,2020,1.0
+8,Progressive House,154,Ska,1,2020,1.0
+8,Progressive House,306,Space Rock,1,2020,1.0
+8,Progressive House,142,Country,1,2020,1.0
+8,Progressive House,109,Reggae,1,2020,1.0
+8,Progressive House,121,Ragga HipHop,1,2020,1.0
+8,Progressive House,173,Hard Rock,1,2020,1.0
+8,Progressive House,10,French House,1,2020,1.0
+8,Progressive House,317,AOR,1,2020,1.0
+8,Progressive House,135,Arena Rock,1,2020,1.0
+8,Progressive House,35,Jazzdance,1,2020,1.0
+8,Progressive House,2,Hard House,6,2020,1.055187637969095
+8,Progressive House,449,Future House,1,2020,1.0
+8,Progressive House,206,Electroclash,1,2020,1.0
+8,Progressive House,58,African,1,2020,1.0

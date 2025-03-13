@@ -1,0 +1,255 @@
+source_id,source_name,target_id,target_name,weight,year,width
+3,Tech House,1,House,1076,2019,11.0
+3,Tech House,25,Minimal,712,2019,7.613953488372093
+3,Tech House,4,Deep House,1035,2019,10.61860465116279
+3,Tech House,19,Tribal,12,2019,1.1023255813953488
+3,Tech House,22,Techno,896,2019,9.325581395348838
+3,Tech House,20,Electro,101,2019,1.9302325581395348
+3,Tech House,106,Leftfield,48,2019,1.4372093023255814
+3,Tech House,26,Acid,84,2019,1.772093023255814
+3,Tech House,21,Downtempo,77,2019,1.7069767441860466
+3,Tech House,8,Progressive House,529,2019,5.911627906976745
+3,Tech House,6,Acid House,61,2019,1.558139534883721
+3,Tech House,16,Trance,54,2019,1.4930232558139536
+3,Tech House,58,African,3,2019,1.0186046511627906
+3,Tech House,9,Tribal House,32,2019,1.2883720930232558
+3,Tech House,24,Breaks,69,2019,1.6325581395348836
+3,Tech House,40,Ambient,67,2019,1.613953488372093
+3,Tech House,32,Breakbeat,41,2019,1.372093023255814
+3,Tech House,15,Disco,38,2019,1.344186046511628
+3,Tech House,103,Tech Trance,27,2019,1.241860465116279
+3,Tech House,332,Synthwave,3,2019,1.0186046511627906
+3,Tech House,2,Hard House,6,2019,1.0465116279069768
+3,Tech House,5,Garage House,22,2019,1.1953488372093024
+3,Tech House,11,Electro House,85,2019,1.7813953488372092
+3,Tech House,45,UK Garage,19,2019,1.1674418604651162
+3,Tech House,97,IDM,20,2019,1.1767441860465115
+3,Tech House,404,Neo Trance,57,2019,1.5209302325581395
+3,Tech House,65,Tropical House,10,2019,1.083720930232558
+3,Tech House,202,New Wave,5,2019,1.0372093023255813
+3,Tech House,83,Lounge,3,2019,1.0186046511627906
+3,Tech House,42,Experimental,22,2019,1.1953488372093024
+3,Tech House,179,Deep Techno,164,2019,2.5162790697674415
+3,Tech House,128,Acid Jazz,3,2019,1.0186046511627906
+3,Tech House,134,Minimal Techno,279,2019,3.5860465116279068
+3,Tech House,10,French House,1,2019,1.0
+3,Tech House,29,Dub,16,2019,1.1395348837209303
+3,Tech House,60,Dub Techno,32,2019,1.2883720930232558
+3,Tech House,93,Nu-Disco,54,2019,1.4930232558139536
+3,Tech House,14,Italo House,4,2019,1.027906976744186
+3,Tech House,69,Ballad,3,2019,1.0186046511627906
+3,Tech House,337,Cantopop,1,2019,1.0
+3,Tech House,64,Broken Beat,9,2019,1.0744186046511628
+3,Tech House,54,Hip Hop,5,2019,1.0372093023255813
+3,Tech House,23,Abstract,9,2019,1.0744186046511628
+3,Tech House,265,Boogie,4,2019,1.027906976744186
+3,Tech House,201,Progressive Breaks,6,2019,1.0465116279069768
+3,Tech House,13,Hip-House,3,2019,1.0186046511627906
+3,Tech House,12,Ghetto House,8,2019,1.0651162790697675
+3,Tech House,174,Lo-Fi,3,2019,1.0186046511627906
+3,Tech House,61,Synth-pop,16,2019,1.1395348837209303
+3,Tech House,53,Progressive Trance,37,2019,1.3348837209302324
+3,Tech House,52,Speed Garage,2,2019,1.0093023255813953
+3,Tech House,111,Modern Classical,4,2019,1.027906976744186
+3,Tech House,44,Future Jazz,7,2019,1.0558139534883721
+3,Tech House,298,Free Jazz,1,2019,1.0
+3,Tech House,74,Drum n Bass,11,2019,1.0930232558139534
+3,Tech House,294,Bass Music,4,2019,1.027906976744186
+3,Tech House,59,Hard Trance,5,2019,1.0372093023255813
+3,Tech House,7,Euro House,14,2019,1.1209302325581396
+3,Tech House,35,Jazzdance,2,2019,1.0093023255813953
+3,Tech House,212,Rhythmic Noise,1,2019,1.0
+3,Tech House,81,Dance-pop,28,2019,1.2511627906976743
+3,Tech House,122,Indie Rock,5,2019,1.0372093023255813
+3,Tech House,34,Vocal,5,2019,1.0372093023255813
+3,Tech House,89,Pop Rock,5,2019,1.0372093023255813
+3,Tech House,323,Darkwave,3,2019,1.0186046511627906
+3,Tech House,95,Industrial,4,2019,1.027906976744186
+3,Tech House,114,EBM,4,2019,1.027906976744186
+3,Tech House,293,Dark Ambient,4,2019,1.027906976744186
+3,Tech House,360,Avant-garde Jazz,2,2019,1.0093023255813953
+3,Tech House,309,Neo-Classical,2,2019,1.0093023255813953
+3,Tech House,291,Baroque,2,2019,1.0093023255813953
+3,Tech House,50,Contemporary,2,2019,1.0093023255813953
+3,Tech House,67,Eurodance,4,2019,1.027906976744186
+3,Tech House,115,Happy Hardcore,3,2019,1.0186046511627906
+3,Tech House,125,Hardcore,5,2019,1.0372093023255813
+3,Tech House,438,Electro Swing,3,2019,1.0186046511627906
+3,Tech House,446,Gqom,1,2019,1.0
+3,Tech House,100,Grime,5,2019,1.0372093023255813
+3,Tech House,31,Europop,3,2019,1.0186046511627906
+3,Tech House,123,Chanson,2,2019,1.0093023255813953
+3,Tech House,190,Breakcore,1,2019,1.0
+3,Tech House,72,Hardstyle,2,2019,1.0093023255813953
+3,Tech House,77,Euro-Disco,5,2019,1.0372093023255813
+3,Tech House,84,Hi NRG,6,2019,1.0465116279069768
+3,Tech House,136,Indie Pop,4,2019,1.027906976744186
+3,Tech House,17,Latin,2,2019,1.0093023255813953
+3,Tech House,171,Glitch,7,2019,1.0558139534883721
+3,Tech House,327,Ethereal,2,2019,1.0093023255813953
+3,Tech House,447,Choral,1,2019,1.0
+3,Tech House,98,Trip Hop,3,2019,1.0186046511627906
+3,Tech House,232,Dubstep,11,2019,1.0930232558139534
+3,Tech House,278,Bassline,15,2019,1.130232558139535
+3,Tech House,148,Reggaeton,2,2019,1.0093023255813953
+3,Tech House,152,Noise,2,2019,1.0093023255813953
+3,Tech House,210,Gabber,1,2019,1.0
+3,Tech House,140,Rhythm & Blues,1,2019,1.0
+3,Tech House,37,Schlager,1,2019,1.0
+3,Tech House,203,Psy-Trance,5,2019,1.0372093023255813
+3,Tech House,75,Salsa,1,2019,1.0
+3,Tech House,237,Blues Rock,1,2019,1.0
+3,Tech House,88,Pop Rap,2,2019,1.0093023255813953
+3,Tech House,161,Rock & Roll,1,2019,1.0
+3,Tech House,62,RnB/Swing,2,2019,1.0093023255813953
+3,Tech House,189,Folk Rock,2,2019,1.0093023255813953
+3,Tech House,48,Freestyle,1,2019,1.0
+3,Tech House,51,Dancehall,1,2019,1.0
+3,Tech House,137,Hands Up,1,2019,1.0
+3,Tech House,234,Post-Punk,1,2019,1.0
+3,Tech House,129,Reggae-Pop,1,2019,1.0
+3,Tech House,28,Funk,1,2019,1.0
+3,Tech House,185,Score,1,2019,1.0
+3,Tech House,49,Jazz-Funk,1,2019,1.0
+3,Tech House,176,Punk,1,2019,1.0
+3,Tech House,85,Acoustic,1,2019,1.0
+3,Tech House,110,Soft Rock,1,2019,1.0
+3,Tech House,250,Prog Rock,1,2019,1.0
+3,Tech House,306,Space Rock,1,2019,1.0
+3,Tech House,47,Soul,1,2019,1.0
+3,Tech House,68,Soundtrack,1,2019,1.0
+3,Tech House,70,Theme,2,2019,1.0093023255813953
+3,Tech House,333,Speedcore,1,2019,1.0
+3,Tech House,101,Eurobeat,1,2019,1.0
+3,Tech House,225,Chiptune,1,2019,1.0
+3,Tech House,449,Future House,2,2019,1.0093023255813953
+3,Tech House,199,Chillwave,4,2019,1.027906976744186
+3,Tech House,178,Ghettotech,1,2019,1.0
+3,Tech House,30,Afrobeat,4,2019,1.027906976744186
+3,Tech House,158,Baltimore Club,1,2019,1.0
+3,Tech House,251,Drone,1,2019,1.0
+3,Tech House,395,Trap,6,2019,1.0465116279069768
+3,Tech House,118,Hard Techno,4,2019,1.027906976744186
+3,Tech House,221,Swing,2,2019,1.0093023255813953
+3,Tech House,448,Vaporwave,1,2019,1.0
+3,Tech House,258,Mizrahi,1,2019,1.0
+3,Tech House,145,UK Funky,2,2019,1.0093023255813953
+8,Progressive House,1,House,253,2019,3.344186046511628
+8,Progressive House,53,Progressive Trance,317,2019,3.9395348837209303
+8,Progressive House,4,Deep House,393,2019,4.6465116279069765
+8,Progressive House,11,Electro House,147,2019,2.358139534883721
+8,Progressive House,3,Tech House,288,2019,3.6697674418604653
+8,Progressive House,22,Techno,357,2019,4.311627906976744
+8,Progressive House,201,Progressive Breaks,35,2019,1.3162790697674418
+8,Progressive House,16,Trance,152,2019,2.4046511627906977
+8,Progressive House,40,Ambient,36,2019,1.3255813953488373
+8,Progressive House,199,Chillwave,4,2019,1.027906976744186
+8,Progressive House,25,Minimal,8,2019,1.0651162790697675
+8,Progressive House,6,Acid House,10,2019,1.083720930232558
+8,Progressive House,203,Psy-Trance,9,2019,1.0744186046511628
+8,Progressive House,21,Downtempo,71,2019,1.6511627906976745
+8,Progressive House,19,Tribal,3,2019,1.0186046511627906
+8,Progressive House,15,Disco,6,2019,1.0465116279069768
+8,Progressive House,232,Dubstep,11,2019,1.0930232558139534
+8,Progressive House,32,Breakbeat,20,2019,1.1767441860465115
+8,Progressive House,179,Deep Techno,15,2019,1.130232558139535
+8,Progressive House,24,Breaks,28,2019,1.2511627906976743
+8,Progressive House,7,Euro House,15,2019,1.130232558139535
+8,Progressive House,26,Acid,11,2019,1.0930232558139534
+8,Progressive House,93,Nu-Disco,6,2019,1.0465116279069768
+8,Progressive House,81,Dance-pop,36,2019,1.3255813953488373
+8,Progressive House,65,Tropical House,18,2019,1.158139534883721
+8,Progressive House,14,Italo House,1,2019,1.0
+8,Progressive House,116,New Beat,2,2019,1.0093023255813953
+8,Progressive House,404,Neo Trance,3,2019,1.0186046511627906
+8,Progressive House,20,Electro,34,2019,1.3069767441860465
+8,Progressive House,60,Dub Techno,2,2019,1.0093023255813953
+8,Progressive House,42,Experimental,12,2019,1.1023255813953488
+8,Progressive House,97,IDM,7,2019,1.0558139534883721
+8,Progressive House,132,Neofolk,4,2019,1.027906976744186
+8,Progressive House,61,Synth-pop,8,2019,1.0651162790697675
+8,Progressive House,106,Leftfield,5,2019,1.0372093023255813
+8,Progressive House,103,Tech Trance,4,2019,1.027906976744186
+8,Progressive House,332,Synthwave,8,2019,1.0651162790697675
+8,Progressive House,23,Abstract,4,2019,1.027906976744186
+8,Progressive House,9,Tribal House,11,2019,1.0930232558139534
+8,Progressive House,5,Garage House,4,2019,1.027906976744186
+8,Progressive House,28,Funk,1,2019,1.0
+8,Progressive House,18,Italodance,12,2019,1.1023255813953488
+8,Progressive House,165,Goa Trance,1,2019,1.0
+8,Progressive House,54,Hip Hop,4,2019,1.027906976744186
+8,Progressive House,395,Trap,5,2019,1.0372093023255813
+8,Progressive House,13,Hip-House,2,2019,1.0093023255813953
+8,Progressive House,134,Minimal Techno,4,2019,1.027906976744186
+8,Progressive House,140,Rhythm & Blues,2,2019,1.0093023255813953
+8,Progressive House,74,Drum n Bass,13,2019,1.1116279069767443
+8,Progressive House,171,Glitch,3,2019,1.0186046511627906
+8,Progressive House,64,Broken Beat,2,2019,1.0093023255813953
+8,Progressive House,148,Reggaeton,9,2019,1.0744186046511628
+8,Progressive House,253,J-Core,4,2019,1.027906976744186
+8,Progressive House,449,Future House,5,2019,1.0372093023255813
+8,Progressive House,72,Hardstyle,10,2019,1.083720930232558
+8,Progressive House,245,Classical,1,2019,1.0
+8,Progressive House,444,Moombahton,2,2019,1.0093023255813953
+8,Progressive House,115,Happy Hardcore,11,2019,1.0930232558139534
+8,Progressive House,46,Big Beat,6,2019,1.0465116279069768
+8,Progressive House,125,Hardcore,7,2019,1.0558139534883721
+8,Progressive House,384,Cloud Rap,1,2019,1.0
+8,Progressive House,2,Hard House,3,2019,1.0186046511627906
+8,Progressive House,59,Hard Trance,7,2019,1.0558139534883721
+8,Progressive House,55,Donk,3,2019,1.0186046511627906
+8,Progressive House,327,Ethereal,1,2019,1.0
+8,Progressive House,447,Choral,1,2019,1.0
+8,Progressive House,98,Trip Hop,3,2019,1.0186046511627906
+8,Progressive House,281,Opera,2,2019,1.0093023255813953
+8,Progressive House,89,Pop Rock,6,2019,1.0465116279069768
+8,Progressive House,67,Eurodance,4,2019,1.027906976744186
+8,Progressive House,438,Electro Swing,1,2019,1.0
+8,Progressive House,379,Glitch Hop,1,2019,1.0
+8,Progressive House,31,Europop,2,2019,1.0093023255813953
+8,Progressive House,455,Future Bass,1,2019,1.0
+8,Progressive House,448,Vaporwave,1,2019,1.0
+8,Progressive House,99,Raï,1,2019,1.0
+8,Progressive House,58,African,1,2019,1.0
+8,Progressive House,62,RnB/Swing,2,2019,1.0093023255813953
+8,Progressive House,17,Latin,2,2019,1.0093023255813953
+8,Progressive House,363,Renaissance,1,2019,1.0
+8,Progressive House,210,Gabber,2,2019,1.0093023255813953
+8,Progressive House,202,New Wave,1,2019,1.0
+8,Progressive House,29,Dub,1,2019,1.0
+8,Progressive House,66,J-pop,4,2019,1.027906976744186
+8,Progressive House,278,Bassline,8,2019,1.0651162790697675
+8,Progressive House,34,Vocal,3,2019,1.0186046511627906
+8,Progressive House,69,Ballad,3,2019,1.0186046511627906
+8,Progressive House,136,Indie Pop,1,2019,1.0
+8,Progressive House,37,Schlager,1,2019,1.0
+8,Progressive House,137,Hands Up,3,2019,1.0186046511627906
+8,Progressive House,122,Indie Rock,3,2019,1.0186046511627906
+8,Progressive House,224,Gangsta,1,2019,1.0
+8,Progressive House,193,Thug Rap,1,2019,1.0
+8,Progressive House,190,Breakcore,1,2019,1.0
+8,Progressive House,95,Industrial,2,2019,1.0093023255813953
+8,Progressive House,152,Noise,1,2019,1.0
+8,Progressive House,44,Future Jazz,3,2019,1.0186046511627906
+8,Progressive House,215,Anison,2,2019,1.0093023255813953
+8,Progressive House,88,Pop Rap,2,2019,1.0093023255813953
+8,Progressive House,130,Conscious,1,2019,1.0
+8,Progressive House,123,Chanson,1,2019,1.0
+8,Progressive House,105,Italo-Disco,1,2019,1.0
+8,Progressive House,75,Salsa,1,2019,1.0
+8,Progressive House,237,Blues Rock,1,2019,1.0
+8,Progressive House,161,Rock & Roll,1,2019,1.0
+8,Progressive House,189,Folk Rock,1,2019,1.0
+8,Progressive House,48,Freestyle,1,2019,1.0
+8,Progressive House,51,Dancehall,1,2019,1.0
+8,Progressive House,38,Makina,1,2019,1.0
+8,Progressive House,101,Eurobeat,1,2019,1.0
+8,Progressive House,104,Alternative Rock,1,2019,1.0
+8,Progressive House,68,Soundtrack,1,2019,1.0
+8,Progressive House,100,Grime,1,2019,1.0
+8,Progressive House,111,Modern Classical,1,2019,1.0
+8,Progressive House,70,Theme,1,2019,1.0
+8,Progressive House,293,Dark Ambient,1,2019,1.0
+8,Progressive House,197,Spoken Word,1,2019,1.0
+8,Progressive House,114,EBM,1,2019,1.0
+8,Progressive House,45,UK Garage,1,2019,1.0

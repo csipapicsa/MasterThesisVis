@@ -1,0 +1,759 @@
+source_id,source_name,target_id,target_name,weight,year,width
+1,House,4,Deep House,919,2005,6.580547112462006
+1,House,6,Acid House,61,2005,1.364741641337386
+1,House,3,Tech House,563,2005,4.416413373860182
+1,House,5,Garage House,206,2005,2.2462006079027352
+1,House,8,Progressive House,369,2005,3.237082066869301
+1,House,2,Hard House,48,2005,1.2857142857142856
+1,House,7,Euro House,125,2005,1.7537993920972643
+1,House,11,Electro House,119,2005,1.7173252279635258
+1,House,9,Tribal House,171,2005,2.033434650455927
+1,House,10,French House,10,2005,1.0547112462006079
+1,House,13,Hip-House,21,2005,1.121580547112462
+1,House,17,Latin,68,2005,1.4072948328267478
+1,House,20,Electro,508,2005,4.0820668693009114
+1,House,40,Ambient,3,2005,1.012158054711246
+1,House,25,Minimal,45,2005,1.2674772036474165
+1,House,22,Techno,44,2005,1.2613981762917934
+1,House,15,Disco,121,2005,1.7294832826747721
+1,House,21,Downtempo,24,2005,1.1398176291793314
+1,House,32,Breakbeat,17,2005,1.0972644376899696
+1,House,72,Hardstyle,2,2005,1.006079027355623
+1,House,16,Trance,55,2005,1.3282674772036474
+1,House,181,Holiday,1,2005,1.0
+1,House,24,Breaks,36,2005,1.2127659574468086
+1,House,29,Dub,8,2005,1.0425531914893618
+1,House,130,Conscious,1,2005,1.0
+1,House,19,Tribal,27,2005,1.1580547112462005
+1,House,23,Abstract,6,2005,1.0303951367781155
+1,House,12,Ghetto House,1,2005,1.0
+1,House,18,Italodance,2,2005,1.006079027355623
+1,House,35,Jazzdance,5,2005,1.0243161094224924
+1,House,143,Bounce,1,2005,1.0
+1,House,47,Soul,3,2005,1.012158054711246
+1,House,26,Acid,6,2005,1.0303951367781155
+1,House,31,Europop,2,2005,1.006079027355623
+1,House,55,Donk,2,2005,1.006079027355623
+1,House,332,Synthwave,2,2005,1.006079027355623
+1,House,52,Speed Garage,8,2005,1.0425531914893618
+1,House,61,Synth-pop,4,2005,1.0182370820668694
+1,House,100,Grime,4,2005,1.0182370820668694
+1,House,45,UK Garage,1,2005,1.0
+1,House,79,MPB,1,2005,1.0
+1,House,28,Funk,3,2005,1.012158054711246
+1,House,64,Broken Beat,1,2005,1.0
+1,House,106,Leftfield,1,2005,1.0
+1,House,171,Glitch,2,2005,1.006079027355623
+1,House,51,Dancehall,1,2005,1.0
+1,House,141,Ghetto,1,2005,1.0
+1,House,128,Acid Jazz,2,2005,1.006079027355623
+1,House,62,RnB/Swing,2,2005,1.006079027355623
+1,House,89,Pop Rock,1,2005,1.0
+1,House,59,Hard Trance,1,2005,1.0
+1,House,44,Future Jazz,1,2005,1.0
+1,House,137,Hands Up,1,2005,1.0
+1,House,42,Experimental,2,2005,1.006079027355623
+1,House,54,Hip Hop,2,2005,1.006079027355623
+1,House,60,Dub Techno,1,2005,1.0
+1,House,53,Progressive Trance,1,2005,1.0
+1,House,81,Dance-pop,1,2005,1.0
+1,House,33,Kwaito,1,2005,1.0
+1,House,134,Minimal Techno,1,2005,1.0
+22,Techno,118,Hard Techno,65,2005,1.3890577507598785
+22,Techno,134,Minimal Techno,42,2005,1.249240121580547
+22,Techno,60,Dub Techno,29,2005,1.1702127659574468
+22,Techno,179,Deep Techno,8,2005,1.0425531914893618
+22,Techno,307,Schranz,39,2005,1.2310030395136777
+22,Techno,26,Acid,406,2005,3.4620060790273555
+22,Techno,25,Minimal,1100,2005,7.680851063829787
+22,Techno,1,House,733,2005,5.449848024316109
+22,Techno,176,Punk,67,2005,1.4012158054711246
+22,Techno,125,Hardcore,178,2005,2.075987841945289
+22,Techno,19,Tribal,186,2005,2.1246200607902734
+22,Techno,20,Electro,1182,2005,8.179331306990882
+22,Techno,16,Trance,418,2005,3.534954407294833
+22,Techno,72,Hardstyle,59,2005,1.3525835866261398
+22,Techno,23,Abstract,180,2005,2.0881458966565347
+22,Techno,42,Experimental,313,2005,2.896656534954407
+22,Techno,95,Industrial,133,2005,1.8024316109422491
+22,Techno,141,Ghetto,19,2005,1.1094224924012157
+22,Techno,24,Breaks,144,2005,1.8693009118541033
+22,Techno,40,Ambient,279,2005,2.689969604863222
+22,Techno,299,Freetekno,40,2005,1.237082066869301
+22,Techno,114,EBM,61,2005,1.364741641337386
+22,Techno,171,Glitch,74,2005,1.4437689969604863
+22,Techno,90,Jumpstyle,50,2005,1.297872340425532
+22,Techno,106,Leftfield,78,2005,1.4680851063829787
+22,Techno,32,Breakbeat,228,2005,2.3799392097264436
+22,Techno,67,Eurodance,23,2005,1.1337386018237081
+22,Techno,97,IDM,197,2005,2.1914893617021276
+22,Techno,3,Tech House,867,2005,6.264437689969605
+22,Techno,206,Electroclash,17,2005,1.0972644376899696
+22,Techno,21,Downtempo,178,2005,2.075987841945289
+22,Techno,15,Disco,59,2005,1.3525835866261398
+22,Techno,245,Classical,2,2005,1.006079027355623
+22,Techno,4,Deep House,143,2005,1.8632218844984803
+22,Techno,180,Speech,2,2005,1.006079027355623
+22,Techno,64,Broken Beat,56,2005,1.3343465045592704
+22,Techno,38,Makina,8,2005,1.0425531914893618
+22,Techno,6,Acid House,78,2005,1.4680851063829787
+22,Techno,59,Hard Trance,147,2005,1.8875379939209727
+22,Techno,2,Hard House,185,2005,2.11854103343465
+22,Techno,8,Progressive House,184,2005,2.1124620060790273
+22,Techno,52,Speed Garage,1,2005,1.0
+22,Techno,53,Progressive Trance,93,2005,1.559270516717325
+22,Techno,103,Tech Trance,27,2005,1.1580547112462005
+22,Techno,165,Goa Trance,8,2005,1.0425531914893618
+22,Techno,202,New Wave,21,2005,1.121580547112462
+22,Techno,333,Speedcore,5,2005,1.0243161094224924
+22,Techno,342,Bleep,1,2005,1.0
+22,Techno,61,Synth-pop,172,2005,2.0395136778115504
+22,Techno,210,Gabber,26,2005,1.1519756838905775
+22,Techno,28,Funk,12,2005,1.0668693009118542
+22,Techno,29,Dub,54,2005,1.3221884498480243
+22,Techno,105,Italo-Disco,19,2005,1.1094224924012157
+22,Techno,101,Eurobeat,9,2005,1.0486322188449848
+22,Techno,17,Latin,26,2005,1.1519756838905775
+22,Techno,12,Ghetto House,4,2005,1.0182370820668694
+22,Techno,102,Jungle,34,2005,1.2006079027355623
+22,Techno,115,Happy Hardcore,26,2005,1.1519756838905775
+22,Techno,232,Dubstep,6,2005,1.0303951367781155
+22,Techno,120,Bossanova,3,2005,1.012158054711246
+22,Techno,18,Italodance,33,2005,1.1945288753799392
+22,Techno,11,Electro House,69,2005,1.4133738601823709
+22,Techno,190,Breakcore,24,2005,1.1398176291793314
+22,Techno,7,Euro House,133,2005,1.8024316109422491
+22,Techno,159,Lento Violento,4,2005,1.0182370820668694
+22,Techno,212,Rhythmic Noise,20,2005,1.115501519756839
+22,Techno,9,Tribal House,24,2005,1.1398176291793314
+22,Techno,311,Krautrock,8,2005,1.0425531914893618
+22,Techno,137,Hands Up,5,2005,1.0243161094224924
+22,Techno,178,Ghettotech,4,2005,1.0182370820668694
+22,Techno,74,Drum n Bass,107,2005,1.6443768996960486
+22,Techno,100,Grime,8,2005,1.0425531914893618
+22,Techno,45,UK Garage,6,2005,1.0303951367781155
+22,Techno,46,Big Beat,73,2005,1.4376899696048633
+22,Techno,98,Trip Hop,18,2005,1.1033434650455927
+22,Techno,160,Special Effects,1,2005,1.0
+22,Techno,104,Alternative Rock,49,2005,1.2917933130699089
+22,Techno,44,Future Jazz,27,2005,1.1580547112462005
+22,Techno,156,Post Rock,8,2005,1.0425531914893618
+22,Techno,292,Norteño,5,2005,1.0243161094224924
+22,Techno,116,New Beat,10,2005,1.0547112462006079
+22,Techno,379,Glitch Hop,2,2005,1.006079027355623
+22,Techno,147,Cut-up/DJ,4,2005,1.0182370820668694
+22,Techno,5,Garage House,9,2005,1.0486322188449848
+22,Techno,88,Pop Rap,14,2005,1.0790273556231003
+22,Techno,294,Bass Music,5,2005,1.0243161094224924
+22,Techno,152,Noise,32,2005,1.1884498480243162
+22,Techno,183,Parody,4,2005,1.0182370820668694
+22,Techno,122,Indie Rock,40,2005,1.237082066869301
+22,Techno,203,Psy-Trance,27,2005,1.1580547112462005
+22,Techno,396,Banda,1,2005,1.0
+22,Techno,250,Prog Rock,5,2005,1.0243161094224924
+22,Techno,54,Hip Hop,40,2005,1.237082066869301
+22,Techno,13,Hip-House,9,2005,1.0486322188449848
+22,Techno,84,Hi NRG,7,2005,1.0364741641337385
+22,Techno,205,Avantgarde,12,2005,1.0668693009118542
+22,Techno,358,Soukous,2,2005,1.006079027355623
+22,Techno,215,Anison,6,2005,1.0303951367781155
+22,Techno,14,Italo House,4,2005,1.0182370820668694
+22,Techno,352,Hard Beat,1,2005,1.0
+22,Techno,140,Rhythm & Blues,3,2005,1.012158054711246
+22,Techno,80,Novelty,2,2005,1.006079027355623
+22,Techno,225,Chiptune,19,2005,1.1094224924012157
+22,Techno,51,Dancehall,5,2005,1.0243161094224924
+22,Techno,322,Death Metal,4,2005,1.0182370820668694
+22,Techno,201,Progressive Breaks,5,2005,1.0243161094224924
+22,Techno,252,Nerdcore Techno,2,2005,1.006079027355623
+22,Techno,123,Chanson,3,2005,1.012158054711246
+22,Techno,43,Rumba,6,2005,1.0303951367781155
+22,Techno,323,Darkwave,3,2005,1.012158054711246
+22,Techno,188,Laïkó,1,2005,1.0
+22,Techno,68,Soundtrack,18,2005,1.1033434650455927
+22,Techno,77,Euro-Disco,7,2005,1.0364741641337385
+22,Techno,81,Dance-pop,28,2005,1.1641337386018238
+22,Techno,85,Acoustic,6,2005,1.0303951367781155
+22,Techno,218,Heavy Metal,18,2005,1.1033434650455927
+22,Techno,70,Theme,3,2005,1.012158054711246
+22,Techno,357,Favela Funk,1,2005,1.0
+22,Techno,387,Post-Modern,1,2005,1.0
+22,Techno,34,Vocal,13,2005,1.0729483282674772
+22,Techno,107,Folk,7,2005,1.0364741641337385
+22,Techno,31,Europop,14,2005,1.0790273556231003
+22,Techno,89,Pop Rock,50,2005,1.297872340425532
+22,Techno,66,J-pop,13,2005,1.0729483282674772
+22,Techno,268,Thrash,2,2005,1.006079027355623
+22,Techno,132,Neofolk,3,2005,1.012158054711246
+22,Techno,157,Interview,4,2005,1.0182370820668694
+22,Techno,111,Modern Classical,20,2005,1.115501519756839
+22,Techno,150,Illbient,4,2005,1.0182370820668694
+22,Techno,230,Britpop,3,2005,1.012158054711246
+22,Techno,35,Jazzdance,1,2005,1.0
+22,Techno,200,Smooth Jazz,1,2005,1.0
+22,Techno,163,Video Game Music,17,2005,1.0972644376899696
+22,Techno,369,Field Recording,2,2005,1.006079027355623
+22,Techno,48,Freestyle,7,2005,1.0364741641337385
+22,Techno,49,Jazz-Funk,2,2005,1.006079027355623
+22,Techno,149,Ragga,6,2005,1.0303951367781155
+22,Techno,58,African,2,2005,1.006079027355623
+22,Techno,130,Conscious,3,2005,1.012158054711246
+22,Techno,293,Dark Ambient,9,2005,1.0486322188449848
+22,Techno,327,Ethereal,4,2005,1.0182370820668694
+22,Techno,128,Acid Jazz,11,2005,1.060790273556231
+22,Techno,228,Crunk,1,2005,1.0
+22,Techno,198,New Age,5,2005,1.0243161094224924
+22,Techno,216,Symphonic Rock,5,2005,1.0243161094224924
+22,Techno,234,Post-Punk,3,2005,1.012158054711246
+22,Techno,189,Folk Rock,17,2005,1.0972644376899696
+22,Techno,69,Ballad,15,2005,1.0851063829787233
+22,Techno,281,Opera,1,2005,1.0
+22,Techno,173,Hard Rock,14,2005,1.0790273556231003
+22,Techno,347,Black Metal,1,2005,1.0
+22,Techno,214,Psychedelic Rock,8,2005,1.0425531914893618
+22,Techno,169,Flamenco,5,2005,1.0243161094224924
+22,Techno,174,Lo-Fi,13,2005,1.0729483282674772
+22,Techno,144,Cha-Cha,1,2005,1.0
+22,Techno,374,Progressive Metal,1,2005,1.0
+22,Techno,182,Balearic,1,2005,1.0
+22,Techno,108,Axé,1,2005,1.0
+22,Techno,117,Pachanga,1,2005,1.0
+22,Techno,37,Schlager,5,2005,1.0243161094224924
+22,Techno,110,Soft Rock,9,2005,1.0486322188449848
+22,Techno,109,Reggae,1,2005,1.0
+22,Techno,185,Score,7,2005,1.0364741641337385
+22,Techno,155,Beatdown,2,2005,1.006079027355623
+22,Techno,318,Afro-Cuban Jazz,1,2005,1.0
+22,Techno,187,Latin Jazz,2,2005,1.006079027355623
+22,Techno,83,Lounge,3,2005,1.012158054711246
+22,Techno,135,Arena Rock,1,2005,1.0
+22,Techno,62,RnB/Swing,16,2005,1.0911854103343466
+22,Techno,253,J-Core,5,2005,1.0243161094224924
+22,Techno,361,J-Rock,2,2005,1.006079027355623
+22,Techno,348,Enka,1,2005,1.0
+22,Techno,209,K-pop,3,2005,1.012158054711246
+22,Techno,224,Gangsta,3,2005,1.012158054711246
+22,Techno,397,Horror Rock,1,2005,1.0
+22,Techno,148,Reggaeton,1,2005,1.0
+22,Techno,146,Nu Metal,1,2005,1.0
+22,Techno,314,Emo,1,2005,1.0
+22,Techno,71,Gospel,1,2005,1.0
+22,Techno,282,Goth Rock,3,2005,1.012158054711246
+22,Techno,321,Gothic Metal,1,2005,1.0
+22,Techno,336,Industrial Metal,2,2005,1.006079027355623
+22,Techno,263,Glam,1,2005,1.0
+22,Techno,217,Contemporary Jazz,2,2005,1.006079027355623
+22,Techno,338,Aboriginal,1,2005,1.0
+22,Techno,213,Instrumental,2,2005,1.006079027355623
+22,Techno,267,Garage Rock,5,2005,1.0243161094224924
+22,Techno,251,Drone,2,2005,1.006079027355623
+22,Techno,219,Poetry,1,2005,1.0
+22,Techno,313,Power Electronics,2,2005,1.006079027355623
+22,Techno,227,Pop Punk,1,2005,1.0
+22,Techno,47,Soul,5,2005,1.0243161094224924
+22,Techno,121,Ragga HipHop,4,2005,1.0182370820668694
+22,Techno,143,Bounce,3,2005,1.012158054711246
+22,Techno,193,Thug Rap,1,2005,1.0
+22,Techno,50,Contemporary,2,2005,1.006079027355623
+22,Techno,113,Contemporary R&B,3,2005,1.012158054711246
+22,Techno,161,Rock & Roll,3,2005,1.012158054711246
+22,Techno,138,Country Rock,5,2005,1.0243161094224924
+22,Techno,391,Symphonic Metal,1,2005,1.0
+22,Techno,350,Miami Bass,1,2005,1.0
+22,Techno,259,Turntablism,1,2005,1.0
+22,Techno,154,Ska,3,2005,1.012158054711246
+22,Techno,269,Art Rock,3,2005,1.012158054711246
+22,Techno,398,Hyphy,1,2005,1.0
+22,Techno,166,Neo Soul,4,2005,1.0182370820668694
+22,Techno,175,Surf,2,2005,1.006079027355623
+22,Techno,399,Psychobilly,2,2005,1.006079027355623
+22,Techno,400,Texas Blues,1,2005,1.0
+22,Techno,142,Country,2,2005,1.006079027355623
+22,Techno,172,Classic Rock,4,2005,1.0182370820668694
+22,Techno,360,Avant-garde Jazz,1,2005,1.0
+22,Techno,229,Sound Collage,1,2005,1.0
+22,Techno,197,Spoken Word,1,2005,1.0
+22,Techno,300,Grunge,1,2005,1.0
+22,Techno,270,Rockabilly,1,2005,1.0
+22,Techno,298,Free Jazz,2,2005,1.006079027355623
+22,Techno,339,Musique Concrète,1,2005,1.0
+22,Techno,112,Fusion,1,2005,1.0
+22,Techno,351,Funk Metal,1,2005,1.0
+22,Techno,290,Shoegaze,1,2005,1.0
+22,Techno,401,Sunshine Pop,1,2005,1.0
+22,Techno,162,Psychedelic,1,2005,1.0
+22,Techno,119,Easy Listening,2,2005,1.006079027355623
+22,Techno,131,P.Funk,1,2005,1.0
+22,Techno,129,Reggae-Pop,2,2005,1.006079027355623
+22,Techno,248,Soul-Jazz,1,2005,1.0
+22,Techno,395,Trap,1,2005,1.0
+22,Techno,237,Blues Rock,2,2005,1.006079027355623
+22,Techno,177,Ambient House,1,2005,1.0
+22,Techno,136,Indie Pop,1,2005,1.0
+22,Techno,402,Disco Polo,1,2005,1.0
+22,Techno,378,Noise Rock,1,2005,1.0
+22,Techno,320,Math Rock,1,2005,1.0
+22,Techno,306,Space Rock,1,2005,1.0
+3,Tech House,1,House,1183,2005,8.185410334346503
+3,Tech House,103,Tech Trance,9,2005,1.0486322188449848
+3,Tech House,8,Progressive House,498,2005,4.0212765957446805
+3,Tech House,4,Deep House,765,2005,5.644376899696049
+3,Tech House,20,Electro,975,2005,6.920972644376899
+3,Tech House,25,Minimal,1113,2005,7.759878419452887
+3,Tech House,29,Dub,72,2005,1.43161094224924
+3,Tech House,9,Tribal House,89,2005,1.534954407294833
+3,Tech House,19,Tribal,59,2005,1.3525835866261398
+3,Tech House,11,Electro House,184,2005,2.1124620060790273
+3,Tech House,6,Acid House,136,2005,1.8206686930091185
+3,Tech House,22,Techno,864,2005,6.246200607902735
+3,Tech House,7,Euro House,97,2005,1.5835866261398177
+3,Tech House,15,Disco,89,2005,1.534954407294833
+3,Tech House,24,Breaks,120,2005,1.7234042553191489
+3,Tech House,16,Trance,154,2005,1.9300911854103342
+3,Tech House,26,Acid,105,2005,1.6322188449848025
+3,Tech House,42,Experimental,61,2005,1.364741641337386
+3,Tech House,150,Illbient,2,2005,1.006079027355623
+3,Tech House,171,Glitch,50,2005,1.297872340425532
+3,Tech House,21,Downtempo,173,2005,2.045592705167173
+3,Tech House,5,Garage House,14,2005,1.0790273556231003
+3,Tech House,32,Breakbeat,68,2005,1.4072948328267478
+3,Tech House,23,Abstract,45,2005,1.2674772036474165
+3,Tech House,35,Jazzdance,6,2005,1.0303951367781155
+3,Tech House,206,Electroclash,12,2005,1.0668693009118542
+3,Tech House,18,Italodance,24,2005,1.1398176291793314
+3,Tech House,13,Hip-House,7,2005,1.0364741641337385
+3,Tech House,17,Latin,20,2005,1.115501519756839
+3,Tech House,106,Leftfield,56,2005,1.3343465045592704
+3,Tech House,2,Hard House,18,2005,1.1033434650455927
+3,Tech House,60,Dub Techno,39,2005,1.2310030395136777
+3,Tech House,64,Broken Beat,40,2005,1.237082066869301
+3,Tech House,81,Dance-pop,21,2005,1.121580547112462
+3,Tech House,40,Ambient,80,2005,1.4802431610942248
+3,Tech House,352,Hard Beat,1,2005,1.0
+3,Tech House,61,Synth-pop,138,2005,1.8328267477203646
+3,Tech House,104,Alternative Rock,28,2005,1.1641337386018238
+3,Tech House,134,Minimal Techno,65,2005,1.3890577507598785
+3,Tech House,176,Punk,5,2005,1.0243161094224924
+3,Tech House,53,Progressive Trance,76,2005,1.4559270516717326
+3,Tech House,46,Big Beat,64,2005,1.3829787234042552
+3,Tech House,97,IDM,42,2005,1.249240121580547
+3,Tech House,105,Italo-Disco,10,2005,1.0547112462006079
+3,Tech House,179,Deep Techno,4,2005,1.0182370820668694
+3,Tech House,59,Hard Trance,31,2005,1.182370820668693
+3,Tech House,54,Hip Hop,19,2005,1.1094224924012157
+3,Tech House,34,Vocal,2,2005,1.006079027355623
+3,Tech House,137,Hands Up,8,2005,1.0425531914893618
+3,Tech House,84,Hi NRG,4,2005,1.0182370820668694
+3,Tech House,45,UK Garage,5,2005,1.0243161094224924
+3,Tech House,93,Nu-Disco,4,2005,1.0182370820668694
+3,Tech House,122,Indie Rock,21,2005,1.121580547112462
+3,Tech House,14,Italo House,1,2005,1.0
+3,Tech House,118,Hard Techno,4,2005,1.0182370820668694
+3,Tech House,90,Jumpstyle,6,2005,1.0303951367781155
+3,Tech House,109,Reggae,1,2005,1.0
+3,Tech House,292,Norteño,1,2005,1.0
+3,Tech House,396,Banda,1,2005,1.0
+3,Tech House,294,Bass Music,4,2005,1.0182370820668694
+3,Tech House,95,Industrial,8,2005,1.0425531914893618
+3,Tech House,44,Future Jazz,47,2005,1.2796352583586625
+3,Tech House,152,Noise,3,2005,1.012158054711246
+3,Tech House,88,Pop Rap,44,2005,1.2613981762917934
+3,Tech House,205,Avantgarde,3,2005,1.012158054711246
+3,Tech House,202,New Wave,9,2005,1.0486322188449848
+3,Tech House,74,Drum n Bass,22,2005,1.127659574468085
+3,Tech House,284,DJ Battle Tool,1,2005,1.0
+3,Tech House,215,Anison,1,2005,1.0
+3,Tech House,320,Math Rock,1,2005,1.0
+3,Tech House,68,Soundtrack,3,2005,1.012158054711246
+3,Tech House,185,Score,1,2005,1.0
+3,Tech House,189,Folk Rock,1,2005,1.0
+3,Tech House,147,Cut-up/DJ,2,2005,1.006079027355623
+3,Tech House,10,French House,1,2005,1.0
+3,Tech House,62,RnB/Swing,15,2005,1.0851063829787233
+3,Tech House,31,Europop,16,2005,1.0911854103343466
+3,Tech House,98,Trip Hop,10,2005,1.0547112462006079
+3,Tech House,155,Beatdown,1,2005,1.0
+3,Tech House,72,Hardstyle,12,2005,1.0668693009118542
+3,Tech House,203,Psy-Trance,11,2005,1.060790273556231
+3,Tech House,128,Acid Jazz,6,2005,1.0303951367781155
+3,Tech House,41,Microhouse,1,2005,1.0
+3,Tech House,89,Pop Rock,34,2005,1.2006079027355623
+3,Tech House,166,Neo Soul,1,2005,1.0
+3,Tech House,69,Ballad,2,2005,1.006079027355623
+3,Tech House,47,Soul,5,2005,1.0243161094224924
+3,Tech House,140,Rhythm & Blues,2,2005,1.006079027355623
+3,Tech House,125,Hardcore,5,2005,1.0243161094224924
+3,Tech House,157,Interview,2,2005,1.006079027355623
+3,Tech House,100,Grime,1,2005,1.0
+3,Tech House,67,Eurodance,9,2005,1.0486322188449848
+3,Tech House,30,Afrobeat,2,2005,1.006079027355623
+3,Tech House,113,Contemporary R&B,4,2005,1.0182370820668694
+3,Tech House,290,Shoegaze,2,2005,1.006079027355623
+3,Tech House,323,Darkwave,1,2005,1.0
+3,Tech House,114,EBM,2,2005,1.006079027355623
+3,Tech House,28,Funk,15,2005,1.0851063829787233
+3,Tech House,123,Chanson,4,2005,1.0182370820668694
+3,Tech House,130,Conscious,2,2005,1.006079027355623
+3,Tech House,77,Euro-Disco,5,2005,1.0243161094224924
+3,Tech House,187,Latin Jazz,2,2005,1.006079027355623
+3,Tech House,148,Reggaeton,2,2005,1.006079027355623
+3,Tech House,230,Britpop,1,2005,1.0
+3,Tech House,173,Hard Rock,1,2005,1.0
+3,Tech House,337,Cantopop,1,2005,1.0
+3,Tech House,51,Dancehall,2,2005,1.006079027355623
+3,Tech House,278,Bassline,1,2005,1.0
+3,Tech House,285,Beatbox,1,2005,1.0
+3,Tech House,141,Ghetto,2,2005,1.006079027355623
+3,Tech House,225,Chiptune,5,2005,1.0243161094224924
+3,Tech House,115,Happy Hardcore,8,2005,1.0425531914893618
+3,Tech House,165,Goa Trance,1,2005,1.0
+3,Tech House,293,Dark Ambient,2,2005,1.006079027355623
+3,Tech House,94,Bubblegum,3,2005,1.012158054711246
+3,Tech House,83,Lounge,1,2005,1.0
+3,Tech House,119,Easy Listening,1,2005,1.0
+3,Tech House,221,Swing,2,2005,1.006079027355623
+3,Tech House,330,Chicago Blues,1,2005,1.0
+3,Tech House,132,Neofolk,1,2005,1.0
+3,Tech House,237,Blues Rock,1,2005,1.0
+3,Tech House,102,Jungle,1,2005,1.0
+3,Tech House,227,Pop Punk,1,2005,1.0
+3,Tech House,240,Power Pop,1,2005,1.0
+3,Tech House,232,Dubstep,2,2005,1.006079027355623
+3,Tech House,313,Power Electronics,1,2005,1.0
+3,Tech House,58,African,1,2005,1.0
+3,Tech House,210,Gabber,1,2005,1.0
+3,Tech House,85,Acoustic,1,2005,1.0
+3,Tech House,110,Soft Rock,4,2005,1.0182370820668694
+3,Tech House,172,Classic Rock,1,2005,1.0
+3,Tech House,238,Pub Rock,1,2005,1.0
+3,Tech House,138,Country Rock,2,2005,1.006079027355623
+3,Tech House,169,Flamenco,1,2005,1.0
+3,Tech House,107,Folk,1,2005,1.0
+3,Tech House,136,Indie Pop,1,2005,1.0
+3,Tech House,177,Ambient House,1,2005,1.0
+3,Tech House,76,Promotional,6,2005,1.0303951367781155
+3,Tech House,407,Monolog,6,2005,1.0303951367781155
+3,Tech House,192,Bossa Nova,2,2005,1.006079027355623
+3,Tech House,248,Soul-Jazz,2,2005,1.006079027355623
+3,Tech House,212,Rhythmic Noise,1,2005,1.0
+3,Tech House,267,Garage Rock,1,2005,1.0
+3,Tech House,314,Emo,1,2005,1.0
+3,Tech House,318,Afro-Cuban Jazz,1,2005,1.0
+3,Tech House,377,Oi,1,2005,1.0
+3,Tech House,131,P.Funk,1,2005,1.0
+3,Tech House,178,Ghettotech,1,2005,1.0
+8,Progressive House,53,Progressive Trance,565,2005,4.428571428571429
+8,Progressive House,1,House,1167,2005,8.088145896656535
+8,Progressive House,201,Progressive Breaks,59,2005,1.3525835866261398
+8,Progressive House,3,Tech House,511,2005,4.100303951367781
+8,Progressive House,11,Electro House,176,2005,2.0638297872340425
+8,Progressive House,7,Euro House,124,2005,1.7477203647416415
+8,Progressive House,9,Tribal House,295,2005,2.7872340425531914
+8,Progressive House,19,Tribal,129,2005,1.778115501519757
+8,Progressive House,17,Latin,19,2005,1.1094224924012157
+8,Progressive House,20,Electro,384,2005,3.3282674772036476
+8,Progressive House,6,Acid House,25,2005,1.1458966565349544
+8,Progressive House,25,Minimal,38,2005,1.2249240121580547
+8,Progressive House,16,Trance,338,2005,3.048632218844985
+8,Progressive House,4,Deep House,160,2005,1.966565349544073
+8,Progressive House,32,Breakbeat,115,2005,1.6930091185410334
+8,Progressive House,24,Breaks,384,2005,3.3282674772036476
+8,Progressive House,15,Disco,47,2005,1.2796352583586625
+8,Progressive House,2,Hard House,77,2005,1.4620060790273557
+8,Progressive House,21,Downtempo,171,2005,2.033434650455927
+8,Progressive House,22,Techno,189,2005,2.142857142857143
+8,Progressive House,26,Acid,19,2005,1.1094224924012157
+8,Progressive House,5,Garage House,34,2005,1.2006079027355623
+8,Progressive House,225,Chiptune,3,2005,1.012158054711246
+8,Progressive House,59,Hard Trance,34,2005,1.2006079027355623
+8,Progressive House,61,Synth-pop,84,2005,1.5045592705167175
+8,Progressive House,60,Dub Techno,2,2005,1.006079027355623
+8,Progressive House,89,Pop Rock,56,2005,1.3343465045592704
+8,Progressive House,203,Psy-Trance,17,2005,1.0972644376899696
+8,Progressive House,122,Indie Rock,13,2005,1.0729483282674772
+8,Progressive House,93,Nu-Disco,14,2005,1.0790273556231003
+8,Progressive House,54,Hip Hop,14,2005,1.0790273556231003
+8,Progressive House,90,Jumpstyle,4,2005,1.0182370820668694
+8,Progressive House,404,Neo Trance,1,2005,1.0
+8,Progressive House,98,Trip Hop,15,2005,1.0851063829787233
+8,Progressive House,40,Ambient,60,2005,1.358662613981763
+8,Progressive House,206,Electroclash,14,2005,1.0790273556231003
+8,Progressive House,46,Big Beat,16,2005,1.0911854103343466
+8,Progressive House,106,Leftfield,18,2005,1.1033434650455927
+8,Progressive House,160,Special Effects,1,2005,1.0
+8,Progressive House,62,RnB/Swing,29,2005,1.1702127659574468
+8,Progressive House,146,Nu Metal,3,2005,1.012158054711246
+8,Progressive House,114,EBM,2,2005,1.006079027355623
+8,Progressive House,84,Hi NRG,10,2005,1.0547112462006079
+8,Progressive House,74,Drum n Bass,20,2005,1.115501519756839
+8,Progressive House,284,DJ Battle Tool,1,2005,1.0
+8,Progressive House,171,Glitch,1,2005,1.0
+8,Progressive House,97,IDM,7,2005,1.0364741641337385
+8,Progressive House,95,Industrial,7,2005,1.0364741641337385
+8,Progressive House,152,Noise,2,2005,1.006079027355623
+8,Progressive House,67,Eurodance,9,2005,1.0486322188449848
+8,Progressive House,35,Jazzdance,1,2005,1.0
+8,Progressive House,45,UK Garage,9,2005,1.0486322188449848
+8,Progressive House,69,Ballad,21,2005,1.121580547112462
+8,Progressive House,18,Italodance,7,2005,1.0364741641337385
+8,Progressive House,31,Europop,31,2005,1.182370820668693
+8,Progressive House,42,Experimental,12,2005,1.0668693009118542
+8,Progressive House,52,Speed Garage,7,2005,1.0364741641337385
+8,Progressive House,103,Tech Trance,4,2005,1.0182370820668694
+8,Progressive House,100,Grime,2,2005,1.006079027355623
+8,Progressive House,165,Goa Trance,3,2005,1.012158054711246
+8,Progressive House,81,Dance-pop,43,2005,1.2553191489361701
+8,Progressive House,166,Neo Soul,3,2005,1.012158054711246
+8,Progressive House,55,Donk,2,2005,1.006079027355623
+8,Progressive House,86,Health-Fitness,2,2005,1.006079027355623
+8,Progressive House,28,Funk,5,2005,1.0243161094224924
+8,Progressive House,47,Soul,13,2005,1.0729483282674772
+8,Progressive House,75,Salsa,1,2005,1.0
+8,Progressive House,38,Makina,2,2005,1.006079027355623
+8,Progressive House,182,Balearic,2,2005,1.006079027355623
+8,Progressive House,23,Abstract,7,2005,1.0364741641337385
+8,Progressive House,68,Soundtrack,8,2005,1.0425531914893618
+8,Progressive House,104,Alternative Rock,13,2005,1.0729483282674772
+8,Progressive House,44,Future Jazz,7,2005,1.0364741641337385
+8,Progressive House,199,Chillwave,1,2005,1.0
+8,Progressive House,115,Happy Hardcore,7,2005,1.0364741641337385
+8,Progressive House,163,Video Game Music,3,2005,1.012158054711246
+8,Progressive House,88,Pop Rap,23,2005,1.1337386018237081
+8,Progressive House,113,Contemporary R&B,19,2005,1.1094224924012157
+8,Progressive House,134,Minimal Techno,2,2005,1.006079027355623
+8,Progressive House,130,Conscious,4,2005,1.0182370820668694
+8,Progressive House,137,Hands Up,10,2005,1.0547112462006079
+8,Progressive House,129,Reggae-Pop,2,2005,1.006079027355623
+8,Progressive House,110,Soft Rock,7,2005,1.0364741641337385
+8,Progressive House,176,Punk,2,2005,1.006079027355623
+8,Progressive House,125,Hardcore,4,2005,1.0182370820668694
+8,Progressive House,51,Dancehall,3,2005,1.012158054711246
+8,Progressive House,34,Vocal,10,2005,1.0547112462006079
+8,Progressive House,227,Pop Punk,2,2005,1.006079027355623
+8,Progressive House,240,Power Pop,2,2005,1.006079027355623
+8,Progressive House,13,Hip-House,6,2005,1.0303951367781155
+8,Progressive House,64,Broken Beat,1,2005,1.0
+8,Progressive House,105,Italo-Disco,6,2005,1.0303951367781155
+8,Progressive House,178,Ghettotech,1,2005,1.0
+8,Progressive House,202,New Wave,4,2005,1.0182370820668694
+8,Progressive House,29,Dub,8,2005,1.0425531914893618
+8,Progressive House,149,Ragga,1,2005,1.0
+8,Progressive House,183,Parody,1,2005,1.0
+8,Progressive House,128,Acid Jazz,1,2005,1.0
+8,Progressive House,148,Reggaeton,5,2005,1.0243161094224924
+8,Progressive House,107,Folk,1,2005,1.0
+8,Progressive House,263,Glam,1,2005,1.0
+8,Progressive House,85,Acoustic,4,2005,1.0182370820668694
+8,Progressive House,136,Indie Pop,4,2005,1.0182370820668694
+8,Progressive House,77,Euro-Disco,3,2005,1.012158054711246
+8,Progressive House,101,Eurobeat,1,2005,1.0
+8,Progressive House,210,Gabber,1,2005,1.0
+8,Progressive House,72,Hardstyle,4,2005,1.0182370820668694
+8,Progressive House,188,Laïkó,1,2005,1.0
+8,Progressive House,278,Bassline,1,2005,1.0
+8,Progressive House,294,Bass Music,1,2005,1.0
+8,Progressive House,285,Beatbox,1,2005,1.0
+8,Progressive House,204,Jazzy Hip-Hop,1,2005,1.0
+8,Progressive House,111,Modern Classical,5,2005,1.0243161094224924
+8,Progressive House,290,Shoegaze,1,2005,1.0
+8,Progressive House,58,African,1,2005,1.0
+8,Progressive House,30,Afrobeat,1,2005,1.0
+8,Progressive House,175,Surf,3,2005,1.012158054711246
+8,Progressive House,123,Chanson,1,2005,1.0
+8,Progressive House,144,Cha-Cha,2,2005,1.006079027355623
+8,Progressive House,209,K-pop,1,2005,1.0
+8,Progressive House,76,Promotional,1,2005,1.0
+8,Progressive House,224,Gangsta,3,2005,1.012158054711246
+8,Progressive House,228,Crunk,2,2005,1.006079027355623
+8,Progressive House,132,Neofolk,1,2005,1.0
+8,Progressive House,249,Public Broadcast,1,2005,1.0
+8,Progressive House,200,Smooth Jazz,1,2005,1.0
+8,Progressive House,185,Score,4,2005,1.0182370820668694
+8,Progressive House,237,Blues Rock,1,2005,1.0
+8,Progressive House,121,Ragga HipHop,5,2005,1.0243161094224924
+8,Progressive House,14,Italo House,2,2005,1.006079027355623
+8,Progressive House,193,Thug Rap,1,2005,1.0
+8,Progressive House,49,Jazz-Funk,2,2005,1.006079027355623
+8,Progressive House,230,Britpop,2,2005,1.006079027355623
+8,Progressive House,156,Post Rock,3,2005,1.012158054711246
+8,Progressive House,407,Monolog,1,2005,1.0
+8,Progressive House,189,Folk Rock,3,2005,1.012158054711246
+8,Progressive House,198,New Age,3,2005,1.012158054711246
+8,Progressive House,70,Theme,2,2005,1.006079027355623
+8,Progressive House,360,Avant-garde Jazz,1,2005,1.0
+8,Progressive House,172,Classic Rock,1,2005,1.0
+8,Progressive House,267,Garage Rock,1,2005,1.0
+8,Progressive House,140,Rhythm & Blues,2,2005,1.006079027355623
+8,Progressive House,138,Country Rock,1,2005,1.0
+8,Progressive House,119,Easy Listening,1,2005,1.0
+8,Progressive House,324,Power Metal,1,2005,1.0
+8,Progressive House,218,Heavy Metal,1,2005,1.0
+8,Progressive House,325,Modern Electric Blues,1,2005,1.0
+8,Progressive House,213,Instrumental,1,2005,1.0
+8,Progressive House,216,Symphonic Rock,1,2005,1.0
+8,Progressive House,321,Gothic Metal,1,2005,1.0
+8,Progressive House,250,Prog Rock,1,2005,1.0
+8,Progressive House,306,Space Rock,1,2005,1.0
+8,Progressive House,142,Country,1,2005,1.0
+8,Progressive House,71,Gospel,1,2005,1.0
+8,Progressive House,322,Death Metal,1,2005,1.0
+8,Progressive House,277,Speed Metal,1,2005,1.0
+8,Progressive House,109,Reggae,1,2005,1.0
+8,Progressive House,173,Hard Rock,1,2005,1.0
+8,Progressive House,217,Contemporary Jazz,1,2005,1.0
+4,Deep House,1,House,1646,2005,11.0
+4,Deep House,3,Tech House,748,2005,5.541033434650456
+4,Deep House,15,Disco,133,2005,1.8024316109422491
+4,Deep House,9,Tribal House,83,2005,1.4984802431610942
+4,Deep House,20,Electro,185,2005,2.11854103343465
+4,Deep House,8,Progressive House,168,2005,2.0151975683890577
+4,Deep House,21,Downtempo,378,2005,3.291793313069909
+4,Deep House,25,Minimal,162,2005,1.978723404255319
+4,Deep House,5,Garage House,139,2005,1.8389057750759878
+4,Deep House,17,Latin,73,2005,1.4376899696048633
+4,Deep House,29,Dub,55,2005,1.3282674772036474
+4,Deep House,19,Tribal,36,2005,1.2127659574468086
+4,Deep House,22,Techno,135,2005,1.8145896656534954
+4,Deep House,13,Hip-House,16,2005,1.0911854103343466
+4,Deep House,35,Jazzdance,32,2005,1.1884498480243162
+4,Deep House,16,Trance,53,2005,1.3161094224924013
+4,Deep House,40,Ambient,98,2005,1.5896656534954408
+4,Deep House,47,Soul,27,2005,1.1580547112462005
+4,Deep House,32,Breakbeat,32,2005,1.1884498480243162
+4,Deep House,42,Experimental,24,2005,1.1398176291793314
+4,Deep House,6,Acid House,46,2005,1.2735562310030395
+4,Deep House,28,Funk,19,2005,1.1094224924012157
+4,Deep House,24,Breaks,45,2005,1.2674772036474165
+4,Deep House,311,Krautrock,5,2005,1.0243161094224924
+4,Deep House,11,Electro House,43,2005,1.2553191489361701
+4,Deep House,10,French House,2,2005,1.006079027355623
+4,Deep House,2,Hard House,11,2005,1.060790273556231
+4,Deep House,33,Kwaito,1,2005,1.0
+4,Deep House,106,Leftfield,17,2005,1.0972644376899696
+4,Deep House,23,Abstract,24,2005,1.1398176291793314
+4,Deep House,98,Trip Hop,45,2005,1.2674772036474165
+4,Deep House,79,MPB,3,2005,1.012158054711246
+4,Deep House,44,Future Jazz,197,2005,2.1914893617021276
+4,Deep House,465,Delta Blues,1,2005,1.0
+4,Deep House,7,Euro House,27,2005,1.1580547112462005
+4,Deep House,54,Hip Hop,34,2005,1.2006079027355623
+4,Deep House,62,RnB/Swing,15,2005,1.0851063829787233
+4,Deep House,26,Acid,7,2005,1.0364741641337385
+4,Deep House,105,Italo-Disco,8,2005,1.0425531914893618
+4,Deep House,64,Broken Beat,156,2005,1.9422492401215805
+4,Deep House,93,Nu-Disco,5,2005,1.0243161094224924
+4,Deep House,128,Acid Jazz,32,2005,1.1884498480243162
+4,Deep House,200,Smooth Jazz,7,2005,1.0364741641337385
+4,Deep House,429,Hard Bop,1,2005,1.0
+4,Deep House,248,Soul-Jazz,9,2005,1.0486322188449848
+4,Deep House,53,Progressive Trance,36,2005,1.2127659574468086
+4,Deep House,58,African,3,2005,1.012158054711246
+4,Deep House,60,Dub Techno,17,2005,1.0972644376899696
+4,Deep House,152,Noise,1,2005,1.0
+4,Deep House,134,Minimal Techno,12,2005,1.0668693009118542
+4,Deep House,46,Big Beat,8,2005,1.0425531914893618
+4,Deep House,358,Soukous,1,2005,1.0
+4,Deep House,104,Alternative Rock,7,2005,1.0364741641337385
+4,Deep House,30,Afrobeat,5,2005,1.0243161094224924
+4,Deep House,110,Soft Rock,4,2005,1.0182370820668694
+4,Deep House,69,Ballad,8,2005,1.0425531914893618
+4,Deep House,97,IDM,14,2005,1.0790273556231003
+4,Deep House,52,Speed Garage,2,2005,1.006079027355623
+4,Deep House,126,Afro-Cuban,1,2005,1.0
+4,Deep House,49,Jazz-Funk,10,2005,1.0547112462006079
+4,Deep House,59,Hard Trance,4,2005,1.0182370820668694
+4,Deep House,61,Synth-pop,22,2005,1.127659574468085
+4,Deep House,74,Drum n Bass,49,2005,1.2917933130699089
+4,Deep House,66,J-pop,4,2005,1.0182370820668694
+4,Deep House,81,Dance-pop,9,2005,1.0486322188449848
+4,Deep House,213,Instrumental,5,2005,1.0243161094224924
+4,Deep House,344,Space-Age,1,2005,1.0
+4,Deep House,113,Contemporary R&B,3,2005,1.012158054711246
+4,Deep House,130,Conscious,3,2005,1.012158054711246
+4,Deep House,89,Pop Rock,17,2005,1.0972644376899696
+4,Deep House,318,Afro-Cuban Jazz,3,2005,1.012158054711246
+4,Deep House,166,Neo Soul,6,2005,1.0303951367781155
+4,Deep House,217,Contemporary Jazz,6,2005,1.0303951367781155
+4,Deep House,154,Ska,6,2005,1.0303951367781155
+4,Deep House,140,Rhythm & Blues,2,2005,1.006079027355623
+4,Deep House,187,Latin Jazz,3,2005,1.012158054711246
+4,Deep House,179,Deep Techno,5,2005,1.0243161094224924
+4,Deep House,34,Vocal,7,2005,1.0364741641337385
+4,Deep House,133,Samba,3,2005,1.012158054711246
+4,Deep House,83,Lounge,12,2005,1.0668693009118542
+4,Deep House,155,Beatdown,3,2005,1.012158054711246
+4,Deep House,120,Bossanova,3,2005,1.012158054711246
+4,Deep House,14,Italo House,5,2005,1.0243161094224924
+4,Deep House,192,Bossa Nova,5,2005,1.0243161094224924
+4,Deep House,177,Ambient House,1,2005,1.0
+4,Deep House,45,UK Garage,7,2005,1.0364741641337385
+4,Deep House,31,Europop,7,2005,1.0364741641337385
+4,Deep House,194,Bollywood,4,2005,1.0182370820668694
+4,Deep House,122,Indie Rock,5,2005,1.0243161094224924
+4,Deep House,68,Soundtrack,7,2005,1.0364741641337385
+4,Deep House,18,Italodance,10,2005,1.0547112462006079
+4,Deep House,75,Salsa,2,2005,1.006079027355623
+4,Deep House,107,Folk,3,2005,1.012158054711246
+4,Deep House,70,Theme,2,2005,1.006079027355623
+4,Deep House,72,Hardstyle,2,2005,1.006079027355623
+4,Deep House,293,Dark Ambient,3,2005,1.012158054711246
+4,Deep House,196,Religious,4,2005,1.0182370820668694
+4,Deep House,41,Microhouse,1,2005,1.0
+4,Deep House,202,New Wave,3,2005,1.012158054711246
+4,Deep House,182,Balearic,1,2005,1.0
+4,Deep House,191,Roots Reggae,5,2005,1.0243161094224924
+4,Deep House,176,Punk,1,2005,1.0
+4,Deep House,131,P.Funk,1,2005,1.0
+4,Deep House,48,Freestyle,3,2005,1.012158054711246
+4,Deep House,67,Eurodance,5,2005,1.0243161094224924
+4,Deep House,201,Progressive Breaks,1,2005,1.0
+4,Deep House,206,Electroclash,1,2005,1.0
+4,Deep House,111,Modern Classical,6,2005,1.0303951367781155
+4,Deep House,199,Chillwave,1,2005,1.0
+4,Deep House,230,Britpop,1,2005,1.0
+4,Deep House,125,Hardcore,1,2005,1.0
+4,Deep House,157,Interview,1,2005,1.0
+4,Deep House,100,Grime,3,2005,1.012158054711246
+4,Deep House,178,Ghettotech,1,2005,1.0
+4,Deep House,198,New Age,2,2005,1.006079027355623
+4,Deep House,136,Indie Pop,2,2005,1.006079027355623
+4,Deep House,481,Therapy,1,2005,1.0
+4,Deep House,171,Glitch,4,2005,1.0182370820668694
+4,Deep House,88,Pop Rap,5,2005,1.0243161094224924
+4,Deep House,484,Movie Effects,2,2005,1.006079027355623
+4,Deep House,129,Reggae-Pop,1,2005,1.0
+4,Deep House,148,Reggaeton,1,2005,1.0
+4,Deep House,123,Chanson,6,2005,1.0303951367781155
+4,Deep House,188,Laïkó,1,2005,1.0
+4,Deep House,119,Easy Listening,5,2005,1.0243161094224924
+4,Deep House,116,New Beat,3,2005,1.012158054711246
+4,Deep House,102,Jungle,1,2005,1.0
+4,Deep House,163,Video Game Music,1,2005,1.0
+4,Deep House,95,Industrial,1,2005,1.0
+4,Deep House,77,Euro-Disco,1,2005,1.0
+4,Deep House,425,Free Funk,1,2005,1.0
+4,Deep House,85,Acoustic,2,2005,1.006079027355623
+4,Deep House,332,Synthwave,1,2005,1.0
+4,Deep House,150,Illbient,1,2005,1.0
+4,Deep House,295,Bop,1,2005,1.0
+4,Deep House,467,Modal,1,2005,1.0
+4,Deep House,221,Swing,2,2005,1.006079027355623
+4,Deep House,121,Ragga HipHop,1,2005,1.0
+4,Deep House,51,Dancehall,2,2005,1.006079027355623
+4,Deep House,56,Bhangra,1,2005,1.0
+4,Deep House,82,Mambo,2,2005,1.006079027355623
+4,Deep House,203,Psy-Trance,1,2005,1.0
+4,Deep House,298,Free Jazz,1,2005,1.0
+4,Deep House,205,Avantgarde,1,2005,1.0
+4,Deep House,301,Jazz-Rock,2,2005,1.006079027355623
+4,Deep House,240,Power Pop,1,2005,1.0
+4,Deep House,244,Modern,1,2005,1.0
+4,Deep House,172,Classic Rock,1,2005,1.0
+4,Deep House,218,Heavy Metal,1,2005,1.0
+4,Deep House,135,Arena Rock,1,2005,1.0
+4,Deep House,319,Free Improvisation,1,2005,1.0
+4,Deep House,245,Classical,1,2005,1.0
+4,Deep House,112,Fusion,1,2005,1.0
+4,Deep House,237,Blues Rock,1,2005,1.0
+4,Deep House,400,Texas Blues,1,2005,1.0
+4,Deep House,27,Ballroom,1,2005,1.0

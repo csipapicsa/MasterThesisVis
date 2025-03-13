@@ -1,0 +1,350 @@
+source_id,source_name,target_id,target_name,weight,year,width
+3,Tech House,1,House,2606,2010,11.0
+3,Tech House,4,Deep House,908,2010,4.481765834932821
+3,Tech House,20,Electro,460,2010,2.761996161228407
+3,Tech House,25,Minimal,1549,2010,6.942418426103647
+3,Tech House,6,Acid House,19,2010,1.0690978886756237
+3,Tech House,15,Disco,94,2010,1.3570057581573896
+3,Tech House,22,Techno,1217,2010,5.667946257197697
+3,Tech House,106,Leftfield,26,2010,1.0959692898272553
+3,Tech House,8,Progressive House,688,2010,3.637236084452975
+3,Tech House,11,Electro House,170,2010,1.6487523992322457
+3,Tech House,24,Breaks,40,2010,1.1497120921305182
+3,Tech House,19,Tribal,49,2010,1.1842610364683301
+3,Tech House,9,Tribal House,62,2010,1.234165067178503
+3,Tech House,26,Acid,19,2010,1.0690978886756237
+3,Tech House,7,Euro House,85,2010,1.3224568138195778
+3,Tech House,42,Experimental,43,2010,1.161228406909789
+3,Tech House,226,Dixieland,1,2010,1.0
+3,Tech House,40,Ambient,53,2010,1.199616122840691
+3,Tech House,232,Dubstep,58,2010,1.2188099808061421
+3,Tech House,17,Latin,28,2010,1.1036468330134357
+3,Tech House,34,Vocal,8,2010,1.0268714011516316
+3,Tech House,21,Downtempo,77,2010,1.2917466410748562
+3,Tech House,16,Trance,106,2010,1.4030710172744723
+3,Tech House,29,Dub,21,2010,1.0767754318618041
+3,Tech House,88,Pop Rap,21,2010,1.0767754318618041
+3,Tech House,32,Breakbeat,23,2010,1.0844529750479845
+3,Tech House,47,Soul,17,2010,1.0614203454894433
+3,Tech House,28,Funk,11,2010,1.038387715930902
+3,Tech House,23,Abstract,18,2010,1.0652591170825336
+3,Tech House,5,Garage House,23,2010,1.0844529750479845
+3,Tech House,53,Progressive Trance,55,2010,1.2072936660268714
+3,Tech House,61,Synth-pop,63,2010,1.238003838771593
+3,Tech House,294,Bass Music,2,2010,1.0038387715930903
+3,Tech House,134,Minimal Techno,70,2010,1.2648752399232246
+3,Tech House,181,Holiday,1,2010,1.0
+3,Tech House,311,Krautrock,3,2010,1.0076775431861804
+3,Tech House,60,Dub Techno,77,2010,1.2917466410748562
+3,Tech House,105,Italo-Disco,5,2010,1.0153550863723608
+3,Tech House,100,Grime,4,2010,1.0115163147792707
+3,Tech House,323,Darkwave,6,2010,1.0191938579654511
+3,Tech House,41,Microhouse,1,2010,1.0
+3,Tech House,97,IDM,21,2010,1.0767754318618041
+3,Tech House,438,Electro Swing,1,2010,1.0
+3,Tech House,68,Soundtrack,1,2010,1.0
+3,Tech House,54,Hip Hop,27,2010,1.0998080614203456
+3,Tech House,98,Trip Hop,22,2010,1.0806142034548945
+3,Tech House,166,Neo Soul,6,2010,1.0191938579654511
+3,Tech House,111,Modern Classical,6,2010,1.0191938579654511
+3,Tech House,102,Jungle,3,2010,1.0076775431861804
+3,Tech House,179,Deep Techno,3,2010,1.0076775431861804
+3,Tech House,57,Juke,1,2010,1.0
+3,Tech House,45,UK Garage,7,2010,1.0230326295585412
+3,Tech House,141,Ghetto,2,2010,1.0038387715930903
+3,Tech House,404,Neo Trance,1,2010,1.0
+3,Tech House,145,UK Funky,4,2010,1.0115163147792707
+3,Tech House,225,Chiptune,4,2010,1.0115163147792707
+3,Tech House,122,Indie Rock,24,2010,1.0882917466410749
+3,Tech House,93,Nu-Disco,1,2010,1.0
+3,Tech House,176,Punk,12,2010,1.0422264875239924
+3,Tech House,74,Drum n Bass,20,2010,1.072936660268714
+3,Tech House,64,Broken Beat,14,2010,1.0499040307101728
+3,Tech House,202,New Wave,8,2010,1.0268714011516316
+3,Tech House,171,Glitch,5,2010,1.0153550863723608
+3,Tech House,48,Freestyle,3,2010,1.0076775431861804
+3,Tech House,175,Surf,3,2010,1.0076775431861804
+3,Tech House,104,Alternative Rock,18,2010,1.0652591170825336
+3,Tech House,173,Hard Rock,4,2010,1.0115163147792707
+3,Tech House,31,Europop,26,2010,1.0959692898272553
+3,Tech House,259,Turntablism,2,2010,1.0038387715930903
+3,Tech House,13,Hip-House,6,2010,1.0191938579654511
+3,Tech House,62,RnB/Swing,16,2010,1.0575815738963532
+3,Tech House,81,Dance-pop,23,2010,1.0844529750479845
+3,Tech House,213,Instrumental,8,2010,1.0268714011516316
+3,Tech House,27,Ballroom,7,2010,1.0230326295585412
+3,Tech House,2,Hard House,21,2010,1.0767754318618041
+3,Tech House,14,Italo House,6,2010,1.0191938579654511
+3,Tech House,75,Salsa,1,2010,1.0
+3,Tech House,148,Reggaeton,2,2010,1.0038387715930903
+3,Tech House,77,Euro-Disco,2,2010,1.0038387715930903
+3,Tech House,67,Eurodance,8,2010,1.0268714011516316
+3,Tech House,72,Hardstyle,4,2010,1.0115163147792707
+3,Tech House,46,Big Beat,6,2010,1.0191938579654511
+3,Tech House,103,Tech Trance,12,2010,1.0422264875239924
+3,Tech House,73,Technical,1,2010,1.0
+3,Tech House,59,Hard Trance,11,2010,1.038387715930902
+3,Tech House,35,Jazzdance,1,2010,1.0
+3,Tech House,18,Italodance,6,2010,1.0191938579654511
+3,Tech House,66,J-pop,4,2010,1.0115163147792707
+3,Tech House,360,Avant-garde Jazz,2,2010,1.0038387715930903
+3,Tech House,107,Folk,3,2010,1.0076775431861804
+3,Tech House,150,Illbient,2,2010,1.0038387715930903
+3,Tech House,369,Field Recording,1,2010,1.0
+3,Tech House,115,Happy Hardcore,5,2010,1.0153550863723608
+3,Tech House,199,Chillwave,2,2010,1.0038387715930903
+3,Tech House,245,Classical,1,2010,1.0
+3,Tech House,95,Industrial,3,2010,1.0076775431861804
+3,Tech House,89,Pop Rock,23,2010,1.0844529750479845
+3,Tech House,136,Indie Pop,2,2010,1.0038387715930903
+3,Tech House,221,Swing,2,2010,1.0038387715930903
+3,Tech House,90,Jumpstyle,2,2010,1.0038387715930903
+3,Tech House,156,Post Rock,3,2010,1.0076775431861804
+3,Tech House,248,Soul-Jazz,3,2010,1.0076775431861804
+3,Tech House,125,Hardcore,4,2010,1.0115163147792707
+3,Tech House,344,Space-Age,1,2010,1.0
+3,Tech House,51,Dancehall,3,2010,1.0076775431861804
+3,Tech House,242,Cumbia,1,2010,1.0
+3,Tech House,84,Hi NRG,1,2010,1.0
+3,Tech House,210,Gabber,2,2010,1.0038387715930903
+3,Tech House,116,New Beat,1,2010,1.0
+3,Tech House,86,Health-Fitness,1,2010,1.0
+3,Tech House,128,Acid Jazz,1,2010,1.0
+3,Tech House,44,Future Jazz,3,2010,1.0076775431861804
+3,Tech House,313,Power Electronics,1,2010,1.0
+3,Tech House,217,Contemporary Jazz,4,2010,1.0115163147792707
+3,Tech House,112,Fusion,1,2010,1.0
+3,Tech House,99,Raï,1,2010,1.0
+3,Tech House,56,Bhangra,1,2010,1.0
+3,Tech House,58,African,1,2010,1.0
+3,Tech House,113,Contemporary R&B,7,2010,1.0230326295585412
+3,Tech House,130,Conscious,5,2010,1.0153550863723608
+3,Tech House,137,Hands Up,1,2010,1.0
+3,Tech House,261,Big Band,2,2010,1.0038387715930903
+3,Tech House,69,Ballad,7,2010,1.0230326295585412
+3,Tech House,37,Schlager,1,2010,1.0
+3,Tech House,38,Makina,2,2010,1.0038387715930903
+3,Tech House,267,Garage Rock,1,2010,1.0
+3,Tech House,198,New Age,2,2010,1.0038387715930903
+3,Tech House,284,DJ Battle Tool,1,2010,1.0
+3,Tech House,147,Cut-up/DJ,2,2010,1.0038387715930903
+3,Tech House,138,Country Rock,1,2010,1.0
+3,Tech House,189,Folk Rock,9,2010,1.0307101727447217
+3,Tech House,127,Cool Jazz,1,2010,1.0
+3,Tech House,129,Reggae-Pop,2,2010,1.0038387715930903
+3,Tech House,237,Blues Rock,3,2010,1.0076775431861804
+3,Tech House,254,Grindcore,1,2010,1.0
+3,Tech House,49,Jazz-Funk,1,2010,1.0
+3,Tech House,85,Acoustic,5,2010,1.0153550863723608
+3,Tech House,110,Soft Rock,6,2010,1.0191938579654511
+3,Tech House,203,Psy-Trance,2,2010,1.0038387715930903
+3,Tech House,172,Classic Rock,3,2010,1.0076775431861804
+3,Tech House,71,Gospel,1,2010,1.0
+3,Tech House,174,Lo-Fi,1,2010,1.0
+3,Tech House,214,Psychedelic Rock,3,2010,1.0076775431861804
+3,Tech House,269,Art Rock,1,2010,1.0
+3,Tech House,83,Lounge,1,2010,1.0
+3,Tech House,260,Ethno-pop,1,2010,1.0
+3,Tech House,109,Reggae,2,2010,1.0038387715930903
+3,Tech House,142,Country,1,2010,1.0
+3,Tech House,92,Latin Pop,1,2010,1.0
+3,Tech House,218,Heavy Metal,1,2010,1.0
+3,Tech House,190,Breakcore,1,2010,1.0
+3,Tech House,200,Smooth Jazz,1,2010,1.0
+3,Tech House,114,EBM,1,2010,1.0
+3,Tech House,206,Electroclash,2,2010,1.0038387715930903
+3,Tech House,296,Ranchera,1,2010,1.0
+3,Tech House,161,Rock & Roll,3,2010,1.0076775431861804
+3,Tech House,377,Oi,1,2010,1.0
+3,Tech House,154,Ska,3,2010,1.0076775431861804
+3,Tech House,332,Synthwave,1,2010,1.0
+3,Tech House,339,Musique Concrète,1,2010,1.0
+3,Tech House,244,Modern,1,2010,1.0
+3,Tech House,152,Noise,1,2010,1.0
+3,Tech House,319,Free Improvisation,1,2010,1.0
+3,Tech House,251,Drone,1,2010,1.0
+3,Tech House,364,Stoner Rock,1,2010,1.0
+3,Tech House,205,Avantgarde,1,2010,1.0
+3,Tech House,146,Nu Metal,1,2010,1.0
+3,Tech House,234,Post-Punk,2,2010,1.0038387715930903
+3,Tech House,230,Britpop,2,2010,1.0038387715930903
+3,Tech House,216,Symphonic Rock,2,2010,1.0038387715930903
+3,Tech House,250,Prog Rock,2,2010,1.0038387715930903
+3,Tech House,123,Chanson,2,2010,1.0038387715930903
+8,Progressive House,1,House,1699,2010,7.518234165067178
+8,Progressive House,53,Progressive Trance,804,2010,4.082533589251439
+8,Progressive House,20,Electro,594,2010,3.2763915547024953
+8,Progressive House,3,Tech House,1153,2010,5.422264875239923
+8,Progressive House,11,Electro House,457,2010,2.750479846449136
+8,Progressive House,22,Techno,206,2010,1.7869481765834934
+8,Progressive House,25,Minimal,80,2010,1.3032629558541267
+8,Progressive House,16,Trance,548,2010,3.0998080614203456
+8,Progressive House,24,Breaks,139,2010,1.5297504798464492
+8,Progressive House,4,Deep House,182,2010,1.6948176583493282
+8,Progressive House,32,Breakbeat,44,2010,1.165067178502879
+8,Progressive House,7,Euro House,142,2010,1.5412667946257197
+8,Progressive House,232,Dubstep,57,2010,1.2149712092130518
+8,Progressive House,181,Holiday,3,2010,1.0076775431861804
+8,Progressive House,93,Nu-Disco,10,2010,1.034548944337812
+8,Progressive House,10,French House,2,2010,1.0038387715930903
+8,Progressive House,15,Disco,43,2010,1.161228406909789
+8,Progressive House,40,Ambient,51,2010,1.1919385796545106
+8,Progressive House,311,Krautrock,2,2010,1.0038387715930903
+8,Progressive House,21,Downtempo,103,2010,1.3915547024952015
+8,Progressive House,42,Experimental,16,2010,1.0575815738963532
+8,Progressive House,6,Acid House,6,2010,1.0191938579654511
+8,Progressive House,46,Big Beat,9,2010,1.0307101727447217
+8,Progressive House,9,Tribal House,58,2010,1.2188099808061421
+8,Progressive House,404,Neo Trance,1,2010,1.0
+8,Progressive House,72,Hardstyle,10,2010,1.034548944337812
+8,Progressive House,305,Berlin-School,2,2010,1.0038387715930903
+8,Progressive House,61,Synth-pop,88,2010,1.3339731285988483
+8,Progressive House,34,Vocal,30,2010,1.111324376199616
+8,Progressive House,45,UK Garage,9,2010,1.0307101727447217
+8,Progressive House,145,UK Funky,3,2010,1.0076775431861804
+8,Progressive House,104,Alternative Rock,21,2010,1.0767754318618041
+8,Progressive House,122,Indie Rock,9,2010,1.0307101727447217
+8,Progressive House,88,Pop Rap,55,2010,1.2072936660268714
+8,Progressive House,259,Turntablism,8,2010,1.0268714011516316
+8,Progressive House,224,Gangsta,4,2010,1.0115163147792707
+8,Progressive House,81,Dance-pop,67,2010,1.2533589251439539
+8,Progressive House,13,Hip-House,20,2010,1.072936660268714
+8,Progressive House,62,RnB/Swing,49,2010,1.1842610364683301
+8,Progressive House,89,Pop Rock,38,2010,1.1420345489443378
+8,Progressive House,278,Bassline,6,2010,1.0191938579654511
+8,Progressive House,121,Ragga HipHop,5,2010,1.0153550863723608
+8,Progressive House,60,Dub Techno,6,2010,1.0191938579654511
+8,Progressive House,143,Bounce,2,2010,1.0038387715930903
+8,Progressive House,438,Electro Swing,3,2010,1.0076775431861804
+8,Progressive House,31,Europop,30,2010,1.111324376199616
+8,Progressive House,166,Neo Soul,5,2010,1.0153550863723608
+8,Progressive House,2,Hard House,18,2010,1.0652591170825336
+8,Progressive House,14,Italo House,2,2010,1.0038387715930903
+8,Progressive House,19,Tribal,23,2010,1.0844529750479845
+8,Progressive House,18,Italodance,13,2010,1.0460652591170825
+8,Progressive House,17,Latin,32,2010,1.1190019193857965
+8,Progressive House,150,Illbient,2,2010,1.0038387715930903
+8,Progressive House,120,Bossanova,4,2010,1.0115163147792707
+8,Progressive House,133,Samba,5,2010,1.0153550863723608
+8,Progressive House,69,Ballad,14,2010,1.0499040307101728
+8,Progressive House,47,Soul,12,2010,1.0422264875239924
+8,Progressive House,5,Garage House,17,2010,1.0614203454894433
+8,Progressive House,23,Abstract,4,2010,1.0115163147792707
+8,Progressive House,203,Psy-Trance,5,2010,1.0153550863723608
+8,Progressive House,106,Leftfield,11,2010,1.038387715930902
+8,Progressive House,59,Hard Trance,18,2010,1.0652591170825336
+8,Progressive House,65,Tropical House,2,2010,1.0038387715930903
+8,Progressive House,67,Eurodance,13,2010,1.0460652591170825
+8,Progressive House,165,Goa Trance,1,2010,1.0
+8,Progressive House,103,Tech Trance,7,2010,1.0230326295585412
+8,Progressive House,162,Psychedelic,1,2010,1.0
+8,Progressive House,64,Broken Beat,8,2010,1.0268714011516316
+8,Progressive House,129,Reggae-Pop,11,2010,1.038387715930902
+8,Progressive House,113,Contemporary R&B,16,2010,1.0575815738963532
+8,Progressive House,66,J-pop,3,2010,1.0076775431861804
+8,Progressive House,84,Hi NRG,7,2010,1.0230326295585412
+8,Progressive House,115,Happy Hardcore,6,2010,1.0191938579654511
+8,Progressive House,35,Jazzdance,7,2010,1.0230326295585412
+8,Progressive House,86,Health-Fitness,1,2010,1.0
+8,Progressive House,54,Hip Hop,20,2010,1.072936660268714
+8,Progressive House,74,Drum n Bass,27,2010,1.0998080614203456
+8,Progressive House,134,Minimal Techno,4,2010,1.0115163147792707
+8,Progressive House,96,Mandopop,1,2010,1.0
+8,Progressive House,206,Electroclash,2,2010,1.0038387715930903
+8,Progressive House,12,Ghetto House,1,2010,1.0
+8,Progressive House,29,Dub,9,2010,1.0307101727447217
+8,Progressive House,137,Hands Up,6,2010,1.0191938579654511
+8,Progressive House,97,IDM,7,2010,1.0230326295585412
+8,Progressive House,90,Jumpstyle,5,2010,1.0153550863723608
+8,Progressive House,116,New Beat,1,2010,1.0
+8,Progressive House,156,Post Rock,4,2010,1.0115163147792707
+8,Progressive House,126,Afro-Cuban,1,2010,1.0
+8,Progressive House,107,Folk,4,2010,1.0115163147792707
+8,Progressive House,136,Indie Pop,3,2010,1.0076775431861804
+8,Progressive House,105,Italo-Disco,3,2010,1.0076775431861804
+8,Progressive House,293,Dark Ambient,1,2010,1.0
+8,Progressive House,202,New Wave,5,2010,1.0153550863723608
+8,Progressive House,123,Chanson,5,2010,1.0153550863723608
+8,Progressive House,284,DJ Battle Tool,1,2010,1.0
+8,Progressive House,147,Cut-up/DJ,3,2010,1.0076775431861804
+8,Progressive House,158,Baltimore Club,1,2010,1.0
+8,Progressive House,26,Acid,1,2010,1.0
+8,Progressive House,221,Swing,4,2010,1.0115163147792707
+8,Progressive House,98,Trip Hop,16,2010,1.0575815738963532
+8,Progressive House,130,Conscious,7,2010,1.0230326295585412
+8,Progressive House,109,Reggae,2,2010,1.0038387715930903
+8,Progressive House,44,Future Jazz,3,2010,1.0076775431861804
+8,Progressive House,140,Rhythm & Blues,4,2010,1.0115163147792707
+8,Progressive House,28,Funk,2,2010,1.0038387715930903
+8,Progressive House,190,Breakcore,1,2010,1.0
+8,Progressive House,95,Industrial,1,2010,1.0
+8,Progressive House,248,Soul-Jazz,3,2010,1.0076775431861804
+8,Progressive House,51,Dancehall,3,2010,1.0076775431861804
+8,Progressive House,77,Euro-Disco,1,2010,1.0
+8,Progressive House,217,Contemporary Jazz,5,2010,1.0153550863723608
+8,Progressive House,125,Hardcore,2,2010,1.0038387715930903
+8,Progressive House,250,Prog Rock,1,2010,1.0
+8,Progressive House,294,Bass Music,1,2010,1.0
+8,Progressive House,171,Glitch,3,2010,1.0076775431861804
+8,Progressive House,100,Grime,2,2010,1.0038387715930903
+8,Progressive House,114,EBM,1,2010,1.0
+8,Progressive House,189,Folk Rock,4,2010,1.0115163147792707
+8,Progressive House,99,Raï,1,2010,1.0
+8,Progressive House,56,Bhangra,1,2010,1.0
+8,Progressive House,58,African,1,2010,1.0
+8,Progressive House,313,Power Electronics,2,2010,1.0038387715930903
+8,Progressive House,102,Jungle,1,2010,1.0
+8,Progressive House,149,Ragga,1,2010,1.0
+8,Progressive House,111,Modern Classical,4,2010,1.0115163147792707
+8,Progressive House,264,Gypsy Jazz,1,2010,1.0
+8,Progressive House,240,Power Pop,1,2010,1.0
+8,Progressive House,37,Schlager,1,2010,1.0
+8,Progressive House,172,Classic Rock,3,2010,1.0076775431861804
+8,Progressive House,83,Lounge,3,2010,1.0076775431861804
+8,Progressive House,192,Bossa Nova,2,2010,1.0038387715930903
+8,Progressive House,225,Chiptune,1,2010,1.0
+8,Progressive House,132,Neofolk,1,2010,1.0
+8,Progressive House,173,Hard Rock,1,2010,1.0
+8,Progressive House,110,Soft Rock,4,2010,1.0115163147792707
+8,Progressive House,82,Mambo,1,2010,1.0
+8,Progressive House,49,Jazz-Funk,3,2010,1.0076775431861804
+8,Progressive House,176,Punk,3,2010,1.0076775431861804
+8,Progressive House,85,Acoustic,9,2010,1.0307101727447217
+8,Progressive House,422,Bluegrass,1,2010,1.0
+8,Progressive House,38,Makina,1,2010,1.0
+8,Progressive House,193,Thug Rap,1,2010,1.0
+8,Progressive House,231,Swingbeat,1,2010,1.0
+8,Progressive House,128,Acid Jazz,3,2010,1.0076775431861804
+8,Progressive House,119,Easy Listening,2,2010,1.0038387715930903
+8,Progressive House,127,Cool Jazz,2,2010,1.0038387715930903
+8,Progressive House,148,Reggaeton,2,2010,1.0038387715930903
+8,Progressive House,234,Post-Punk,1,2010,1.0
+8,Progressive House,290,Shoegaze,1,2010,1.0
+8,Progressive House,230,Britpop,1,2010,1.0
+8,Progressive House,214,Psychedelic Rock,1,2010,1.0
+8,Progressive House,80,Novelty,1,2010,1.0
+8,Progressive House,314,Emo,1,2010,1.0
+8,Progressive House,68,Soundtrack,2,2010,1.0038387715930903
+8,Progressive House,185,Score,2,2010,1.0038387715930903
+8,Progressive House,265,Boogie,1,2010,1.0
+8,Progressive House,142,Country,1,2010,1.0
+8,Progressive House,237,Blues Rock,1,2010,1.0
+8,Progressive House,78,Batucada,1,2010,1.0
+8,Progressive House,70,Theme,1,2010,1.0
+8,Progressive House,204,Jazzy Hip-Hop,2,2010,1.0038387715930903
+8,Progressive House,269,Art Rock,1,2010,1.0
+8,Progressive House,191,Roots Reggae,1,2010,1.0
+8,Progressive House,316,Medieval,1,2010,1.0
+8,Progressive House,205,Avantgarde,1,2010,1.0
+8,Progressive House,223,Celtic,1,2010,1.0
+8,Progressive House,198,New Age,3,2010,1.0076775431861804
+8,Progressive House,327,Ethereal,1,2010,1.0
+8,Progressive House,50,Contemporary,1,2010,1.0
+8,Progressive House,467,Modal,1,2010,1.0
+8,Progressive House,428,Piano Blues,1,2010,1.0
+8,Progressive House,200,Smooth Jazz,1,2010,1.0
+8,Progressive House,112,Fusion,1,2010,1.0
+8,Progressive House,222,Vallenato,1,2010,1.0
+8,Progressive House,187,Latin Jazz,1,2010,1.0
+8,Progressive House,318,Afro-Cuban Jazz,1,2010,1.0
+8,Progressive House,201,Progressive Breaks,10,2010,1.034548944337812

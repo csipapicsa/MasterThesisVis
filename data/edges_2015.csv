@@ -1,0 +1,269 @@
+source_id,source_name,target_id,target_name,weight,year,width
+3,Tech House,1,House,1402,2015,11.0
+3,Tech House,20,Electro,79,2015,1.556745182012848
+3,Tech House,25,Minimal,564,2015,5.018558172733762
+3,Tech House,4,Deep House,1399,2015,10.978586723768737
+3,Tech House,17,Latin,4,2015,1.0214132762312633
+3,Tech House,6,Acid House,36,2015,1.249821556031406
+3,Tech House,8,Progressive House,316,2015,3.2483940042826553
+3,Tech House,22,Techno,1275,2015,10.093504639543184
+3,Tech House,9,Tribal House,15,2015,1.0999286224125624
+3,Tech House,23,Abstract,8,2015,1.0499643112062813
+3,Tech House,26,Acid,52,2015,1.3640256959314776
+3,Tech House,67,Eurodance,3,2015,1.0142755174875089
+3,Tech House,42,Experimental,31,2015,1.214132762312634
+3,Tech House,19,Tribal,16,2015,1.1070663811563168
+3,Tech House,106,Leftfield,16,2015,1.1070663811563168
+3,Tech House,177,Ambient House,1,2015,1.0
+3,Tech House,107,Folk,4,2015,1.0214132762312633
+3,Tech House,15,Disco,26,2015,1.1784439685938615
+3,Tech House,21,Downtempo,59,2015,1.4139900071377587
+3,Tech House,40,Ambient,33,2015,1.2284082798001428
+3,Tech House,11,Electro House,70,2015,1.4925053533190578
+3,Tech House,134,Minimal Techno,105,2015,1.742326909350464
+3,Tech House,103,Tech Trance,24,2015,1.1641684511063526
+3,Tech House,29,Dub,14,2015,1.092790863668808
+3,Tech House,54,Hip Hop,13,2015,1.0856531049250535
+3,Tech House,95,Industrial,5,2015,1.0285510349750178
+3,Tech House,34,Vocal,10,2015,1.0642398286937902
+3,Tech House,32,Breakbeat,13,2015,1.0856531049250535
+3,Tech House,404,Neo Trance,2,2015,1.0071377587437544
+3,Tech House,24,Breaks,21,2015,1.1427551748750893
+3,Tech House,171,Glitch,10,2015,1.0642398286937902
+3,Tech House,232,Dubstep,11,2015,1.0713775874375446
+3,Tech House,45,UK Garage,7,2015,1.0428265524625269
+3,Tech House,60,Dub Techno,29,2015,1.1998572448251248
+3,Tech House,97,IDM,12,2015,1.078515346181299
+3,Tech House,179,Deep Techno,10,2015,1.0642398286937902
+3,Tech House,16,Trance,24,2015,1.1641684511063526
+3,Tech House,64,Broken Beat,2,2015,1.0071377587437544
+3,Tech House,311,Krautrock,3,2015,1.0142755174875089
+3,Tech House,93,Nu-Disco,5,2015,1.0285510349750178
+3,Tech House,52,Speed Garage,1,2015,1.0
+3,Tech House,156,Post Rock,8,2015,1.0499643112062813
+3,Tech House,61,Synth-pop,31,2015,1.214132762312634
+3,Tech House,280,Boom Bap,2,2015,1.0071377587437544
+3,Tech House,136,Indie Pop,7,2015,1.0428265524625269
+3,Tech House,332,Synthwave,1,2015,1.0
+3,Tech House,163,Video Game Music,1,2015,1.0
+3,Tech House,98,Trip Hop,8,2015,1.0499643112062813
+3,Tech House,275,No Wave,2,2015,1.0071377587437544
+3,Tech House,114,EBM,2,2015,1.0071377587437544
+3,Tech House,5,Garage House,8,2015,1.0499643112062813
+3,Tech House,30,Afrobeat,3,2015,1.0142755174875089
+3,Tech House,104,Alternative Rock,18,2015,1.121341898643826
+3,Tech House,278,Bassline,4,2015,1.0214132762312633
+3,Tech House,443,Witch House,2,2015,1.0071377587437544
+3,Tech House,57,Juke,4,2015,1.0214132762312633
+3,Tech House,44,Future Jazz,1,2015,1.0
+3,Tech House,125,Hardcore,4,2015,1.0214132762312633
+3,Tech House,115,Happy Hardcore,8,2015,1.0499643112062813
+3,Tech House,2,Hard House,4,2015,1.0214132762312633
+3,Tech House,74,Drum n Bass,17,2015,1.1142041399000713
+3,Tech House,111,Modern Classical,2,2015,1.0071377587437544
+3,Tech House,122,Indie Rock,16,2015,1.1070663811563168
+3,Tech House,234,Post-Punk,5,2015,1.0285510349750178
+3,Tech House,320,Math Rock,1,2015,1.0
+3,Tech House,14,Italo House,1,2015,1.0
+3,Tech House,31,Europop,6,2015,1.0356887937187722
+3,Tech House,7,Euro House,12,2015,1.078515346181299
+3,Tech House,12,Ghetto House,5,2015,1.0285510349750178
+3,Tech House,65,Tropical House,9,2015,1.0571020699500357
+3,Tech House,395,Trap,8,2015,1.0499643112062813
+3,Tech House,160,Special Effects,1,2015,1.0
+3,Tech House,72,Hardstyle,4,2015,1.0214132762312633
+3,Tech House,81,Dance-pop,16,2015,1.1070663811563168
+3,Tech House,68,Soundtrack,2,2015,1.0071377587437544
+3,Tech House,340,Forró,1,2015,1.0
+3,Tech House,118,Hard Techno,1,2015,1.0
+3,Tech House,59,Hard Trance,7,2015,1.0428265524625269
+3,Tech House,100,Grime,1,2015,1.0
+3,Tech House,18,Italodance,1,2015,1.0
+3,Tech House,201,Progressive Breaks,1,2015,1.0
+3,Tech House,101,Eurobeat,1,2015,1.0
+3,Tech House,245,Classical,1,2015,1.0
+3,Tech House,53,Progressive Trance,4,2015,1.0214132762312633
+3,Tech House,58,African,1,2015,1.0
+3,Tech House,199,Chillwave,1,2015,1.0
+3,Tech House,47,Soul,4,2015,1.0214132762312633
+3,Tech House,202,New Wave,2,2015,1.0071377587437544
+3,Tech House,51,Dancehall,2,2015,1.0071377587437544
+3,Tech House,137,Hands Up,1,2015,1.0
+3,Tech House,88,Pop Rap,7,2015,1.0428265524625269
+3,Tech House,89,Pop Rock,9,2015,1.0571020699500357
+3,Tech House,123,Chanson,2,2015,1.0071377587437544
+3,Tech House,85,Acoustic,1,2015,1.0
+3,Tech House,203,Psy-Trance,1,2015,1.0
+3,Tech House,62,RnB/Swing,6,2015,1.0356887937187722
+3,Tech House,210,Gabber,1,2015,1.0
+3,Tech House,213,Instrumental,1,2015,1.0
+3,Tech House,445,Griot,1,2015,1.0
+3,Tech House,110,Soft Rock,2,2015,1.0071377587437544
+3,Tech House,307,Schranz,1,2015,1.0
+3,Tech House,225,Chiptune,1,2015,1.0
+3,Tech House,124,Zouk,1,2015,1.0
+3,Tech House,224,Gangsta,2,2015,1.0071377587437544
+3,Tech House,148,Reggaeton,1,2015,1.0
+3,Tech House,13,Hip-House,1,2015,1.0
+3,Tech House,28,Funk,2,2015,1.0071377587437544
+3,Tech House,129,Reggae-Pop,1,2015,1.0
+3,Tech House,149,Ragga,1,2015,1.0
+3,Tech House,36,Soca,1,2015,1.0
+3,Tech House,90,Jumpstyle,1,2015,1.0
+3,Tech House,109,Reggae,1,2015,1.0
+3,Tech House,130,Conscious,1,2015,1.0
+3,Tech House,143,Bounce,1,2015,1.0
+3,Tech House,193,Thug Rap,1,2015,1.0
+3,Tech House,333,Speedcore,1,2015,1.0
+3,Tech House,206,Electroclash,1,2015,1.0
+3,Tech House,189,Folk Rock,1,2015,1.0
+3,Tech House,198,New Age,1,2015,1.0
+3,Tech House,46,Big Beat,1,2015,1.0
+3,Tech House,116,New Beat,1,2015,1.0
+3,Tech House,113,Contemporary R&B,1,2015,1.0
+3,Tech House,69,Ballad,1,2015,1.0
+3,Tech House,37,Schlager,1,2015,1.0
+8,Progressive House,1,House,252,2015,2.79157744468237
+8,Progressive House,3,Tech House,78,2015,1.5496074232690935
+8,Progressive House,4,Deep House,117,2015,1.8279800142755174
+8,Progressive House,53,Progressive Trance,88,2015,1.6209850107066381
+8,Progressive House,107,Folk,5,2015,1.0285510349750178
+8,Progressive House,11,Electro House,233,2015,2.6559600285510347
+8,Progressive House,6,Acid House,2,2015,1.0071377587437544
+8,Progressive House,25,Minimal,6,2015,1.0356887937187722
+8,Progressive House,22,Techno,61,2015,1.4282655246252678
+8,Progressive House,16,Trance,119,2015,1.8422555317630263
+8,Progressive House,232,Dubstep,25,2015,1.171306209850107
+8,Progressive House,20,Electro,57,2015,1.3997144896502498
+8,Progressive House,106,Leftfield,7,2015,1.0428265524625269
+8,Progressive House,29,Dub,2,2015,1.0071377587437544
+8,Progressive House,21,Downtempo,43,2015,1.2997858672376874
+8,Progressive House,81,Dance-pop,94,2015,1.663811563169165
+8,Progressive House,179,Deep Techno,2,2015,1.0071377587437544
+8,Progressive House,134,Minimal Techno,4,2015,1.0214132762312633
+8,Progressive House,40,Ambient,24,2015,1.1641684511063526
+8,Progressive House,15,Disco,14,2015,1.092790863668808
+8,Progressive House,7,Euro House,66,2015,1.46395431834404
+8,Progressive House,65,Tropical House,44,2015,1.3069236259814418
+8,Progressive House,32,Breakbeat,9,2015,1.0571020699500357
+8,Progressive House,202,New Wave,9,2015,1.0571020699500357
+8,Progressive House,95,Industrial,5,2015,1.0285510349750178
+8,Progressive House,42,Experimental,14,2015,1.092790863668808
+8,Progressive House,193,Thug Rap,1,2015,1.0
+8,Progressive House,97,IDM,7,2015,1.0428265524625269
+8,Progressive House,201,Progressive Breaks,3,2015,1.0142755174875089
+8,Progressive House,114,EBM,2,2015,1.0071377587437544
+8,Progressive House,34,Vocal,10,2015,1.0642398286937902
+8,Progressive House,67,Eurodance,13,2015,1.0856531049250535
+8,Progressive House,244,Modern,3,2015,1.0142755174875089
+8,Progressive House,5,Garage House,7,2015,1.0428265524625269
+8,Progressive House,9,Tribal House,10,2015,1.0642398286937902
+8,Progressive House,72,Hardstyle,8,2015,1.0499643112062813
+8,Progressive House,23,Abstract,2,2015,1.0071377587437544
+8,Progressive House,31,Europop,10,2015,1.0642398286937902
+8,Progressive House,61,Synth-pop,26,2015,1.1784439685938615
+8,Progressive House,46,Big Beat,2,2015,1.0071377587437544
+8,Progressive House,449,Future House,4,2015,1.0214132762312633
+8,Progressive House,185,Score,4,2015,1.0214132762312633
+8,Progressive House,68,Soundtrack,4,2015,1.0214132762312633
+8,Progressive House,13,Hip-House,14,2015,1.092790863668808
+8,Progressive House,111,Modern Classical,4,2015,1.0214132762312633
+8,Progressive House,59,Hard Trance,6,2015,1.0356887937187722
+8,Progressive House,90,Jumpstyle,4,2015,1.0214132762312633
+8,Progressive House,2,Hard House,1,2015,1.0
+8,Progressive House,136,Indie Pop,8,2015,1.0499643112062813
+8,Progressive House,24,Breaks,7,2015,1.0428265524625269
+8,Progressive House,395,Trap,6,2015,1.0356887937187722
+8,Progressive House,89,Pop Rock,18,2015,1.121341898643826
+8,Progressive House,45,UK Garage,10,2015,1.0642398286937902
+8,Progressive House,332,Synthwave,2,2015,1.0071377587437544
+8,Progressive House,428,Piano Blues,1,2015,1.0
+8,Progressive House,412,Electroacoustic,1,2015,1.0
+8,Progressive House,182,Balearic,1,2015,1.0
+8,Progressive House,26,Acid,1,2015,1.0
+8,Progressive House,404,Neo Trance,1,2015,1.0
+8,Progressive House,115,Happy Hardcore,7,2015,1.0428265524625269
+8,Progressive House,74,Drum n Bass,31,2015,1.214132762312634
+8,Progressive House,88,Pop Rap,14,2015,1.092790863668808
+8,Progressive House,51,Dancehall,2,2015,1.0071377587437544
+8,Progressive House,122,Indie Rock,10,2015,1.0642398286937902
+8,Progressive House,28,Funk,5,2015,1.0285510349750178
+8,Progressive House,137,Hands Up,6,2015,1.0356887937187722
+8,Progressive House,98,Trip Hop,3,2015,1.0142755174875089
+8,Progressive House,286,Hardcore Hip-Hop,2,2015,1.0071377587437544
+8,Progressive House,382,Metalcore,1,2015,1.0
+8,Progressive House,293,Dark Ambient,2,2015,1.0071377587437544
+8,Progressive House,103,Tech Trance,3,2015,1.0142755174875089
+8,Progressive House,203,Psy-Trance,5,2015,1.0285510349750178
+8,Progressive House,62,RnB/Swing,5,2015,1.0285510349750178
+8,Progressive House,251,Drone,1,2015,1.0
+8,Progressive House,47,Soul,2,2015,1.0071377587437544
+8,Progressive House,333,Speedcore,1,2015,1.0
+8,Progressive House,85,Acoustic,3,2015,1.0142755174875089
+8,Progressive House,192,Bossa Nova,1,2015,1.0
+8,Progressive House,225,Chiptune,1,2015,1.0
+8,Progressive House,104,Alternative Rock,11,2015,1.0713775874375446
+8,Progressive House,125,Hardcore,4,2015,1.0214132762312633
+8,Progressive House,66,J-pop,5,2015,1.0285510349750178
+8,Progressive House,129,Reggae-Pop,9,2015,1.0571020699500357
+8,Progressive House,69,Ballad,9,2015,1.0571020699500357
+8,Progressive House,278,Bassline,2,2015,1.0071377587437544
+8,Progressive House,118,Hard Techno,1,2015,1.0
+8,Progressive House,57,Juke,1,2015,1.0
+8,Progressive House,149,Ragga,2,2015,1.0071377587437544
+8,Progressive House,19,Tribal,1,2015,1.0
+8,Progressive House,121,Ragga HipHop,1,2015,1.0
+8,Progressive House,109,Reggae,2,2015,1.0071377587437544
+8,Progressive House,217,Contemporary Jazz,1,2015,1.0
+8,Progressive House,17,Latin,2,2015,1.0071377587437544
+8,Progressive House,187,Latin Jazz,2,2015,1.0071377587437544
+8,Progressive House,123,Chanson,2,2015,1.0071377587437544
+8,Progressive House,470,Kizomba,1,2015,1.0
+8,Progressive House,54,Hip Hop,8,2015,1.0499643112062813
+8,Progressive House,305,Berlin-School,1,2015,1.0
+8,Progressive House,100,Grime,1,2015,1.0
+8,Progressive House,93,Nu-Disco,1,2015,1.0
+8,Progressive House,173,Hard Rock,3,2015,1.0142755174875089
+8,Progressive House,101,Eurobeat,2,2015,1.0071377587437544
+8,Progressive House,113,Contemporary R&B,1,2015,1.0
+8,Progressive House,110,Soft Rock,5,2015,1.0285510349750178
+8,Progressive House,327,Ethereal,1,2015,1.0
+8,Progressive House,198,New Age,2,2015,1.0071377587437544
+8,Progressive House,189,Folk Rock,7,2015,1.0428265524625269
+8,Progressive House,280,Boom Bap,1,2015,1.0
+8,Progressive House,204,Jazzy Hip-Hop,1,2015,1.0
+8,Progressive House,408,Doo Wop,1,2015,1.0
+8,Progressive House,324,Power Metal,1,2015,1.0
+8,Progressive House,221,Swing,1,2015,1.0
+8,Progressive House,291,Baroque,3,2015,1.0142755174875089
+8,Progressive House,36,Soca,1,2015,1.0
+8,Progressive House,156,Post Rock,4,2015,1.0214132762312633
+8,Progressive House,166,Neo Soul,1,2015,1.0
+8,Progressive House,92,Latin Pop,1,2015,1.0
+8,Progressive House,172,Classic Rock,4,2015,1.0214132762312633
+8,Progressive House,240,Power Pop,2,2015,1.0071377587437544
+8,Progressive House,176,Punk,3,2015,1.0142755174875089
+8,Progressive House,270,Rockabilly,1,2015,1.0
+8,Progressive House,237,Blues Rock,1,2015,1.0
+8,Progressive House,161,Rock & Roll,1,2015,1.0
+8,Progressive House,154,Ska,1,2015,1.0
+8,Progressive House,142,Country,1,2015,1.0
+8,Progressive House,331,Southern Rock,1,2015,1.0
+8,Progressive House,269,Art Rock,1,2015,1.0
+8,Progressive House,267,Garage Rock,1,2015,1.0
+8,Progressive House,102,Jungle,1,2015,1.0
+8,Progressive House,351,Funk Metal,1,2015,1.0
+8,Progressive House,35,Jazzdance,1,2015,1.0
+8,Progressive House,309,Neo-Classical,2,2015,1.0071377587437544
+8,Progressive House,387,Post-Modern,2,2015,1.0071377587437544
+8,Progressive House,241,Indian Classical,2,2015,1.0071377587437544
+8,Progressive House,422,Bluegrass,2,2015,1.0071377587437544
+8,Progressive House,366,Folk Metal,2,2015,1.0071377587437544
+8,Progressive House,207,Musical,2,2015,1.0071377587437544
+8,Progressive House,250,Prog Rock,2,2015,1.0071377587437544
+8,Progressive House,112,Fusion,2,2015,1.0071377587437544
+8,Progressive House,183,Parody,2,2015,1.0071377587437544
+8,Progressive House,245,Classical,2,2015,1.0071377587437544
+8,Progressive House,194,Bollywood,2,2015,1.0071377587437544
+8,Progressive House,243,Romantic,2,2015,1.0071377587437544
+8,Progressive House,70,Theme,2,2015,1.0071377587437544
