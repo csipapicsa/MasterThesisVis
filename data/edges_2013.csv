@@ -1,284 +1,659 @@
 source_id,source_name,target_id,target_name,weight,year,width
-3,Tech House,1,House,1989,2013,11.0
-3,Tech House,40,Ambient,53,2013,1.261569416498994
-3,Tech House,4,Deep House,1322,2013,7.644869215291751
-3,Tech House,22,Techno,950,2013,5.77364185110664
-3,Tech House,25,Minimal,424,2013,3.1277665995975856
-3,Tech House,6,Acid House,27,2013,1.130784708249497
-3,Tech House,20,Electro,119,2013,1.5935613682092555
-3,Tech House,15,Disco,57,2013,1.2816901408450705
-3,Tech House,29,Dub,16,2013,1.0754527162977867
-3,Tech House,85,Acoustic,2,2013,1.0050301810865192
-3,Tech House,106,Leftfield,23,2013,1.1106639839034205
-3,Tech House,8,Progressive House,283,2013,2.4185110663983904
-3,Tech House,24,Breaks,20,2013,1.095573440643863
-3,Tech House,21,Downtempo,53,2013,1.261569416498994
-3,Tech House,32,Breakbeat,8,2013,1.0352112676056338
-3,Tech House,19,Tribal,11,2013,1.0503018108651911
-3,Tech House,26,Acid,22,2013,1.1056338028169015
-3,Tech House,17,Latin,6,2013,1.0251509054325956
-3,Tech House,23,Abstract,9,2013,1.040241448692153
-3,Tech House,11,Electro House,128,2013,1.6388329979879277
-3,Tech House,42,Experimental,42,2013,1.2062374245472838
-3,Tech House,232,Dubstep,35,2013,1.1710261569416498
-3,Tech House,28,Funk,10,2013,1.045271629778672
-3,Tech House,171,Glitch,7,2013,1.0301810865191148
-3,Tech House,134,Minimal Techno,136,2013,1.6790744466800804
-3,Tech House,9,Tribal House,20,2013,1.095573440643863
-3,Tech House,294,Bass Music,4,2013,1.0150905432595574
-3,Tech House,60,Dub Techno,46,2013,1.2263581488933601
-3,Tech House,93,Nu-Disco,7,2013,1.0301810865191148
-3,Tech House,45,UK Garage,10,2013,1.045271629778672
-3,Tech House,61,Synth-pop,47,2013,1.2313883299798793
-3,Tech House,54,Hip Hop,20,2013,1.095573440643863
-3,Tech House,5,Garage House,5,2013,1.0201207243460764
-3,Tech House,311,Krautrock,1,2013,1.0
-3,Tech House,97,IDM,24,2013,1.1156941649899397
-3,Tech House,404,Neo Trance,1,2013,1.0
-3,Tech House,293,Dark Ambient,7,2013,1.0301810865191148
-3,Tech House,64,Broken Beat,2,2013,1.0050301810865192
-3,Tech House,178,Ghettotech,1,2013,1.0
-3,Tech House,141,Ghetto,2,2013,1.0050301810865192
-3,Tech House,98,Trip Hop,7,2013,1.0301810865191148
-3,Tech House,44,Future Jazz,4,2013,1.0150905432595574
-3,Tech House,88,Pop Rap,17,2013,1.080482897384306
-3,Tech House,136,Indie Pop,11,2013,1.0503018108651911
-3,Tech House,7,Euro House,27,2013,1.130784708249497
-3,Tech House,77,Euro-Disco,1,2013,1.0
-3,Tech House,31,Europop,14,2013,1.0653923541247485
-3,Tech House,74,Drum n Bass,18,2013,1.085513078470825
-3,Tech House,123,Chanson,3,2013,1.0100603621730382
-3,Tech House,104,Alternative Rock,7,2013,1.0301810865191148
-3,Tech House,16,Trance,37,2013,1.1810865191146882
-3,Tech House,201,Progressive Breaks,1,2013,1.0
-3,Tech House,155,Beatdown,1,2013,1.0
-3,Tech House,111,Modern Classical,7,2013,1.0301810865191148
-3,Tech House,228,Crunk,4,2013,1.0150905432595574
-3,Tech House,67,Eurodance,12,2013,1.0553319919517103
-3,Tech House,255,Tango,1,2013,1.0
-3,Tech House,307,Schranz,2,2013,1.0050301810865192
-3,Tech House,395,Trap,3,2013,1.0100603621730382
-3,Tech House,402,Disco Polo,1,2013,1.0
-3,Tech House,72,Hardstyle,4,2013,1.0150905432595574
-3,Tech House,59,Hard Trance,4,2013,1.0150905432595574
-3,Tech House,65,Tropical House,1,2013,1.0
-3,Tech House,53,Progressive Trance,12,2013,1.0553319919517103
-3,Tech House,34,Vocal,7,2013,1.0301810865191148
-3,Tech House,41,Microhouse,2,2013,1.0050301810865192
-3,Tech House,81,Dance-pop,14,2013,1.0653923541247485
-3,Tech House,2,Hard House,6,2013,1.0251509054325956
-3,Tech House,58,African,3,2013,1.0100603621730382
-3,Tech House,214,Psychedelic Rock,3,2013,1.0100603621730382
-3,Tech House,66,J-pop,4,2013,1.0150905432595574
-3,Tech House,113,Contemporary R&B,4,2013,1.0150905432595574
-3,Tech House,116,New Beat,2,2013,1.0050301810865192
-3,Tech House,443,Witch House,1,2013,1.0
-3,Tech House,332,Synthwave,1,2013,1.0
-3,Tech House,179,Deep Techno,3,2013,1.0100603621730382
-3,Tech House,306,Space Rock,1,2013,1.0
-3,Tech House,112,Fusion,1,2013,1.0
-3,Tech House,62,RnB/Swing,10,2013,1.045271629778672
-3,Tech House,89,Pop Rock,12,2013,1.0553319919517103
-3,Tech House,137,Hands Up,1,2013,1.0
-3,Tech House,182,Balearic,1,2013,1.0
-3,Tech House,49,Jazz-Funk,1,2013,1.0
-3,Tech House,369,Field Recording,2,2013,1.0050301810865192
-3,Tech House,12,Ghetto House,3,2013,1.0100603621730382
-3,Tech House,57,Juke,1,2013,1.0
-3,Tech House,119,Easy Listening,1,2013,1.0
-3,Tech House,47,Soul,3,2013,1.0100603621730382
-3,Tech House,46,Big Beat,1,2013,1.0
-3,Tech House,130,Conscious,1,2013,1.0
-3,Tech House,286,Hardcore Hip-Hop,1,2013,1.0
-3,Tech House,140,Rhythm & Blues,2,2013,1.0050301810865192
-3,Tech House,13,Hip-House,8,2013,1.0352112676056338
-3,Tech House,202,New Wave,2,2013,1.0050301810865192
-3,Tech House,183,Parody,1,2013,1.0
-3,Tech House,51,Dancehall,7,2013,1.0301810865191148
-3,Tech House,109,Reggae,2,2013,1.0050301810865192
-3,Tech House,50,Contemporary,2,2013,1.0050301810865192
-3,Tech House,166,Neo Soul,11,2013,1.0503018108651911
-3,Tech House,100,Grime,1,2013,1.0
-3,Tech House,48,Freestyle,1,2013,1.0
-3,Tech House,268,Thrash,1,2013,1.0
-3,Tech House,102,Jungle,2,2013,1.0050301810865192
-3,Tech House,114,EBM,2,2013,1.0050301810865192
-3,Tech House,122,Indie Rock,7,2013,1.0301810865191148
-3,Tech House,30,Afrobeat,5,2013,1.0201207243460764
-3,Tech House,103,Tech Trance,7,2013,1.0301810865191148
-3,Tech House,68,Soundtrack,2,2013,1.0050301810865192
-3,Tech House,176,Punk,2,2013,1.0050301810865192
-3,Tech House,118,Hard Techno,1,2013,1.0
-3,Tech House,125,Hardcore,2,2013,1.0050301810865192
-3,Tech House,138,Country Rock,2,2013,1.0050301810865192
-3,Tech House,129,Reggae-Pop,6,2013,1.0251509054325956
-3,Tech House,37,Schlager,3,2013,1.0100603621730382
-3,Tech House,69,Ballad,7,2013,1.0301810865191148
-3,Tech House,234,Post-Punk,1,2013,1.0
-3,Tech House,90,Jumpstyle,1,2013,1.0
-3,Tech House,18,Italodance,1,2013,1.0
-3,Tech House,203,Psy-Trance,1,2013,1.0
-3,Tech House,206,Electroclash,1,2013,1.0
-3,Tech House,189,Folk Rock,2,2013,1.0050301810865192
-3,Tech House,133,Samba,1,2013,1.0
-3,Tech House,441,Gamelan,1,2013,1.0
-3,Tech House,387,Post-Modern,1,2013,1.0
-3,Tech House,269,Art Rock,1,2013,1.0
-3,Tech House,301,Jazz-Rock,1,2013,1.0
-3,Tech House,316,Medieval,1,2013,1.0
-3,Tech House,110,Soft Rock,1,2013,1.0
-3,Tech House,107,Folk,1,2013,1.0
-3,Tech House,205,Avantgarde,1,2013,1.0
-3,Tech House,223,Celtic,1,2013,1.0
-3,Tech House,198,New Age,1,2013,1.0
-3,Tech House,278,Bassline,3,2013,1.0100603621730382
-3,Tech House,35,Jazzdance,2,2013,1.0050301810865192
-8,Progressive House,1,House,647,2013,4.2494969818913475
-8,Progressive House,53,Progressive Trance,494,2013,3.4798792756539236
-8,Progressive House,4,Deep House,307,2013,2.539235412474849
-8,Progressive House,3,Tech House,340,2013,2.70523138832998
-8,Progressive House,22,Techno,147,2013,1.7344064386317908
-8,Progressive House,6,Acid House,9,2013,1.040241448692153
-8,Progressive House,11,Electro House,743,2013,4.732394366197183
-8,Progressive House,201,Progressive Breaks,6,2013,1.0251509054325956
-8,Progressive House,25,Minimal,14,2013,1.0653923541247485
-8,Progressive House,7,Euro House,120,2013,1.5985915492957745
-8,Progressive House,16,Trance,354,2013,2.775653923541247
-8,Progressive House,20,Electro,166,2013,1.8299798792756539
-8,Progressive House,29,Dub,12,2013,1.0553319919517103
-8,Progressive House,134,Minimal Techno,4,2013,1.0150905432595574
-8,Progressive House,232,Dubstep,70,2013,1.3470824949698188
-8,Progressive House,24,Breaks,78,2013,1.3873239436619718
-8,Progressive House,81,Dance-pop,74,2013,1.3672032193158954
-8,Progressive House,40,Ambient,46,2013,1.2263581488933601
-8,Progressive House,68,Soundtrack,8,2013,1.0352112676056338
-8,Progressive House,69,Ballad,15,2013,1.0704225352112675
-8,Progressive House,209,K-pop,2,2013,1.0050301810865192
-8,Progressive House,13,Hip-House,18,2013,1.085513078470825
-8,Progressive House,225,Chiptune,5,2013,1.0201207243460764
-8,Progressive House,172,Classic Rock,5,2013,1.0201207243460764
-8,Progressive House,61,Synth-pop,48,2013,1.2364185110663983
-8,Progressive House,395,Trap,10,2013,1.045271629778672
-8,Progressive House,48,Freestyle,2,2013,1.0050301810865192
-8,Progressive House,62,RnB/Swing,21,2013,1.1006036217303823
-8,Progressive House,89,Pop Rock,28,2013,1.135814889336016
-8,Progressive House,32,Breakbeat,13,2013,1.0603621730382293
-8,Progressive House,84,Hi NRG,2,2013,1.0050301810865192
-8,Progressive House,21,Downtempo,57,2013,1.2816901408450705
-8,Progressive House,5,Garage House,8,2013,1.0352112676056338
-8,Progressive House,31,Europop,27,2013,1.130784708249497
-8,Progressive House,59,Hard Trance,25,2013,1.1207243460764587
-8,Progressive House,114,EBM,3,2013,1.0100603621730382
-8,Progressive House,72,Hardstyle,19,2013,1.090543259557344
-8,Progressive House,125,Hardcore,8,2013,1.0352112676056338
-8,Progressive House,107,Folk,3,2013,1.0100603621730382
-8,Progressive House,9,Tribal House,19,2013,1.090543259557344
-8,Progressive House,54,Hip Hop,17,2013,1.080482897384306
-8,Progressive House,115,Happy Hardcore,9,2013,1.040241448692153
-8,Progressive House,2,Hard House,21,2013,1.1006036217303823
-8,Progressive House,15,Disco,27,2013,1.130784708249497
-8,Progressive House,18,Italodance,13,2013,1.0603621730382293
-8,Progressive House,19,Tribal,7,2013,1.0301810865191148
-8,Progressive House,45,UK Garage,7,2013,1.0301810865191148
-8,Progressive House,67,Eurodance,18,2013,1.085513078470825
-8,Progressive House,85,Acoustic,2,2013,1.0050301810865192
-8,Progressive House,34,Vocal,19,2013,1.090543259557344
-8,Progressive House,74,Drum n Bass,40,2013,1.1961770623742454
-8,Progressive House,17,Latin,9,2013,1.040241448692153
-8,Progressive House,255,Tango,1,2013,1.0
-8,Progressive House,101,Eurobeat,1,2013,1.0
-8,Progressive House,106,Leftfield,6,2013,1.0251509054325956
-8,Progressive House,379,Glitch Hop,2,2013,1.0050301810865192
-8,Progressive House,137,Hands Up,6,2013,1.0251509054325956
-8,Progressive House,12,Ghetto House,2,2013,1.0050301810865192
-8,Progressive House,103,Tech Trance,4,2013,1.0150905432595574
-8,Progressive House,90,Jumpstyle,3,2013,1.0100603621730382
-8,Progressive House,46,Big Beat,5,2013,1.0201207243460764
-8,Progressive House,293,Dark Ambient,2,2013,1.0050301810865192
-8,Progressive House,200,Smooth Jazz,4,2013,1.0150905432595574
-8,Progressive House,119,Easy Listening,4,2013,1.0150905432595574
-8,Progressive House,129,Reggae-Pop,4,2013,1.0150905432595574
-8,Progressive House,88,Pop Rap,29,2013,1.1408450704225352
-8,Progressive House,113,Contemporary R&B,9,2013,1.040241448692153
-8,Progressive House,47,Soul,12,2013,1.0553319919517103
-8,Progressive House,189,Folk Rock,6,2013,1.0251509054325956
-8,Progressive House,66,J-pop,2,2013,1.0050301810865192
-8,Progressive House,122,Indie Rock,11,2013,1.0503018108651911
-8,Progressive House,42,Experimental,16,2013,1.0754527162977867
-8,Progressive House,98,Trip Hop,1,2013,1.0
-8,Progressive House,205,Avantgarde,3,2013,1.0100603621730382
-8,Progressive House,95,Industrial,2,2013,1.0050301810865192
-8,Progressive House,51,Dancehall,11,2013,1.0503018108651911
-8,Progressive House,109,Reggae,4,2013,1.0150905432595574
-8,Progressive House,121,Ragga HipHop,3,2013,1.0100603621730382
-8,Progressive House,91,Comedy,1,2013,1.0
-8,Progressive House,123,Chanson,5,2013,1.0201207243460764
-8,Progressive House,140,Rhythm & Blues,3,2013,1.0100603621730382
-8,Progressive House,28,Funk,3,2013,1.0100603621730382
-8,Progressive House,60,Dub Techno,2,2013,1.0050301810865192
-8,Progressive House,162,Psychedelic,1,2013,1.0
-8,Progressive House,253,J-Core,2,2013,1.0050301810865192
-8,Progressive House,174,Lo-Fi,2,2013,1.0050301810865192
-8,Progressive House,26,Acid,2,2013,1.0050301810865192
-8,Progressive House,77,Euro-Disco,1,2013,1.0
-8,Progressive House,104,Alternative Rock,7,2013,1.0301810865191148
-8,Progressive House,57,Juke,1,2013,1.0
-8,Progressive House,97,IDM,7,2013,1.0301810865191148
-8,Progressive House,171,Glitch,1,2013,1.0
-8,Progressive House,280,Boom Bap,1,2013,1.0
-8,Progressive House,204,Jazzy Hip-Hop,2,2013,1.0050301810865192
-8,Progressive House,203,Psy-Trance,4,2013,1.0150905432595574
-8,Progressive House,102,Jungle,3,2013,1.0100603621730382
-8,Progressive House,468,Azonto,1,2013,1.0
-8,Progressive House,147,Cut-up/DJ,3,2013,1.0100603621730382
-8,Progressive House,179,Deep Techno,1,2013,1.0
-8,Progressive House,130,Conscious,1,2013,1.0
-8,Progressive House,402,Disco Polo,1,2013,1.0
-8,Progressive House,260,Ethno-pop,1,2013,1.0
-8,Progressive House,240,Power Pop,1,2013,1.0
-8,Progressive House,210,Gabber,2,2013,1.0050301810865192
-8,Progressive House,118,Hard Techno,2,2013,1.0050301810865192
-8,Progressive House,213,Instrumental,1,2013,1.0
-8,Progressive House,49,Jazz-Funk,1,2013,1.0
-8,Progressive House,112,Fusion,1,2013,1.0
-8,Progressive House,136,Indie Pop,4,2013,1.0150905432595574
-8,Progressive House,23,Abstract,2,2013,1.0050301810865192
-8,Progressive House,415,Skweee,1,2013,1.0
-8,Progressive House,111,Modern Classical,2,2013,1.0050301810865192
-8,Progressive House,294,Bass Music,2,2013,1.0050301810865192
-8,Progressive House,100,Grime,1,2013,1.0
-8,Progressive House,166,Neo Soul,4,2013,1.0150905432595574
-8,Progressive House,110,Soft Rock,8,2013,1.0352112676056338
-8,Progressive House,93,Nu-Disco,1,2013,1.0
-8,Progressive House,183,Parody,1,2013,1.0
-8,Progressive House,268,Thrash,2,2013,1.0050301810865192
-8,Progressive House,173,Hard Rock,2,2013,1.0050301810865192
-8,Progressive House,44,Future Jazz,1,2013,1.0
-8,Progressive House,141,Ghetto,1,2013,1.0
-8,Progressive House,10,French House,1,2013,1.0
-8,Progressive House,361,J-Rock,1,2013,1.0
-8,Progressive House,38,Makina,1,2013,1.0
-8,Progressive House,333,Speedcore,1,2013,1.0
-8,Progressive House,355,Ragtime,1,2013,1.0
-8,Progressive House,164,Dialogue,1,2013,1.0
-8,Progressive House,250,Prog Rock,1,2013,1.0
-8,Progressive House,202,New Wave,2,2013,1.0050301810865192
-8,Progressive House,221,Swing,1,2013,1.0
-8,Progressive House,142,Country,1,2013,1.0
-8,Progressive House,149,Ragga,2,2013,1.0050301810865192
-8,Progressive House,143,Bounce,2,2013,1.0050301810865192
-8,Progressive House,237,Blues Rock,1,2013,1.0
-8,Progressive House,198,New Age,2,2013,1.0050301810865192
-8,Progressive House,307,Schranz,1,2013,1.0
-8,Progressive House,269,Art Rock,2,2013,1.0050301810865192
-8,Progressive House,216,Symphonic Rock,1,2013,1.0
-8,Progressive House,154,Ska,1,2013,1.0
-8,Progressive House,214,Psychedelic Rock,1,2013,1.0
-8,Progressive House,187,Latin Jazz,1,2013,1.0
-8,Progressive House,387,Post-Modern,1,2013,1.0
-8,Progressive House,301,Jazz-Rock,1,2013,1.0
-8,Progressive House,316,Medieval,1,2013,1.0
-8,Progressive House,223,Celtic,1,2013,1.0
-8,Progressive House,50,Contemporary,1,2013,1.0
-8,Progressive House,65,Tropical House,2,2013,1.0050301810865192
-8,Progressive House,71,Gospel,1,2013,1.0
+1,House,4,Deep House,54,2013,2.7869415807560136
+1,House,3,Tech House,40,2013,2.3058419243986252
+1,House,7,Garage House,7,2013,1.1718213058419245
+1,House,31,Acid House,7,2013,1.1718213058419245
+1,House,6,Tribal House,4,2013,1.0687285223367697
+1,House,15,Electro House,9,2013,1.2405498281786942
+1,House,5,Progressive House,11,2013,1.309278350515464
+1,House,2,Euro House,4,2013,1.0687285223367697
+1,House,30,Dub,2,2013,1.0
+1,House,9,Techno,2,2013,1.0
+9,Techno,69,Minimal Techno,15,2013,1.4467353951890034
+9,Techno,65,Dub Techno,11,2013,1.309278350515464
+9,Techno,116,Hard Techno,6,2013,1.1374570446735395
+9,Techno,52,Hardstyle,2,2013,1.0
+9,Techno,11,Electro,13,2013,1.3780068728522337
+9,Techno,1,House,28,2013,1.8934707903780068
+9,Techno,24,Ambient,10,2013,1.274914089347079
+9,Techno,75,Abstract,2,2013,1.0
+9,Techno,58,Experimental,6,2013,1.1374570446735395
+9,Techno,14,Minimal,5,2013,1.1030927835051547
+9,Techno,119,Industrial,3,2013,1.034364261168385
+9,Techno,40,Acid,3,2013,1.034364261168385
+9,Techno,45,Leftfield,2,2013,1.0
+3,Tech House,1,House,107,2013,4.608247422680412
+3,Tech House,5,Progressive House,10,2013,1.274914089347079
+3,Tech House,11,Electro,18,2013,1.5498281786941581
+3,Tech House,9,Techno,31,2013,1.9965635738831615
+3,Tech House,14,Minimal,17,2013,1.5154639175257731
+3,Tech House,4,Deep House,59,2013,2.9587628865979383
+3,Tech House,16,Trance,2,2013,1.0
+3,Tech House,15,Electro House,5,2013,1.1030927835051547
+3,Tech House,2,Euro House,2,2013,1.0
+5,Progressive House,1,House,108,2013,4.642611683848797
+5,Progressive House,53,Progressive Trance,77,2013,3.577319587628866
+5,Progressive House,4,Deep House,38,2013,2.2371134020618557
+5,Progressive House,3,Tech House,30,2013,1.9621993127147768
+5,Progressive House,9,Techno,14,2013,1.4123711340206184
+5,Progressive House,15,Electro House,68,2013,3.268041237113402
+5,Progressive House,14,Minimal,3,2013,1.034364261168385
+5,Progressive House,2,Euro House,9,2013,1.2405498281786942
+5,Progressive House,11,Electro,16,2013,1.4810996563573884
+5,Progressive House,30,Dub,4,2013,1.0687285223367697
+5,Progressive House,16,Trance,60,2013,2.993127147766323
+5,Progressive House,37,Dubstep,6,2013,1.1374570446735395
+5,Progressive House,21,Dance-pop,7,2013,1.1718213058419245
+5,Progressive House,24,Ambient,3,2013,1.034364261168385
+5,Progressive House,111,Ballad,2,2013,1.0
+5,Progressive House,41,Soundtrack,3,2013,1.034364261168385
+5,Progressive House,22,Hip-House,3,2013,1.034364261168385
+5,Progressive House,79,Synth-pop,2,2013,1.0
+5,Progressive House,222,Hi NRG,2,2013,1.0
+5,Progressive House,129,Classic Rock,2,2013,1.0
+5,Progressive House,191,RnB/Swing,2,2013,1.0
+5,Progressive House,55,Trap,2,2013,1.0
+5,Progressive House,57,Freestyle,2,2013,1.0
+5,Progressive House,125,Pop Rock,2,2013,1.0
+5,Progressive House,34,Breakbeat,2,2013,1.0
+5,Progressive House,32,Downtempo,2,2013,1.0
+4,Deep House,1,House,89,2013,3.9896907216494846
+4,Deep House,32,Downtempo,12,2013,1.343642611683849
+4,Deep House,9,Techno,2,2013,1.0
+4,Deep House,15,Electro House,4,2013,1.0687285223367697
+4,Deep House,8,Disco,6,2013,1.1374570446735395
+4,Deep House,3,Tech House,11,2013,1.309278350515464
+4,Deep House,6,Tribal House,4,2013,1.0687285223367697
+4,Deep House,7,Garage House,3,2013,1.034364261168385
+4,Deep House,5,Progressive House,8,2013,1.2061855670103092
+4,Deep House,24,Ambient,2,2013,1.0
+14,Minimal,69,Minimal Techno,22,2013,1.6872852233676976
+14,Minimal,9,Techno,78,2013,3.611683848797251
+14,Minimal,24,Ambient,48,2013,2.580756013745704
+14,Minimal,11,Electro,9,2013,1.2405498281786942
+14,Minimal,1,House,27,2013,1.859106529209622
+14,Minimal,135,Schranz,2,2013,1.0
+14,Minimal,58,Experimental,67,2013,3.2336769759450172
+14,Minimal,139,Avantgarde,4,2013,1.0687285223367697
+14,Minimal,45,Leftfield,2,2013,1.0
+14,Minimal,156,Contemporary,15,2013,1.4467353951890034
+14,Minimal,4,Deep House,4,2013,1.0687285223367697
+14,Minimal,3,Tech House,15,2013,1.4467353951890034
+14,Minimal,142,Drone,12,2013,1.343642611683849
+14,Minimal,30,Dub,7,2013,1.1718213058419245
+14,Minimal,140,Darkwave,9,2013,1.2405498281786942
+14,Minimal,75,Abstract,15,2013,1.4467353951890034
+14,Minimal,42,Synthwave,2,2013,1.0
+14,Minimal,161,Krautrock,6,2013,1.1374570446735395
+14,Minimal,155,Modern,3,2013,1.034364261168385
+14,Minimal,318,Free Improvisation,4,2013,1.0687285223367697
+14,Minimal,119,Industrial,10,2013,1.274914089347079
+14,Minimal,172,Modern Classical,2,2013,1.0
+14,Minimal,79,Synth-pop,8,2013,1.2061855670103092
+14,Minimal,20,Vocal,2,2013,1.0
+14,Minimal,167,Field Recording,4,2013,1.0687285223367697
+14,Minimal,41,Soundtrack,2,2013,1.0
+14,Minimal,32,Downtempo,2,2013,1.0
+14,Minimal,96,Ethereal,2,2013,1.0
+67,Drum n Bass,16,Trance,2,2013,1.0
+67,Drum n Bass,73,Bass Music,2,2013,1.0
+67,Drum n Bass,37,Dubstep,40,2013,2.3058419243986252
+67,Drum n Bass,251,Halftime,2,2013,1.0
+67,Drum n Bass,1,House,7,2013,1.1718213058419245
+67,Drum n Bass,122,Hardcore,14,2013,1.4123711340206184
+67,Drum n Bass,34,Breakbeat,7,2013,1.1718213058419245
+67,Drum n Bass,24,Ambient,3,2013,1.034364261168385
+67,Drum n Bass,82,Breakcore,6,2013,1.1374570446735395
+67,Drum n Bass,56,Jungle,16,2013,1.4810996563573884
+67,Drum n Bass,11,Electro,7,2013,1.1718213058419245
+67,Drum n Bass,58,Experimental,7,2013,1.1718213058419245
+67,Drum n Bass,30,Dub,5,2013,1.1030927835051547
+67,Drum n Bass,119,Industrial,3,2013,1.034364261168385
+67,Drum n Bass,32,Downtempo,5,2013,1.1030927835051547
+67,Drum n Bass,75,Abstract,2,2013,1.0
+67,Drum n Bass,55,Trap,2,2013,1.0
+67,Drum n Bass,12,IDM,2,2013,1.0
+67,Drum n Bass,9,Techno,2,2013,1.0
+67,Drum n Bass,90,Grime,3,2013,1.034364261168385
+8,Disco,255,Italo-Disco,12,2013,1.343642611683849
+8,Disco,64,Nu-Disco,11,2013,1.309278350515464
+8,Disco,201,Disco Polo,2,2013,1.0
+8,Disco,202,Euro-Disco,8,2013,1.2061855670103092
+8,Disco,26,Funk,5,2013,1.1030927835051547
+8,Disco,1,House,31,2013,1.9965635738831615
+8,Disco,43,Eurodance,2,2013,1.0
+8,Disco,32,Downtempo,3,2013,1.034364261168385
+8,Disco,11,Electro,2,2013,1.0
+8,Disco,54,Soul,2,2013,1.0
+16,Trance,40,Acid,6,2013,1.1374570446735395
+16,Trance,89,Hard Trance,16,2013,1.4810996563573884
+16,Trance,37,Dubstep,12,2013,1.343642611683849
+16,Trance,53,Progressive Trance,62,2013,3.0618556701030926
+16,Trance,13,Breaks,2,2013,1.0
+16,Trance,9,Techno,21,2013,1.6529209621993126
+16,Trance,61,Happy Hardcore,2,2013,1.0
+16,Trance,57,Freestyle,3,2013,1.034364261168385
+16,Trance,58,Experimental,3,2013,1.034364261168385
+16,Trance,24,Ambient,2,2013,1.0
+16,Trance,11,Electro,8,2013,1.2061855670103092
+16,Trance,1,House,7,2013,1.1718213058419245
+16,Trance,79,Synth-pop,7,2013,1.1718213058419245
+16,Trance,5,Progressive House,5,2013,1.1030927835051547
+16,Trance,15,Electro House,3,2013,1.034364261168385
+16,Trance,31,Acid House,2,2013,1.0
+16,Trance,3,Tech House,2,2013,1.0
+16,Trance,12,IDM,2,2013,1.0
+16,Trance,118,Noise,2,2013,1.0
+16,Trance,20,Vocal,2,2013,1.0
+16,Trance,196,Chanson,2,2013,1.0
+16,Trance,75,Abstract,2,2013,1.0
+16,Trance,222,Hi NRG,2,2013,1.0
+16,Trance,129,Classic Rock,2,2013,1.0
+16,Trance,191,RnB/Swing,2,2013,1.0
+16,Trance,55,Trap,2,2013,1.0
+16,Trance,125,Pop Rock,2,2013,1.0
+16,Trance,34,Breakbeat,2,2013,1.0
+16,Trance,22,Hip-House,2,2013,1.0
+16,Trance,66,Tech Trance,9,2013,1.2405498281786942
+16,Trance,80,Psy-Trance,2,2013,1.0
+11,Electro,15,Electro House,15,2013,1.4467353951890034
+11,Electro,73,Bass Music,2,2013,1.0
+11,Electro,1,House,4,2013,1.0687285223367697
+11,Electro,9,Techno,16,2013,1.4810996563573884
+11,Electro,58,Experimental,2,2013,1.0
+11,Electro,70,EBM,2,2013,1.0
+24,Ambient,162,Dark Ambient,24,2013,1.7560137457044673
+24,Ambient,45,Leftfield,3,2013,1.034364261168385
+24,Ambient,119,Industrial,2,2013,1.0
+24,Ambient,58,Experimental,26,2013,1.824742268041237
+24,Ambient,9,Techno,19,2013,1.584192439862543
+24,Ambient,12,IDM,6,2013,1.1374570446735395
+24,Ambient,142,Drone,13,2013,1.3780068728522337
+24,Ambient,1,House,6,2013,1.1374570446735395
+24,Ambient,41,Soundtrack,4,2013,1.0687285223367697
+24,Ambient,32,Downtempo,7,2013,1.1718213058419245
+24,Ambient,75,Abstract,4,2013,1.0687285223367697
+24,Ambient,14,Minimal,4,2013,1.0687285223367697
+24,Ambient,148,Folk,2,2013,1.0
+24,Ambient,96,Ethereal,2,2013,1.0
+24,Ambient,153,Score,2,2013,1.0
+24,Ambient,8,Disco,2,2013,1.0
+53,Progressive Trance,66,Tech Trance,2,2013,1.0
+53,Progressive Trance,37,Dubstep,11,2013,1.309278350515464
+53,Progressive Trance,16,Trance,293,2013,11.0
+53,Progressive Trance,5,Progressive House,60,2013,2.993127147766323
+53,Progressive Trance,80,Psy-Trance,48,2013,2.580756013745704
+53,Progressive Trance,13,Breaks,2,2013,1.0
+53,Progressive Trance,24,Ambient,6,2013,1.1374570446735395
+53,Progressive Trance,1,House,2,2013,1.0
+53,Progressive Trance,89,Hard Trance,3,2013,1.034364261168385
+116,Hard Techno,9,Techno,91,2013,4.058419243986254
+116,Hard Techno,141,Ghettotech,2,2013,1.0
+116,Hard Techno,52,Hardstyle,12,2013,1.343642611683849
+116,Hard Techno,40,Acid,19,2013,1.584192439862543
+116,Hard Techno,122,Hardcore,24,2013,1.7560137457044673
+116,Hard Techno,143,Freetekno,18,2013,1.5498281786941581
+116,Hard Techno,58,Experimental,3,2013,1.034364261168385
+116,Hard Techno,121,Gabber,6,2013,1.1374570446735395
+116,Hard Techno,82,Breakcore,3,2013,1.034364261168385
+116,Hard Techno,50,Tribal,10,2013,1.274914089347079
+116,Hard Techno,80,Psy-Trance,4,2013,1.0687285223367697
+116,Hard Techno,37,Dubstep,6,2013,1.1374570446735395
+116,Hard Techno,67,Drum n Bass,5,2013,1.1030927835051547
+116,Hard Techno,89,Hard Trance,13,2013,1.3780068728522337
+116,Hard Techno,10,Hard House,7,2013,1.1718213058419245
+116,Hard Techno,135,Schranz,23,2013,1.7216494845360826
+116,Hard Techno,119,Industrial,5,2013,1.1030927835051547
+116,Hard Techno,34,Breakbeat,3,2013,1.034364261168385
+116,Hard Techno,16,Trance,8,2013,1.2061855670103092
+116,Hard Techno,66,Tech Trance,4,2013,1.0687285223367697
+116,Hard Techno,11,Electro,8,2013,1.2061855670103092
+116,Hard Techno,4,Deep House,2,2013,1.0
+116,Hard Techno,147,Jumpstyle,2,2013,1.0
+116,Hard Techno,61,Happy Hardcore,6,2013,1.1374570446735395
+116,Hard Techno,203,Speedcore,3,2013,1.034364261168385
+116,Hard Techno,15,Electro House,3,2013,1.034364261168385
+116,Hard Techno,127,Chiptune,4,2013,1.0687285223367697
+116,Hard Techno,32,Downtempo,2,2013,1.0
+116,Hard Techno,53,Progressive Trance,2,2013,1.0
+116,Hard Techno,94,J-pop,2,2013,1.0
+116,Hard Techno,12,IDM,4,2013,1.0687285223367697
+116,Hard Techno,24,Ambient,3,2013,1.034364261168385
+116,Hard Techno,118,Noise,2,2013,1.0
+116,Hard Techno,14,Minimal,4,2013,1.0687285223367697
+116,Hard Techno,69,Minimal Techno,4,2013,1.0687285223367697
+116,Hard Techno,74,Bassline,2,2013,1.0
+116,Hard Techno,109,Electroclash,2,2013,1.0
+116,Hard Techno,1,House,5,2013,1.1030927835051547
+116,Hard Techno,59,UK Garage,2,2013,1.0
+116,Hard Techno,5,Progressive House,2,2013,1.0
+37,Dubstep,9,Techno,13,2013,1.3780068728522337
+37,Dubstep,34,Breakbeat,7,2013,1.1718213058419245
+37,Dubstep,32,Downtempo,5,2013,1.1030927835051547
+37,Dubstep,45,Leftfield,6,2013,1.1374570446735395
+37,Dubstep,90,Grime,12,2013,1.343642611683849
+37,Dubstep,1,House,13,2013,1.3780068728522337
+37,Dubstep,204,Reggae,2,2013,1.0
+37,Dubstep,38,Glitch,4,2013,1.0687285223367697
+37,Dubstep,11,Electro,26,2013,1.824742268041237
+37,Dubstep,30,Dub,17,2013,1.5154639175257731
+37,Dubstep,12,IDM,6,2013,1.1374570446735395
+37,Dubstep,148,Folk,3,2013,1.034364261168385
+37,Dubstep,122,Hardcore,4,2013,1.0687285223367697
+37,Dubstep,16,Trance,6,2013,1.1374570446735395
+37,Dubstep,168,Classical,9,2013,1.2405498281786942
+37,Dubstep,75,Abstract,2,2013,1.0
+37,Dubstep,58,Experimental,2,2013,1.0
+37,Dubstep,59,UK Garage,2,2013,1.0
+37,Dubstep,289,Nu Metal,12,2013,1.343642611683849
+37,Dubstep,24,Ambient,3,2013,1.034364261168385
+37,Dubstep,13,Breaks,2,2013,1.0
+37,Dubstep,132,Alternative Rock,5,2013,1.1030927835051547
+37,Dubstep,56,Jungle,2,2013,1.0
+37,Dubstep,15,Electro House,4,2013,1.0687285223367697
+26,Funk,230,Jazz-Funk,43,2013,2.4089347079037804
+26,Funk,32,Downtempo,5,2013,1.1030927835051547
+26,Funk,8,Disco,31,2013,1.9965635738831615
+26,Funk,54,Soul,47,2013,2.5463917525773194
+26,Funk,136,Psychedelic,2,2013,1.0
+26,Funk,254,Afrobeat,8,2013,1.2061855670103092
+26,Funk,11,Electro,8,2013,1.2061855670103092
+26,Funk,34,Breakbeat,21,2013,1.6529209621993126
+26,Funk,107,Boogie,3,2013,1.034364261168385
+26,Funk,46,African,3,2013,1.034364261168385
+26,Funk,180,Instrumental,2,2013,1.0
+26,Funk,387,Free Funk,4,2013,1.0687285223367697
+26,Funk,41,Soundtrack,5,2013,1.1030927835051547
+26,Funk,159,Gangsta,4,2013,1.0687285223367697
+26,Funk,97,Fusion,3,2013,1.034364261168385
+26,Funk,440,P.Funk,2,2013,1.0
+26,Funk,1,House,9,2013,1.2405498281786942
+26,Funk,38,Glitch,4,2013,1.0687285223367697
+26,Funk,326,G-Funk,2,2013,1.0
+26,Funk,30,Dub,2,2013,1.0
+26,Funk,83,Vaporwave,3,2013,1.034364261168385
+26,Funk,13,Breaks,2,2013,1.0
+26,Funk,93,Broken Beat,2,2013,1.0
+32,Downtempo,45,Leftfield,12,2013,1.343642611683849
+32,Downtempo,24,Ambient,32,2013,2.0309278350515463
+32,Downtempo,37,Dubstep,3,2013,1.034364261168385
+32,Downtempo,9,Techno,6,2013,1.1374570446735395
+32,Downtempo,1,House,19,2013,1.584192439862543
+32,Downtempo,8,Disco,15,2013,1.4467353951890034
+32,Downtempo,72,Chillwave,2,2013,1.0
+32,Downtempo,12,IDM,6,2013,1.1374570446735395
+32,Downtempo,58,Experimental,15,2013,1.4467353951890034
+32,Downtempo,180,Instrumental,6,2013,1.1374570446735395
+32,Downtempo,57,Freestyle,2,2013,1.0
+32,Downtempo,11,Electro,13,2013,1.3780068728522337
+32,Downtempo,75,Abstract,10,2013,1.274914089347079
+32,Downtempo,158,Shoegaze,3,2013,1.034364261168385
+32,Downtempo,54,Soul,2,2013,1.0
+32,Downtempo,144,MPB,2,2013,1.0
+32,Downtempo,111,Ballad,2,2013,1.0
+32,Downtempo,96,Ethereal,3,2013,1.034364261168385
+32,Downtempo,30,Dub,5,2013,1.1030927835051547
+32,Downtempo,414,Tango,2,2013,1.0
+34,Breakbeat,1,House,57,2013,2.8900343642611683
+34,Breakbeat,26,Funk,22,2013,1.6872852233676976
+34,Breakbeat,37,Dubstep,54,2013,2.7869415807560136
+34,Breakbeat,9,Techno,62,2013,3.0618556701030926
+34,Breakbeat,11,Electro,50,2013,2.649484536082474
+34,Breakbeat,122,Hardcore,71,2013,3.3711340206185567
+34,Breakbeat,8,Disco,13,2013,1.3780068728522337
+34,Breakbeat,90,Grime,3,2013,1.034364261168385
+34,Breakbeat,127,Chiptune,8,2013,1.2061855670103092
+34,Breakbeat,13,Breaks,49,2013,2.6151202749140894
+34,Breakbeat,32,Downtempo,33,2013,2.065292096219931
+34,Breakbeat,56,Jungle,36,2013,2.168384879725086
+34,Breakbeat,59,UK Garage,15,2013,1.4467353951890034
+34,Breakbeat,24,Ambient,15,2013,1.4467353951890034
+34,Breakbeat,143,Freetekno,4,2013,1.0687285223367697
+34,Breakbeat,40,Acid,12,2013,1.343642611683849
+34,Breakbeat,180,Instrumental,10,2013,1.274914089347079
+34,Breakbeat,58,Experimental,28,2013,1.8934707903780068
+34,Breakbeat,38,Glitch,4,2013,1.0687285223367697
+34,Breakbeat,45,Leftfield,17,2013,1.5154639175257731
+34,Breakbeat,119,Industrial,17,2013,1.5154639175257731
+34,Breakbeat,134,Punk,5,2013,1.1030927835051547
+34,Breakbeat,108,Hip Hop,36,2013,2.168384879725086
+34,Breakbeat,191,RnB/Swing,6,2013,1.1374570446735395
+34,Breakbeat,82,Breakcore,12,2013,1.343642611683849
+34,Breakbeat,120,Big Beat,7,2013,1.1718213058419245
+34,Breakbeat,67,Drum n Bass,45,2013,2.47766323024055
+34,Breakbeat,3,Tech House,4,2013,1.0687285223367697
+34,Breakbeat,64,Nu-Disco,2,2013,1.0
+34,Breakbeat,4,Deep House,15,2013,1.4467353951890034
+34,Breakbeat,12,IDM,20,2013,1.6185567010309279
+34,Breakbeat,118,Noise,4,2013,1.0687285223367697
+34,Breakbeat,238,Jazzy Hip-Hop,6,2013,1.1374570446735395
+34,Breakbeat,65,Dub Techno,6,2013,1.1374570446735395
+34,Breakbeat,358,Turntablism,2,2013,1.0
+34,Breakbeat,93,Broken Beat,12,2013,1.343642611683849
+34,Breakbeat,73,Bass Music,10,2013,1.274914089347079
+34,Breakbeat,142,Drone,4,2013,1.0687285223367697
+34,Breakbeat,31,Acid House,2,2013,1.0
+34,Breakbeat,170,Rhythmic Noise,3,2013,1.034364261168385
+34,Breakbeat,75,Abstract,13,2013,1.3780068728522337
+34,Breakbeat,162,Dark Ambient,6,2013,1.1374570446735395
+34,Breakbeat,54,Soul,5,2013,1.1030927835051547
+34,Breakbeat,57,Freestyle,6,2013,1.1374570446735395
+34,Breakbeat,77,Trip Hop,13,2013,1.3780068728522337
+34,Breakbeat,197,Post Rock,4,2013,1.0687285223367697
+34,Breakbeat,23,Future Jazz,6,2013,1.1374570446735395
+34,Breakbeat,30,Dub,10,2013,1.274914089347079
+34,Breakbeat,187,Acid Jazz,7,2013,1.1718213058419245
+34,Breakbeat,44,Lounge,2,2013,1.0
+34,Breakbeat,303,Cut-up/DJ,6,2013,1.1374570446735395
+34,Breakbeat,22,Hip-House,9,2013,1.2405498281786942
+34,Breakbeat,21,Dance-pop,5,2013,1.1030927835051547
+34,Breakbeat,125,Pop Rock,3,2013,1.034364261168385
+34,Breakbeat,15,Electro House,9,2013,1.2405498281786942
+34,Breakbeat,85,Pop Rap,6,2013,1.1374570446735395
+34,Breakbeat,5,Progressive House,2,2013,1.0
+34,Breakbeat,79,Synth-pop,14,2013,1.4123711340206184
+34,Breakbeat,222,Hi NRG,2,2013,1.0
+34,Breakbeat,129,Classic Rock,2,2013,1.0
+34,Breakbeat,16,Trance,12,2013,1.343642611683849
+34,Breakbeat,55,Trap,2,2013,1.0
+34,Breakbeat,121,Gabber,5,2013,1.1030927835051547
+34,Breakbeat,61,Happy Hardcore,13,2013,1.3780068728522337
+34,Breakbeat,62,Dancehall,4,2013,1.0687285223367697
+34,Breakbeat,148,Folk,3,2013,1.034364261168385
+34,Breakbeat,417,Bhangra,2,2013,1.0
+34,Breakbeat,199,Electro Swing,2,2013,1.0
+34,Breakbeat,209,Swing,5,2013,1.1030927835051547
+34,Breakbeat,50,Tribal,2,2013,1.0
+34,Breakbeat,139,Avantgarde,2,2013,1.0
+34,Breakbeat,126,Post-Punk,5,2013,1.1030927835051547
+34,Breakbeat,14,Minimal,4,2013,1.0687285223367697
+34,Breakbeat,165,Brass Band,4,2013,1.0687285223367697
+34,Breakbeat,264,Funkot,2,2013,1.0
+34,Breakbeat,116,Hard Techno,2,2013,1.0
+34,Breakbeat,272,Conscious,2,2013,1.0
+34,Breakbeat,20,Vocal,2,2013,1.0
+34,Breakbeat,89,Hard Trance,2,2013,1.0
+34,Breakbeat,114,J-Core,2,2013,1.0
+34,Breakbeat,183,Power Electronics,2,2013,1.0
+34,Breakbeat,10,Hard House,2,2013,1.0
+34,Breakbeat,94,J-pop,2,2013,1.0
+34,Breakbeat,421,Gypsy Jazz,2,2013,1.0
+54,Soul,219,Neo Soul,9,2013,1.2405498281786942
+54,Soul,87,Soul-Jazz,8,2013,1.2061855670103092
+54,Soul,26,Funk,21,2013,1.6529209621993126
+54,Soul,136,Psychedelic,2,2013,1.0
+54,Soul,8,Disco,12,2013,1.343642611683849
+54,Soul,111,Ballad,5,2013,1.1030927835051547
+54,Soul,20,Vocal,10,2013,1.274914089347079
+54,Soul,1,House,12,2013,1.343642611683849
+54,Soul,60,Gospel,4,2013,1.0687285223367697
+54,Soul,100,Contemporary R&B,2,2013,1.0
+54,Soul,32,Downtempo,5,2013,1.1030927835051547
+54,Soul,58,Experimental,2,2013,1.0
+54,Soul,180,Instrumental,3,2013,1.034364261168385
+54,Soul,28,Europop,2,2013,1.0
+54,Soul,204,Reggae,2,2013,1.0
+54,Soul,210,Rhythm & Blues,6,2013,1.1374570446735395
+54,Soul,13,Breaks,3,2013,1.034364261168385
+54,Soul,191,RnB/Swing,3,2013,1.034364261168385
+59,UK Garage,1,House,169,2013,6.738831615120275
+59,UK Garage,90,Grime,40,2013,2.3058419243986252
+59,UK Garage,9,Techno,43,2013,2.4089347079037804
+59,UK Garage,34,Breakbeat,15,2013,1.4467353951890034
+59,UK Garage,249,Speed Garage,6,2013,1.1374570446735395
+59,UK Garage,74,Bassline,20,2013,1.6185567010309279
+59,UK Garage,37,Dubstep,116,2013,4.917525773195877
+59,UK Garage,11,Electro,26,2013,1.824742268041237
+59,UK Garage,24,Ambient,30,2013,1.9621993127147768
+59,UK Garage,32,Downtempo,19,2013,1.584192439862543
+59,UK Garage,7,Garage House,45,2013,2.47766323024055
+59,UK Garage,14,Minimal,4,2013,1.0687285223367697
+59,UK Garage,4,Deep House,36,2013,2.168384879725086
+59,UK Garage,58,Experimental,15,2013,1.4467353951890034
+59,UK Garage,73,Bass Music,19,2013,1.584192439862543
+59,UK Garage,45,Leftfield,11,2013,1.309278350515464
+59,UK Garage,26,Funk,3,2013,1.034364261168385
+59,UK Garage,75,Abstract,9,2013,1.2405498281786942
+59,UK Garage,3,Tech House,10,2013,1.274914089347079
+59,UK Garage,30,Dub,13,2013,1.3780068728522337
+59,UK Garage,54,Soul,4,2013,1.0687285223367697
+59,UK Garage,6,Tribal House,3,2013,1.034364261168385
+59,UK Garage,93,Broken Beat,14,2013,1.4123711340206184
+59,UK Garage,56,Jungle,12,2013,1.343642611683849
+59,UK Garage,38,Glitch,2,2013,1.0
+59,UK Garage,19,Juke,12,2013,1.343642611683849
+59,UK Garage,108,Hip Hop,15,2013,1.4467353951890034
+59,UK Garage,191,RnB/Swing,14,2013,1.4123711340206184
+59,UK Garage,12,IDM,7,2013,1.1718213058419245
+59,UK Garage,67,Drum n Bass,34,2013,2.0996563573883162
+59,UK Garage,122,Hardcore,3,2013,1.034364261168385
+59,UK Garage,13,Breaks,8,2013,1.2061855670103092
+59,UK Garage,151,Acoustic,2,2013,1.0
+59,UK Garage,251,Halftime,4,2013,1.0687285223367697
+59,UK Garage,119,Industrial,3,2013,1.034364261168385
+59,UK Garage,15,Electro House,11,2013,1.309278350515464
+59,UK Garage,164,Samba,2,2013,1.0
+59,UK Garage,302,Ragga,2,2013,1.0
+59,UK Garage,8,Disco,9,2013,1.2405498281786942
+59,UK Garage,23,Future Jazz,2,2013,1.0
+59,UK Garage,219,Neo Soul,6,2013,1.1374570446735395
+59,UK Garage,160,Cumbia,2,2013,1.0
+59,UK Garage,62,Dancehall,2,2013,1.0
+59,UK Garage,5,Progressive House,7,2013,1.1718213058419245
+59,UK Garage,82,Breakcore,2,2013,1.0
+59,UK Garage,2,Euro House,7,2013,1.1718213058419245
+59,UK Garage,21,Dance-pop,3,2013,1.034364261168385
+59,UK Garage,20,Vocal,4,2013,1.0687285223367697
+59,UK Garage,100,Contemporary R&B,2,2013,1.0
+59,UK Garage,77,Trip Hop,6,2013,1.1374570446735395
+59,UK Garage,69,Minimal Techno,2,2013,1.0
+59,UK Garage,85,Pop Rap,6,2013,1.1374570446735395
+59,UK Garage,81,Indie Rock,3,2013,1.034364261168385
+59,UK Garage,116,Hard Techno,2,2013,1.0
+59,UK Garage,16,Trance,8,2013,1.2061855670103092
+59,UK Garage,172,Modern Classical,2,2013,1.0
+59,UK Garage,79,Synth-pop,13,2013,1.3780068728522337
+59,UK Garage,132,Alternative Rock,3,2013,1.034364261168385
+59,UK Garage,128,Lo-Fi,2,2013,1.0
+59,UK Garage,125,Pop Rock,6,2013,1.1374570446735395
+59,UK Garage,31,Acid House,2,2013,1.0
+59,UK Garage,120,Big Beat,2,2013,1.0
+59,UK Garage,166,Big Band,2,2013,1.0
+59,UK Garage,43,Eurodance,3,2013,1.034364261168385
+56,Jungle,9,Techno,32,2013,2.0309278350515463
+56,Jungle,90,Grime,11,2013,1.309278350515464
+56,Jungle,82,Breakcore,39,2013,2.2714776632302405
+56,Jungle,58,Experimental,15,2013,1.4467353951890034
+56,Jungle,19,Juke,30,2013,1.9621993127147768
+56,Jungle,62,Dancehall,7,2013,1.1718213058419245
+56,Jungle,235,Footwork,4,2013,1.0687285223367697
+56,Jungle,122,Hardcore,53,2013,2.752577319587629
+56,Jungle,34,Breakbeat,58,2013,2.9243986254295535
+56,Jungle,1,House,13,2013,1.3780068728522337
+56,Jungle,13,Breaks,54,2013,2.7869415807560136
+56,Jungle,75,Abstract,2,2013,1.0
+56,Jungle,50,Tribal,3,2013,1.034364261168385
+56,Jungle,73,Bass Music,6,2013,1.1374570446735395
+56,Jungle,37,Dubstep,46,2013,2.5120274914089347
+56,Jungle,30,Dub,26,2013,1.824742268041237
+56,Jungle,67,Drum n Bass,128,2013,5.329896907216495
+56,Jungle,108,Hip Hop,9,2013,1.2405498281786942
+56,Jungle,143,Freetekno,3,2013,1.034364261168385
+56,Jungle,93,Broken Beat,4,2013,1.0687285223367697
+56,Jungle,12,IDM,13,2013,1.3780068728522337
+56,Jungle,38,Glitch,7,2013,1.1718213058419245
+56,Jungle,59,UK Garage,12,2013,1.343642611683849
+56,Jungle,251,Halftime,9,2013,1.2405498281786942
+56,Jungle,65,Dub Techno,2,2013,1.0
+56,Jungle,77,Trip Hop,3,2013,1.034364261168385
+56,Jungle,172,Modern Classical,2,2013,1.0
+56,Jungle,32,Downtempo,9,2013,1.2405498281786942
+56,Jungle,20,Vocal,5,2013,1.1030927835051547
+56,Jungle,24,Ambient,13,2013,1.3780068728522337
+56,Jungle,302,Ragga,10,2013,1.274914089347079
+56,Jungle,4,Deep House,5,2013,1.1030927835051547
+56,Jungle,118,Noise,4,2013,1.0687285223367697
+56,Jungle,119,Industrial,6,2013,1.1374570446735395
+56,Jungle,11,Electro,12,2013,1.343642611683849
+56,Jungle,10,Hard House,2,2013,1.0
+56,Jungle,45,Leftfield,3,2013,1.034364261168385
+56,Jungle,403,Skweee,2,2013,1.0
+56,Jungle,187,Acid Jazz,2,2013,1.0
+56,Jungle,44,Lounge,2,2013,1.0
+56,Jungle,40,Acid,4,2013,1.0687285223367697
+56,Jungle,308,Roots Reggae,3,2013,1.034364261168385
+56,Jungle,142,Drone,4,2013,1.0687285223367697
+56,Jungle,174,Illbient,2,2013,1.0
+56,Jungle,79,Synth-pop,3,2013,1.034364261168385
+56,Jungle,121,Gabber,3,2013,1.034364261168385
+56,Jungle,204,Reggae,3,2013,1.034364261168385
+56,Jungle,61,Happy Hardcore,3,2013,1.034364261168385
+56,Jungle,127,Chiptune,2,2013,1.0
+56,Jungle,154,Ghetto,2,2013,1.0
+56,Jungle,134,Punk,2,2013,1.0
+56,Jungle,191,RnB/Swing,3,2013,1.034364261168385
+56,Jungle,5,Progressive House,3,2013,1.034364261168385
+56,Jungle,43,Eurodance,2,2013,1.0
+56,Jungle,29,Italodance,2,2013,1.0
+56,Jungle,85,Pop Rap,2,2013,1.0
+56,Jungle,8,Disco,2,2013,1.0
+56,Jungle,3,Tech House,2,2013,1.0
+13,Breaks,16,Trance,9,2013,1.2405498281786942
+13,Breaks,45,Leftfield,19,2013,1.584192439862543
+13,Breaks,30,Dub,17,2013,1.5154639175257731
+13,Breaks,32,Downtempo,49,2013,2.6151202749140894
+13,Breaks,1,House,23,2013,1.7216494845360826
+13,Breaks,34,Breakbeat,26,2013,1.824742268041237
+13,Breaks,122,Hardcore,15,2013,1.4467353951890034
+13,Breaks,11,Electro,29,2013,1.9278350515463918
+13,Breaks,9,Techno,30,2013,1.9621993127147768
+13,Breaks,230,Jazz-Funk,2,2013,1.0
+13,Breaks,3,Tech House,17,2013,1.5154639175257731
+13,Breaks,73,Bass Music,7,2013,1.1718213058419245
+13,Breaks,56,Jungle,15,2013,1.4467353951890034
+13,Breaks,40,Acid,7,2013,1.1718213058419245
+13,Breaks,26,Funk,4,2013,1.0687285223367697
+13,Breaks,108,Hip Hop,18,2013,1.5498281786941581
+13,Breaks,12,IDM,20,2013,1.6185567010309279
+13,Breaks,120,Big Beat,4,2013,1.0687285223367697
+13,Breaks,15,Electro House,17,2013,1.5154639175257731
+13,Breaks,37,Dubstep,29,2013,1.9278350515463918
+13,Breaks,74,Bassline,3,2013,1.034364261168385
+13,Breaks,58,Experimental,29,2013,1.9278350515463918
+13,Breaks,53,Progressive Trance,10,2013,1.274914089347079
+13,Breaks,4,Deep House,19,2013,1.584192439862543
+13,Breaks,67,Drum n Bass,33,2013,2.065292096219931
+13,Breaks,154,Ghetto,2,2013,1.0
+13,Breaks,46,African,2,2013,1.0
+13,Breaks,24,Ambient,16,2013,1.4810996563573884
+13,Breaks,23,Future Jazz,4,2013,1.0687285223367697
+13,Breaks,226,Rock & Roll,2,2013,1.0
+13,Breaks,77,Trip Hop,8,2013,1.2061855670103092
+13,Breaks,19,Juke,2,2013,1.0
+13,Breaks,38,Glitch,14,2013,1.4123711340206184
+13,Breaks,79,Synth-pop,10,2013,1.274914089347079
+13,Breaks,118,Noise,3,2013,1.034364261168385
+13,Breaks,69,Minimal Techno,2,2013,1.0
+13,Breaks,75,Abstract,17,2013,1.5154639175257731
+13,Breaks,93,Broken Beat,5,2013,1.1030927835051547
+13,Breaks,190,Anison,2,2013,1.0
+13,Breaks,241,Bossa Nova,2,2013,1.0
+13,Breaks,97,Fusion,2,2013,1.0
+13,Breaks,180,Instrumental,4,2013,1.0687285223367697
+13,Breaks,59,UK Garage,3,2013,1.034364261168385
+13,Breaks,8,Disco,8,2013,1.2061855670103092
+13,Breaks,81,Indie Rock,5,2013,1.1030927835051547
+13,Breaks,102,Indie Pop,6,2013,1.1374570446735395
+13,Breaks,119,Industrial,4,2013,1.0687285223367697
+13,Breaks,99,Parody,3,2013,1.034364261168385
+13,Breaks,174,Illbient,4,2013,1.0687285223367697
+13,Breaks,5,Progressive House,11,2013,1.309278350515464
+13,Breaks,109,Electroclash,5,2013,1.1030927835051547
+13,Breaks,64,Nu-Disco,10,2013,1.274914089347079
+13,Breaks,21,Dance-pop,7,2013,1.1718213058419245
+13,Breaks,22,Hip-House,7,2013,1.1718213058419245
+13,Breaks,82,Breakcore,3,2013,1.034364261168385
+13,Breaks,358,Turntablism,2,2013,1.0
+13,Breaks,303,Cut-up/DJ,4,2013,1.0687285223367697
+13,Breaks,107,Boogie,2,2013,1.0
+13,Breaks,101,Country Rock,2,2013,1.0
+13,Breaks,57,Freestyle,6,2013,1.1374570446735395
+13,Breaks,170,Rhythmic Noise,2,2013,1.0
+13,Breaks,18,Latin,4,2013,1.0687285223367697
+13,Breaks,54,Soul,5,2013,1.1030927835051547
+13,Breaks,136,Psychedelic,2,2013,1.0
+13,Breaks,50,Tribal,5,2013,1.1030927835051547
+13,Breaks,164,Samba,2,2013,1.0
+13,Breaks,148,Folk,3,2013,1.034364261168385
+13,Breaks,111,Ballad,6,2013,1.1374570446735395
+13,Breaks,20,Vocal,9,2013,1.2405498281786942
+13,Breaks,121,Gabber,2,2013,1.0
+13,Breaks,151,Acoustic,2,2013,1.0
+13,Breaks,80,Psy-Trance,2,2013,1.0
+13,Breaks,31,Acid House,4,2013,1.0687285223367697
+13,Breaks,211,New Wave,3,2013,1.034364261168385
+13,Breaks,172,Modern Classical,2,2013,1.0
+13,Breaks,41,Soundtrack,4,2013,1.0687285223367697
+13,Breaks,260,New Age,2,2013,1.0
+13,Breaks,219,Neo Soul,4,2013,1.0687285223367697
+13,Breaks,162,Dark Ambient,2,2013,1.0
+13,Breaks,132,Alternative Rock,4,2013,1.0687285223367697
+13,Breaks,272,Conscious,2,2013,1.0
+13,Breaks,28,Europop,6,2013,1.1374570446735395
+13,Breaks,29,Italodance,5,2013,1.1030927835051547
+13,Breaks,125,Pop Rock,7,2013,1.1718213058419245
+13,Breaks,2,Euro House,6,2013,1.1374570446735395
+13,Breaks,89,Hard Trance,2,2013,1.0
+13,Breaks,204,Reggae,3,2013,1.034364261168385
+13,Breaks,14,Minimal,2,2013,1.0
+13,Breaks,66,Tech Trance,2,2013,1.0
+13,Breaks,70,EBM,2,2013,1.0
+13,Breaks,129,Classic Rock,2,2013,1.0
+13,Breaks,6,Tribal House,2,2013,1.0
+13,Breaks,231,Soft Rock,3,2013,1.034364261168385
+13,Breaks,187,Acid Jazz,2,2013,1.0
+13,Breaks,156,Contemporary,2,2013,1.0
+13,Breaks,139,Avantgarde,2,2013,1.0
+13,Breaks,85,Pop Rap,2,2013,1.0
+13,Breaks,7,Garage House,2,2013,1.0
+65,Dub Techno,30,Dub,45,2013,2.47766323024055
+65,Dub Techno,9,Techno,228,2013,8.766323024054984
+65,Dub Techno,69,Minimal Techno,12,2013,1.343642611683849
+65,Dub Techno,40,Acid,5,2013,1.1030927835051547
+65,Dub Techno,37,Dubstep,7,2013,1.1718213058419245
+65,Dub Techno,14,Minimal,23,2013,1.7216494845360826
+65,Dub Techno,24,Ambient,54,2013,2.7869415807560136
+65,Dub Techno,1,House,25,2013,1.790378006872852
+65,Dub Techno,58,Experimental,19,2013,1.584192439862543
+65,Dub Techno,16,Trance,6,2013,1.1374570446735395
+65,Dub Techno,11,Electro,15,2013,1.4467353951890034
+65,Dub Techno,3,Tech House,13,2013,1.3780068728522337
+65,Dub Techno,12,IDM,17,2013,1.5154639175257731
+65,Dub Techno,4,Deep House,15,2013,1.4467353951890034
+65,Dub Techno,32,Downtempo,10,2013,1.274914089347079
+65,Dub Techno,75,Abstract,16,2013,1.4810996563573884
+65,Dub Techno,142,Drone,5,2013,1.1030927835051547
+65,Dub Techno,162,Dark Ambient,4,2013,1.0687285223367697
+65,Dub Techno,5,Progressive House,2,2013,1.0
+65,Dub Techno,197,Post Rock,2,2013,1.0
+65,Dub Techno,8,Disco,4,2013,1.0687285223367697
+65,Dub Techno,167,Field Recording,3,2013,1.034364261168385
+65,Dub Techno,172,Modern Classical,2,2013,1.0
+65,Dub Techno,38,Glitch,6,2013,1.1374570446735395
+65,Dub Techno,161,Krautrock,3,2013,1.034364261168385
+65,Dub Techno,255,Italo-Disco,3,2013,1.034364261168385
+65,Dub Techno,67,Drum n Bass,4,2013,1.0687285223367697
+65,Dub Techno,205,New Beat,2,2013,1.0
+65,Dub Techno,185,Space Rock,2,2013,1.0
+65,Dub Techno,123,Psychedelic Rock,3,2013,1.034364261168385
+65,Dub Techno,108,Hip Hop,2,2013,1.0
+65,Dub Techno,102,Indie Pop,3,2013,1.034364261168385
+65,Dub Techno,79,Synth-pop,2,2013,1.0
+65,Dub Techno,68,Deep Techno,3,2013,1.034364261168385
+65,Dub Techno,34,Breakbeat,5,2013,1.1030927835051547
+65,Dub Techno,139,Avantgarde,3,2013,1.034364261168385
+65,Dub Techno,119,Industrial,2,2013,1.0
+65,Dub Techno,148,Folk,2,2013,1.0
+65,Dub Techno,20,Vocal,2,2013,1.0
+65,Dub Techno,15,Electro House,2,2013,1.0
+65,Dub Techno,2,Euro House,2,2013,1.0

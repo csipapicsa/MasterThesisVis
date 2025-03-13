@@ -1,285 +1,760 @@
 source_id,source_name,target_id,target_name,weight,year,width
-3,Tech House,1,House,850,2023,11.0
-3,Tech House,20,Electro,199,2023,3.3321554770318023
-3,Tech House,4,Deep House,606,2023,8.12603062426384
-3,Tech House,6,Acid House,72,2023,1.8362779740871613
-3,Tech House,22,Techno,560,2023,7.5842167255594815
-3,Tech House,25,Minimal,449,2023,6.276796230859835
-3,Tech House,8,Progressive House,231,2023,3.7090694935217905
-3,Tech House,106,Leftfield,44,2023,1.5064782096584217
-3,Tech House,342,Bleep,5,2023,1.0471142520612484
-3,Tech House,24,Breaks,119,2023,2.3898704358068317
-3,Tech House,14,Italo House,9,2023,1.094228504122497
-3,Tech House,32,Breakbeat,117,2023,2.3663133097762072
-3,Tech House,21,Downtempo,66,2023,1.7656065959952887
-3,Tech House,11,Electro House,56,2023,1.6478209658421674
-3,Tech House,29,Dub,23,2023,1.259128386336867
-3,Tech House,16,Trance,65,2023,1.7538280329799765
-3,Tech House,26,Acid,120,2023,2.401648998822144
-3,Tech House,41,Microhouse,23,2023,1.259128386336867
-3,Tech House,103,Tech Trance,21,2023,1.2355712603062425
-3,Tech House,12,Ghetto House,7,2023,1.0706713780918728
-3,Tech House,19,Tribal,20,2023,1.2237926972909305
-3,Tech House,179,Deep Techno,84,2023,1.9776207302709068
-3,Tech House,15,Disco,28,2023,1.3180212014134276
-3,Tech House,5,Garage House,22,2023,1.2473498233215548
-3,Tech House,134,Minimal Techno,163,2023,2.9081272084805656
-3,Tech House,45,UK Garage,26,2023,1.2944640753828032
-3,Tech House,9,Tribal House,21,2023,1.2355712603062425
-3,Tech House,449,Future House,21,2023,1.2355712603062425
-3,Tech House,201,Progressive Breaks,7,2023,1.0706713780918728
-3,Tech House,93,Nu-Disco,31,2023,1.353356890459364
-3,Tech House,294,Bass Music,27,2023,1.3062426383981154
-3,Tech House,40,Ambient,55,2023,1.6360424028268552
-3,Tech House,332,Synthwave,8,2023,1.0824499411071848
-3,Tech House,404,Neo Trance,31,2023,1.353356890459364
-3,Tech House,60,Dub Techno,62,2023,1.71849234393404
-3,Tech House,97,IDM,21,2023,1.2355712603062425
-3,Tech House,293,Dark Ambient,6,2023,1.0588928150765606
-3,Tech House,67,Eurodance,6,2023,1.0588928150765606
-3,Tech House,102,Jungle,11,2023,1.1177856301531213
-3,Tech House,136,Indie Pop,8,2023,1.0824499411071848
-3,Tech House,42,Experimental,36,2023,1.4122497055359247
-3,Tech House,52,Speed Garage,8,2023,1.0824499411071848
-3,Tech House,177,Ambient House,9,2023,1.094228504122497
-3,Tech House,182,Balearic,16,2023,1.176678445229682
-3,Tech House,265,Boogie,1,2023,1.0
-3,Tech House,54,Hip Hop,7,2023,1.0706713780918728
-3,Tech House,114,EBM,5,2023,1.0471142520612484
-3,Tech House,81,Dance-pop,16,2023,1.176678445229682
-3,Tech House,53,Progressive Trance,18,2023,1.2002355712603063
-3,Tech House,10,French House,4,2023,1.0353356890459364
-3,Tech House,48,Freestyle,1,2023,1.0
-3,Tech House,64,Broken Beat,14,2023,1.1531213191990577
-3,Tech House,105,Italo-Disco,11,2023,1.1177856301531213
-3,Tech House,214,Psychedelic Rock,1,2023,1.0
-3,Tech House,38,Makina,4,2023,1.0353356890459364
-3,Tech House,74,Drum n Bass,25,2023,1.2826855123674912
-3,Tech House,155,Beatdown,4,2023,1.0353356890459364
-3,Tech House,55,Donk,1,2023,1.0
-3,Tech House,116,New Beat,2,2023,1.0117785630153122
-3,Tech House,61,Synth-pop,25,2023,1.2826855123674912
-3,Tech House,95,Industrial,7,2023,1.0706713780918728
-3,Tech House,7,Euro House,12,2023,1.1295641931684335
-3,Tech House,101,Eurobeat,1,2023,1.0
-3,Tech House,190,Breakcore,4,2023,1.0353356890459364
-3,Tech House,46,Big Beat,3,2023,1.0235571260306242
-3,Tech House,309,Neo-Classical,1,2023,1.0
-3,Tech House,202,New Wave,10,2023,1.1060070671378093
-3,Tech House,17,Latin,35,2023,1.4004711425206124
-3,Tech House,98,Trip Hop,4,2023,1.0353356890459364
-3,Tech House,145,UK Funky,1,2023,1.0
-3,Tech House,163,Video Game Music,1,2023,1.0
-3,Tech House,284,DJ Battle Tool,3,2023,1.0235571260306242
-3,Tech House,147,Cut-up/DJ,3,2023,1.0235571260306242
-3,Tech House,104,Alternative Rock,3,2023,1.0235571260306242
-3,Tech House,452,Footwork,2,2023,1.0117785630153122
-3,Tech House,153,New Jack Swing,1,2023,1.0
-3,Tech House,27,Ballroom,1,2023,1.0
-3,Tech House,203,Psy-Trance,11,2023,1.1177856301531213
-3,Tech House,313,Power Electronics,2,2023,1.0117785630153122
-3,Tech House,125,Hardcore,5,2023,1.0471142520612484
-3,Tech House,2,Hard House,24,2023,1.270906949352179
-3,Tech House,59,Hard Trance,4,2023,1.0353356890459364
-3,Tech House,30,Afrobeat,14,2023,1.1531213191990577
-3,Tech House,89,Pop Rock,2,2023,1.0117785630153122
-3,Tech House,85,Acoustic,2,2023,1.0117785630153122
-3,Tech House,118,Hard Techno,12,2023,1.1295641931684335
-3,Tech House,88,Pop Rap,7,2023,1.0706713780918728
-3,Tech House,31,Europop,3,2023,1.0235571260306242
-3,Tech House,148,Reggaeton,2,2023,1.0117785630153122
-3,Tech House,92,Latin Pop,2,2023,1.0117785630153122
-3,Tech House,69,Ballad,4,2023,1.0353356890459364
-3,Tech House,113,Contemporary R&B,2,2023,1.0117785630153122
-3,Tech House,395,Trap,1,2023,1.0
-3,Tech House,28,Funk,1,2023,1.0
-3,Tech House,110,Soft Rock,1,2023,1.0
-3,Tech House,13,Hip-House,7,2023,1.0706713780918728
-3,Tech House,199,Chillwave,5,2023,1.0471142520612484
-3,Tech House,278,Bassline,3,2023,1.0235571260306242
-3,Tech House,232,Dubstep,6,2023,1.0588928150765606
-3,Tech House,23,Abstract,6,2023,1.0588928150765606
-3,Tech House,132,Neofolk,1,2023,1.0
-3,Tech House,212,Rhythmic Noise,2,2023,1.0117785630153122
-3,Tech House,44,Future Jazz,1,2023,1.0
-3,Tech House,451,Hyperpop,1,2023,1.0
-3,Tech House,443,Witch House,2,2023,1.0117785630153122
-3,Tech House,245,Classical,2,2023,1.0117785630153122
-3,Tech House,187,Latin Jazz,1,2023,1.0
-3,Tech House,426,Dark Electro,2,2023,1.0117785630153122
-3,Tech House,305,Berlin-School,4,2023,1.0353356890459364
-3,Tech House,454,Bitpop,1,2023,1.0
-3,Tech House,225,Chiptune,1,2023,1.0
-3,Tech House,111,Modern Classical,4,2023,1.0353356890459364
-3,Tech House,150,Illbient,3,2023,1.0235571260306242
-3,Tech House,386,Indo-Pop,1,2023,1.0
-3,Tech House,243,Romantic,1,2023,1.0
-3,Tech House,323,Darkwave,1,2023,1.0
-3,Tech House,448,Vaporwave,4,2023,1.0353356890459364
-3,Tech House,65,Tropical House,2,2023,1.0117785630153122
-3,Tech House,137,Hands Up,1,2023,1.0
-3,Tech House,344,Space-Age,1,2023,1.0
-3,Tech House,412,Electroacoustic,1,2023,1.0
-3,Tech House,210,Gabber,2,2023,1.0117785630153122
-3,Tech House,438,Electro Swing,2,2023,1.0117785630153122
-3,Tech House,18,Italodance,3,2023,1.0235571260306242
-3,Tech House,87,Jersey Club,1,2023,1.0
-3,Tech House,58,African,1,2023,1.0
-3,Tech House,181,Holiday,1,2023,1.0
-3,Tech House,159,Lento Violento,2,2023,1.0117785630153122
-3,Tech House,455,Future Bass,1,2023,1.0
-3,Tech House,84,Hi NRG,1,2023,1.0
-3,Tech House,444,Moombahton,1,2023,1.0
-3,Tech House,352,Hard Beat,2,2023,1.0117785630153122
-3,Tech House,349,City Pop,1,2023,1.0
-3,Tech House,234,Post-Punk,2,2023,1.0117785630153122
-3,Tech House,275,No Wave,2,2023,1.0117785630153122
-3,Tech House,72,Hardstyle,1,2023,1.0
-3,Tech House,425,Free Funk,1,2023,1.0
-3,Tech House,171,Glitch,1,2023,1.0
-3,Tech House,152,Noise,1,2023,1.0
-3,Tech House,115,Happy Hardcore,1,2023,1.0
-3,Tech House,66,J-pop,1,2023,1.0
-3,Tech House,34,Vocal,1,2023,1.0
-3,Tech House,119,Easy Listening,1,2023,1.0
-8,Progressive House,1,House,427,2023,6.017667844522968
-8,Progressive House,53,Progressive Trance,289,2023,4.392226148409894
-8,Progressive House,201,Progressive Breaks,62,2023,1.71849234393404
-8,Progressive House,4,Deep House,353,2023,5.146054181389871
-8,Progressive House,3,Tech House,236,2023,3.767962308598351
-8,Progressive House,22,Techno,500,2023,6.877502944640754
-8,Progressive House,24,Breaks,65,2023,1.7538280329799765
-8,Progressive House,16,Trance,220,2023,3.579505300353357
-8,Progressive House,449,Future House,21,2023,1.2355712603062425
-8,Progressive House,20,Electro,68,2023,1.7891637220259127
-8,Progressive House,40,Ambient,52,2023,1.6007067137809188
-8,Progressive House,11,Electro House,104,2023,2.2131919905771493
-8,Progressive House,26,Acid,33,2023,1.3769140164899882
-8,Progressive House,7,Euro House,18,2023,1.2002355712603063
-8,Progressive House,21,Downtempo,104,2023,2.2131919905771493
-8,Progressive House,5,Garage House,6,2023,1.0588928150765606
-8,Progressive House,32,Breakbeat,53,2023,1.6124852767962308
-8,Progressive House,232,Dubstep,17,2023,1.1884570082449941
-8,Progressive House,182,Balearic,9,2023,1.094228504122497
-8,Progressive House,9,Tribal House,32,2023,1.365135453474676
-8,Progressive House,199,Chillwave,8,2023,1.0824499411071848
-8,Progressive House,19,Tribal,12,2023,1.1295641931684335
-8,Progressive House,65,Tropical House,5,2023,1.0471142520612484
-8,Progressive House,13,Hip-House,7,2023,1.0706713780918728
-8,Progressive House,6,Acid House,11,2023,1.1177856301531213
-8,Progressive House,14,Italo House,6,2023,1.0588928150765606
-8,Progressive House,93,Nu-Disco,41,2023,1.4711425206124853
-8,Progressive House,81,Dance-pop,58,2023,1.6713780918727914
-8,Progressive House,125,Hardcore,8,2023,1.0824499411071848
-8,Progressive House,2,Hard House,6,2023,1.0588928150765606
-8,Progressive House,17,Latin,2,2023,1.0117785630153122
-8,Progressive House,404,Neo Trance,18,2023,1.2002355712603063
-8,Progressive House,18,Italodance,10,2023,1.1060070671378093
-8,Progressive House,294,Bass Music,16,2023,1.176678445229682
-8,Progressive House,45,UK Garage,9,2023,1.094228504122497
-8,Progressive House,179,Deep Techno,40,2023,1.459363957597173
-8,Progressive House,29,Dub,8,2023,1.0824499411071848
-8,Progressive House,42,Experimental,24,2023,1.270906949352179
-8,Progressive House,475,Future Pop,1,2023,1.0
-8,Progressive House,426,Dark Electro,2,2023,1.0117785630153122
-8,Progressive House,60,Dub Techno,8,2023,1.0824499411071848
-8,Progressive House,68,Soundtrack,2,2023,1.0117785630153122
-8,Progressive House,69,Ballad,7,2023,1.0706713780918728
-8,Progressive House,106,Leftfield,8,2023,1.0824499411071848
-8,Progressive House,134,Minimal Techno,27,2023,1.3062426383981154
-8,Progressive House,98,Trip Hop,10,2023,1.1060070671378093
-8,Progressive House,97,IDM,44,2023,1.5064782096584217
-8,Progressive House,111,Modern Classical,1,2023,1.0
-8,Progressive House,61,Synth-pop,22,2023,1.2473498233215548
-8,Progressive House,171,Glitch,7,2023,1.0706713780918728
-8,Progressive House,452,Footwork,2,2023,1.0117785630153122
-8,Progressive House,212,Rhythmic Noise,3,2023,1.0235571260306242
-8,Progressive House,59,Hard Trance,10,2023,1.1060070671378093
-8,Progressive House,177,Ambient House,6,2023,1.0588928150765606
-8,Progressive House,64,Broken Beat,8,2023,1.0824499411071848
-8,Progressive House,114,EBM,5,2023,1.0471142520612484
-8,Progressive House,332,Synthwave,18,2023,1.2002355712603063
-8,Progressive House,103,Tech Trance,22,2023,1.2473498233215548
-8,Progressive House,122,Indie Rock,3,2023,1.0235571260306242
-8,Progressive House,41,Microhouse,2,2023,1.0117785630153122
-8,Progressive House,25,Minimal,9,2023,1.094228504122497
-8,Progressive House,95,Industrial,7,2023,1.0706713780918728
-8,Progressive House,165,Goa Trance,5,2023,1.0471142520612484
-8,Progressive House,137,Hands Up,12,2023,1.1295641931684335
-8,Progressive House,49,Jazz-Funk,5,2023,1.0471142520612484
-8,Progressive House,74,Drum n Bass,34,2023,1.3886925795053005
-8,Progressive House,205,Avantgarde,1,2023,1.0
-8,Progressive House,145,UK Funky,1,2023,1.0
-8,Progressive House,15,Disco,8,2023,1.0824499411071848
-8,Progressive House,323,Darkwave,2,2023,1.0117785630153122
-8,Progressive House,163,Video Game Music,2,2023,1.0117785630153122
-8,Progressive House,216,Symphonic Rock,1,2023,1.0
-8,Progressive House,309,Neo-Classical,1,2023,1.0
-8,Progressive House,102,Jungle,7,2023,1.0706713780918728
-8,Progressive House,130,Conscious,1,2023,1.0
-8,Progressive House,153,New Jack Swing,2,2023,1.0117785630153122
-8,Progressive House,27,Ballroom,1,2023,1.0
-8,Progressive House,202,New Wave,2,2023,1.0117785630153122
-8,Progressive House,395,Trap,5,2023,1.0471142520612484
-8,Progressive House,379,Glitch Hop,3,2023,1.0235571260306242
-8,Progressive House,455,Future Bass,7,2023,1.0706713780918728
-8,Progressive House,113,Contemporary R&B,5,2023,1.0471142520612484
-8,Progressive House,129,Reggae-Pop,1,2023,1.0
-8,Progressive House,116,New Beat,1,2023,1.0
-8,Progressive House,278,Bassline,2,2023,1.0117785630153122
-8,Progressive House,31,Europop,8,2023,1.0824499411071848
-8,Progressive House,94,Bubblegum,1,2023,1.0
-8,Progressive House,290,Shoegaze,1,2023,1.0
-8,Progressive House,89,Pop Rock,1,2023,1.0
-8,Progressive House,157,Interview,1,2023,1.0
-8,Progressive House,217,Contemporary Jazz,1,2023,1.0
-8,Progressive House,91,Comedy,1,2023,1.0
-8,Progressive House,197,Spoken Word,1,2023,1.0
-8,Progressive House,369,Field Recording,1,2023,1.0
-8,Progressive House,34,Vocal,5,2023,1.0471142520612484
-8,Progressive House,274,Light Music,1,2023,1.0
-8,Progressive House,136,Indie Pop,4,2023,1.0353356890459364
-8,Progressive House,67,Eurodance,5,2023,1.0471142520612484
-8,Progressive House,118,Hard Techno,4,2023,1.0353356890459364
-8,Progressive House,88,Pop Rap,4,2023,1.0353356890459364
-8,Progressive House,104,Alternative Rock,2,2023,1.0117785630153122
-8,Progressive House,30,Afrobeat,1,2023,1.0
-8,Progressive House,148,Reggaeton,2,2023,1.0117785630153122
-8,Progressive House,58,African,11,2023,1.1177856301531213
-8,Progressive House,72,Hardstyle,12,2023,1.1295641931684335
-8,Progressive House,444,Moombahton,2,2023,1.0117785630153122
-8,Progressive House,258,Mizrahi,6,2023,1.0588928150765606
-8,Progressive House,54,Hip Hop,3,2023,1.0235571260306242
-8,Progressive House,203,Psy-Trance,20,2023,1.2237926972909305
-8,Progressive House,174,Lo-Fi,2,2023,1.0117785630153122
-8,Progressive House,107,Folk,3,2023,1.0235571260306242
-8,Progressive House,85,Acoustic,3,2023,1.0235571260306242
-8,Progressive House,10,French House,1,2023,1.0
-8,Progressive House,47,Soul,1,2023,1.0
-8,Progressive House,159,Lento Violento,3,2023,1.0235571260306242
-8,Progressive House,23,Abstract,3,2023,1.0235571260306242
-8,Progressive House,198,New Age,3,2023,1.0235571260306242
-8,Progressive House,46,Big Beat,6,2023,1.0588928150765606
-8,Progressive House,115,Happy Hardcore,3,2023,1.0235571260306242
-8,Progressive House,448,Vaporwave,2,2023,1.0117785630153122
-8,Progressive House,55,Donk,2,2023,1.0117785630153122
-8,Progressive House,375,Plunderphonics,1,2023,1.0
-8,Progressive House,12,Ghetto House,1,2023,1.0
-8,Progressive House,225,Chiptune,1,2023,1.0
-8,Progressive House,344,Space-Age,1,2023,1.0
-8,Progressive House,190,Breakcore,1,2023,1.0
-8,Progressive House,476,Post-Metal,1,2023,1.0
-8,Progressive House,438,Electro Swing,1,2023,1.0
-8,Progressive House,311,Krautrock,3,2023,1.0235571260306242
-8,Progressive House,90,Jumpstyle,2,2023,1.0117785630153122
-8,Progressive House,105,Italo-Disco,1,2023,1.0
-8,Progressive House,38,Makina,1,2023,1.0
-8,Progressive House,376,Alt-Pop,1,2023,1.0
-8,Progressive House,349,City Pop,1,2023,1.0
-8,Progressive House,110,Soft Rock,2,2023,1.0117785630153122
-8,Progressive House,307,Schranz,1,2023,1.0
-8,Progressive House,100,Grime,1,2023,1.0
-8,Progressive House,251,Drone,1,2023,1.0
-8,Progressive House,66,J-pop,1,2023,1.0
-8,Progressive House,133,Samba,1,2023,1.0
-8,Progressive House,284,DJ Battle Tool,1,2023,1.0
+1,House,4,Deep House,81,2023,7.32
+1,House,3,Tech House,54,2023,5.16
+1,House,5,Progressive House,16,2023,2.12
+1,House,31,Acid House,6,2023,1.32
+1,House,7,Garage House,5,2023,1.24
+1,House,2,Euro House,11,2023,1.72
+1,House,22,Hip-House,3,2023,1.08
+1,House,10,Hard House,3,2023,1.08
+1,House,36,Ambient House,2,2023,1.0
+1,House,32,Downtempo,7,2023,1.4
+1,House,9,Techno,21,2023,2.52
+1,House,8,Disco,12,2023,1.8
+1,House,35,Tropical House,6,2023,1.32
+1,House,16,Trance,10,2023,1.6400000000000001
+1,House,30,Dub,3,2023,1.08
+1,House,54,Soul,3,2023,1.08
+1,House,13,Breaks,2,2023,1.0
+1,House,18,Latin,2,2023,1.0
+1,House,15,Electro House,4,2023,1.16
+1,House,92,Salsa,2,2023,1.0
+1,House,39,Future House,2,2023,1.0
+1,House,21,Dance-pop,13,2023,1.88
+1,House,34,Breakbeat,4,2023,1.16
+1,House,93,Broken Beat,2,2023,1.0
+1,House,59,UK Garage,2,2023,1.0
+1,House,94,J-pop,2,2023,1.0
+1,House,43,Eurodance,4,2023,1.16
+1,House,64,Nu-Disco,2,2023,1.0
+1,House,100,Contemporary R&B,2,2023,1.0
+1,House,102,Indie Pop,3,2023,1.08
+1,House,11,Electro,4,2023,1.16
+9,Techno,116,Hard Techno,14,2023,1.96
+9,Techno,119,Industrial,18,2023,2.2800000000000002
+9,Techno,65,Dub Techno,3,2023,1.08
+9,Techno,40,Acid,10,2023,1.6400000000000001
+9,Techno,69,Minimal Techno,2,2023,1.0
+9,Techno,135,Schranz,2,2023,1.0
+9,Techno,52,Hardstyle,2,2023,1.0
+9,Techno,32,Downtempo,4,2023,1.16
+9,Techno,143,Freetekno,3,2023,1.08
+9,Techno,16,Trance,8,2023,1.48
+9,Techno,1,House,14,2023,1.96
+9,Techno,58,Experimental,19,2023,2.3600000000000003
+9,Techno,24,Ambient,28,2023,3.08
+9,Techno,11,Electro,24,2023,2.76
+9,Techno,30,Dub,3,2023,1.08
+9,Techno,45,Leftfield,5,2023,1.24
+9,Techno,68,Deep Techno,4,2023,1.16
+9,Techno,12,IDM,8,2023,1.48
+9,Techno,89,Hard Trance,2,2023,1.0
+9,Techno,75,Abstract,6,2023,1.32
+9,Techno,34,Breakbeat,5,2023,1.24
+9,Techno,121,Gabber,2,2023,1.0
+9,Techno,122,Hardcore,2,2023,1.0
+9,Techno,118,Noise,4,2023,1.16
+9,Techno,19,Juke,2,2023,1.0
+9,Techno,21,Dance-pop,3,2023,1.08
+9,Techno,79,Synth-pop,2,2023,1.0
+9,Techno,70,EBM,6,2023,1.32
+9,Techno,66,Tech Trance,2,2023,1.0
+9,Techno,8,Disco,3,2023,1.08
+9,Techno,94,J-pop,2,2023,1.0
+9,Techno,3,Tech House,2,2023,1.0
+9,Techno,14,Minimal,2,2023,1.0
+9,Techno,64,Nu-Disco,2,2023,1.0
+9,Techno,80,Psy-Trance,3,2023,1.08
+3,Tech House,1,House,126,2023,10.92
+3,Tech House,11,Electro,9,2023,1.56
+3,Tech House,14,Minimal,6,2023,1.32
+3,Tech House,4,Deep House,13,2023,1.88
+3,Tech House,9,Techno,17,2023,2.2
+3,Tech House,34,Breakbeat,2,2023,1.0
+3,Tech House,5,Progressive House,5,2023,1.24
+3,Tech House,21,Dance-pop,7,2023,1.4
+3,Tech House,16,Trance,6,2023,1.32
+3,Tech House,32,Downtempo,4,2023,1.16
+3,Tech House,24,Ambient,4,2023,1.16
+3,Tech House,8,Disco,3,2023,1.08
+3,Tech House,58,Experimental,2,2023,1.0
+3,Tech House,64,Nu-Disco,4,2023,1.16
+3,Tech House,125,Pop Rock,2,2023,1.0
+3,Tech House,2,Euro House,2,2023,1.0
+3,Tech House,79,Synth-pop,2,2023,1.0
+3,Tech House,108,Hip Hop,3,2023,1.08
+3,Tech House,28,Europop,2,2023,1.0
+3,Tech House,256,Latin Pop,2,2023,1.0
+3,Tech House,85,Pop Rap,3,2023,1.08
+3,Tech House,51,Reggaeton,2,2023,1.0
+3,Tech House,111,Ballad,3,2023,1.08
+3,Tech House,100,Contemporary R&B,2,2023,1.0
+5,Progressive House,1,House,102,2023,9.0
+5,Progressive House,53,Progressive Trance,34,2023,3.56
+5,Progressive House,112,Progressive Breaks,4,2023,1.16
+5,Progressive House,4,Deep House,45,2023,4.4399999999999995
+5,Progressive House,9,Techno,29,2023,3.16
+5,Progressive House,3,Tech House,41,2023,4.12
+5,Progressive House,13,Breaks,6,2023,1.32
+5,Progressive House,16,Trance,33,2023,3.48
+5,Progressive House,11,Electro,10,2023,1.6400000000000001
+5,Progressive House,24,Ambient,6,2023,1.32
+5,Progressive House,39,Future House,2,2023,1.0
+5,Progressive House,15,Electro House,6,2023,1.32
+5,Progressive House,36,Ambient House,2,2023,1.0
+5,Progressive House,40,Acid,6,2023,1.32
+5,Progressive House,32,Downtempo,9,2023,1.56
+5,Progressive House,34,Breakbeat,11,2023,1.72
+5,Progressive House,248,Balearic,2,2023,1.0
+5,Progressive House,6,Tribal House,3,2023,1.08
+5,Progressive House,50,Tribal,4,2023,1.16
+5,Progressive House,22,Hip-House,7,2023,1.4
+5,Progressive House,31,Acid House,2,2023,1.0
+5,Progressive House,48,Italo House,2,2023,1.0
+5,Progressive House,64,Nu-Disco,4,2023,1.16
+5,Progressive House,21,Dance-pop,12,2023,1.8
+5,Progressive House,122,Hardcore,2,2023,1.0
+5,Progressive House,49,Hands Up,3,2023,1.08
+5,Progressive House,66,Tech Trance,2,2023,1.0
+5,Progressive House,79,Synth-pop,5,2023,1.24
+5,Progressive House,28,Europop,5,2023,1.24
+5,Progressive House,111,Ballad,3,2023,1.08
+5,Progressive House,102,Indie Pop,3,2023,1.08
+5,Progressive House,20,Vocal,3,2023,1.08
+5,Progressive House,100,Contemporary R&B,2,2023,1.0
+5,Progressive House,85,Pop Rap,2,2023,1.0
+5,Progressive House,132,Alternative Rock,2,2023,1.0
+4,Deep House,1,House,115,2023,10.04
+4,Deep House,68,Deep Techno,3,2023,1.08
+4,Deep House,58,Experimental,4,2023,1.16
+4,Deep House,11,Electro,8,2023,1.48
+4,Deep House,32,Downtempo,13,2023,1.88
+4,Deep House,36,Ambient House,3,2023,1.08
+4,Deep House,9,Techno,11,2023,1.72
+4,Deep House,5,Progressive House,10,2023,1.6400000000000001
+4,Deep House,3,Tech House,7,2023,1.4
+4,Deep House,34,Breakbeat,3,2023,1.08
+4,Deep House,93,Broken Beat,2,2023,1.0
+4,Deep House,85,Pop Rap,8,2023,1.48
+4,Deep House,64,Nu-Disco,7,2023,1.4
+4,Deep House,24,Ambient,11,2023,1.72
+4,Deep House,65,Dub Techno,2,2023,1.0
+4,Deep House,79,Synth-pop,12,2023,1.8
+4,Deep House,59,UK Garage,3,2023,1.08
+4,Deep House,16,Trance,8,2023,1.48
+4,Deep House,12,IDM,2,2023,1.0
+4,Deep House,53,Progressive Trance,3,2023,1.08
+4,Deep House,248,Balearic,4,2023,1.16
+4,Deep House,73,Bass Music,2,2023,1.0
+4,Deep House,21,Dance-pop,14,2023,1.96
+4,Deep House,67,Drum n Bass,5,2023,1.24
+4,Deep House,98,Latin Jazz,2,2023,1.0
+4,Deep House,8,Disco,3,2023,1.08
+4,Deep House,86,K-pop,3,2023,1.08
+4,Deep House,49,Hands Up,2,2023,1.0
+4,Deep House,37,Dubstep,2,2023,1.0
+4,Deep House,15,Electro House,6,2023,1.32
+4,Deep House,43,Eurodance,2,2023,1.0
+4,Deep House,102,Indie Pop,6,2023,1.32
+4,Deep House,169,Schlager,4,2023,1.16
+4,Deep House,196,Chanson,2,2023,1.0
+4,Deep House,125,Pop Rock,8,2023,1.48
+4,Deep House,111,Ballad,7,2023,1.4
+4,Deep House,108,Hip Hop,7,2023,1.4
+4,Deep House,219,Neo Soul,3,2023,1.08
+4,Deep House,315,Doo Wop,2,2023,1.0
+4,Deep House,55,Trap,2,2023,1.0
+4,Deep House,100,Contemporary R&B,5,2023,1.24
+4,Deep House,51,Reggaeton,6,2023,1.32
+4,Deep House,54,Soul,2,2023,1.0
+4,Deep House,28,Europop,4,2023,1.16
+4,Deep House,256,Latin Pop,2,2023,1.0
+14,Minimal,69,Minimal Techno,29,2023,3.16
+14,Minimal,13,Breaks,6,2023,1.32
+14,Minimal,11,Electro,33,2023,3.48
+14,Minimal,9,Techno,18,2023,2.2800000000000002
+14,Minimal,1,House,49,2023,4.76
+14,Minimal,40,Acid,3,2023,1.08
+14,Minimal,58,Experimental,83,2023,7.48
+14,Minimal,103,Microhouse,8,2023,1.48
+14,Minimal,24,Ambient,66,2023,6.12
+14,Minimal,3,Tech House,4,2023,1.16
+14,Minimal,32,Downtempo,10,2023,1.6400000000000001
+14,Minimal,45,Leftfield,7,2023,1.4
+14,Minimal,156,Contemporary,14,2023,1.96
+14,Minimal,75,Abstract,25,2023,2.84
+14,Minimal,140,Darkwave,7,2023,1.4
+14,Minimal,118,Noise,10,2023,1.6400000000000001
+14,Minimal,38,Glitch,5,2023,1.24
+14,Minimal,167,Field Recording,5,2023,1.24
+14,Minimal,119,Industrial,13,2023,1.88
+14,Minimal,142,Drone,24,2023,2.76
+14,Minimal,79,Synth-pop,39,2023,3.96
+14,Minimal,172,Modern Classical,11,2023,1.72
+14,Minimal,318,Free Improvisation,4,2023,1.16
+14,Minimal,128,Lo-Fi,8,2023,1.48
+14,Minimal,228,Neo-Classical,3,2023,1.08
+14,Minimal,126,Post-Punk,7,2023,1.4
+14,Minimal,70,EBM,6,2023,1.32
+14,Minimal,42,Synthwave,8,2023,1.48
+14,Minimal,171,Electroacoustic,9,2023,1.56
+14,Minimal,41,Soundtrack,3,2023,1.08
+14,Minimal,175,Musique Concrète,4,2023,1.16
+14,Minimal,233,Contemporary Jazz,3,2023,1.08
+14,Minimal,30,Dub,4,2023,1.16
+14,Minimal,132,Alternative Rock,2,2023,1.0
+14,Minimal,134,Punk,4,2023,1.16
+14,Minimal,197,Post Rock,3,2023,1.08
+14,Minimal,148,Folk,2,2023,1.0
+14,Minimal,123,Psychedelic Rock,4,2023,1.16
+14,Minimal,307,Sound Collage,2,2023,1.0
+14,Minimal,211,New Wave,33,2023,3.48
+14,Minimal,343,Dark Electro,5,2023,1.24
+14,Minimal,162,Dark Ambient,6,2023,1.32
+14,Minimal,260,New Age,3,2023,1.08
+14,Minimal,81,Indie Rock,4,2023,1.16
+14,Minimal,85,Pop Rap,2,2023,1.0
+14,Minimal,8,Disco,3,2023,1.08
+14,Minimal,125,Pop Rock,3,2023,1.08
+67,Drum n Bass,37,Dubstep,19,2023,2.3600000000000003
+67,Drum n Bass,62,Dancehall,2,2023,1.0
+67,Drum n Bass,56,Jungle,32,2023,3.4
+67,Drum n Bass,82,Breakcore,18,2023,2.2800000000000002
+67,Drum n Bass,122,Hardcore,22,2023,2.6
+67,Drum n Bass,24,Ambient,25,2023,2.84
+67,Drum n Bass,1,House,17,2023,2.2
+67,Drum n Bass,11,Electro,9,2023,1.56
+67,Drum n Bass,90,Grime,2,2023,1.0
+67,Drum n Bass,9,Techno,16,2023,2.12
+67,Drum n Bass,13,Breaks,10,2023,1.6400000000000001
+67,Drum n Bass,73,Bass Music,4,2023,1.16
+67,Drum n Bass,113,Future Bass,7,2023,1.4
+67,Drum n Bass,34,Breakbeat,18,2023,2.2800000000000002
+67,Drum n Bass,8,Disco,3,2023,1.08
+67,Drum n Bass,16,Trance,16,2023,2.12
+67,Drum n Bass,61,Happy Hardcore,12,2023,1.8
+67,Drum n Bass,77,Trip Hop,6,2023,1.32
+67,Drum n Bass,81,Indie Rock,3,2023,1.08
+67,Drum n Bass,12,IDM,6,2023,1.32
+67,Drum n Bass,21,Dance-pop,20,2023,2.44
+67,Drum n Bass,52,Hardstyle,8,2023,1.48
+67,Drum n Bass,58,Experimental,14,2023,1.96
+67,Drum n Bass,32,Downtempo,15,2023,2.04
+67,Drum n Bass,118,Noise,3,2023,1.08
+67,Drum n Bass,88,Hyper Techno,2,2023,1.0
+67,Drum n Bass,63,Eurobeat,2,2023,1.0
+67,Drum n Bass,119,Industrial,10,2023,1.6400000000000001
+67,Drum n Bass,127,Chiptune,4,2023,1.16
+67,Drum n Bass,35,Tropical House,2,2023,1.0
+67,Drum n Bass,51,Reggaeton,4,2023,1.16
+67,Drum n Bass,134,Punk,4,2023,1.16
+67,Drum n Bass,174,Illbient,2,2023,1.0
+67,Drum n Bass,30,Dub,6,2023,1.32
+67,Drum n Bass,272,Conscious,3,2023,1.08
+67,Drum n Bass,15,Electro House,7,2023,1.4
+67,Drum n Bass,59,UK Garage,12,2023,1.8
+67,Drum n Bass,121,Gabber,2,2023,1.0
+67,Drum n Bass,117,Goa Trance,3,2023,1.08
+67,Drum n Bass,108,Hip Hop,5,2023,1.24
+67,Drum n Bass,116,Hard Techno,2,2023,1.0
+67,Drum n Bass,114,J-Core,6,2023,1.32
+67,Drum n Bass,85,Pop Rap,5,2023,1.24
+67,Drum n Bass,184,Hyperpop,3,2023,1.08
+67,Drum n Bass,38,Glitch,6,2023,1.32
+67,Drum n Bass,83,Vaporwave,3,2023,1.08
+67,Drum n Bass,248,Balearic,2,2023,1.0
+67,Drum n Bass,80,Psy-Trance,7,2023,1.4
+67,Drum n Bass,162,Dark Ambient,2,2023,1.0
+67,Drum n Bass,203,Speedcore,4,2023,1.16
+67,Drum n Bass,86,K-pop,17,2023,2.2
+67,Drum n Bass,20,Vocal,11,2023,1.72
+67,Drum n Bass,4,Deep House,5,2023,1.24
+67,Drum n Bass,36,Ambient House,3,2023,1.08
+67,Drum n Bass,75,Abstract,3,2023,1.08
+67,Drum n Bass,94,J-pop,5,2023,1.24
+67,Drum n Bass,45,Leftfield,2,2023,1.0
+67,Drum n Bass,363,Industrial Metal,2,2023,1.0
+67,Drum n Bass,100,Contemporary R&B,10,2023,1.6400000000000001
+67,Drum n Bass,215,Alt-Pop,2,2023,1.0
+67,Drum n Bass,204,Reggae,3,2023,1.08
+67,Drum n Bass,7,Garage House,2,2023,1.0
+67,Drum n Bass,79,Synth-pop,3,2023,1.08
+67,Drum n Bass,242,Post-Hardcore,2,2023,1.0
+67,Drum n Bass,132,Alternative Rock,5,2023,1.24
+67,Drum n Bass,42,Synthwave,2,2023,1.0
+67,Drum n Bass,377,Baltimore Club,6,2023,1.32
+67,Drum n Bass,70,EBM,2,2023,1.0
+67,Drum n Bass,102,Indie Pop,4,2023,1.16
+67,Drum n Bass,211,New Wave,2,2023,1.0
+67,Drum n Bass,126,Post-Punk,2,2023,1.0
+67,Drum n Bass,191,RnB/Swing,2,2023,1.0
+67,Drum n Bass,18,Latin,2,2023,1.0
+67,Drum n Bass,2,Euro House,2,2023,1.0
+67,Drum n Bass,98,Latin Jazz,2,2023,1.0
+67,Drum n Bass,111,Ballad,4,2023,1.16
+67,Drum n Bass,256,Latin Pop,2,2023,1.0
+67,Drum n Bass,64,Nu-Disco,2,2023,1.0
+67,Drum n Bass,28,Europop,2,2023,1.0
+67,Drum n Bass,125,Pop Rock,2,2023,1.0
+8,Disco,64,Nu-Disco,58,2023,5.48
+8,Disco,255,Italo-Disco,25,2023,2.84
+8,Disco,202,Euro-Disco,10,2023,1.6400000000000001
+8,Disco,1,House,7,2023,1.4
+8,Disco,26,Funk,22,2023,2.6
+8,Disco,43,Eurodance,2,2023,1.0
+8,Disco,196,Chanson,3,2023,1.08
+8,Disco,54,Soul,12,2023,1.8
+8,Disco,169,Schlager,2,2023,1.0
+8,Disco,11,Electro,2,2023,1.0
+8,Disco,79,Synth-pop,4,2023,1.16
+8,Disco,201,Disco Polo,2,2023,1.0
+16,Trance,212,Neo Trance,6,2023,1.32
+16,Trance,66,Tech Trance,16,2023,2.12
+16,Trance,53,Progressive Trance,45,2023,4.4399999999999995
+16,Trance,117,Goa Trance,15,2023,2.04
+16,Trance,89,Hard Trance,41,2023,4.12
+16,Trance,80,Psy-Trance,20,2023,2.44
+16,Trance,50,Tribal,2,2023,1.0
+16,Trance,40,Acid,9,2023,1.56
+16,Trance,9,Techno,77,2023,7.0
+16,Trance,1,House,16,2023,2.12
+16,Trance,34,Breakbeat,4,2023,1.16
+16,Trance,24,Ambient,19,2023,2.3600000000000003
+16,Trance,32,Downtempo,9,2023,1.56
+16,Trance,13,Breaks,5,2023,1.24
+16,Trance,11,Electro,7,2023,1.4
+16,Trance,5,Progressive House,10,2023,1.6400000000000001
+16,Trance,112,Progressive Breaks,2,2023,1.0
+16,Trance,186,Makina,2,2023,1.0
+16,Trance,10,Hard House,2,2023,1.0
+16,Trance,75,Abstract,2,2023,1.0
+16,Trance,58,Experimental,6,2023,1.32
+16,Trance,83,Vaporwave,4,2023,1.16
+16,Trance,43,Eurodance,2,2023,1.0
+16,Trance,122,Hardcore,7,2023,1.4
+16,Trance,116,Hard Techno,4,2023,1.16
+16,Trance,52,Hardstyle,5,2023,1.24
+16,Trance,37,Dubstep,2,2023,1.0
+16,Trance,4,Deep House,2,2023,1.0
+16,Trance,30,Dub,2,2023,1.0
+16,Trance,94,J-pop,3,2023,1.08
+16,Trance,21,Dance-pop,2,2023,1.0
+16,Trance,2,Euro House,5,2023,1.24
+16,Trance,38,Glitch,2,2023,1.0
+16,Trance,202,Euro-Disco,2,2023,1.0
+16,Trance,203,Speedcore,2,2023,1.0
+16,Trance,82,Breakcore,2,2023,1.0
+11,Electro,15,Electro House,2,2023,1.0
+11,Electro,343,Dark Electro,9,2023,1.56
+11,Electro,70,EBM,17,2023,2.2
+11,Electro,119,Industrial,15,2023,2.04
+11,Electro,46,African,2,2023,1.0
+11,Electro,9,Techno,15,2023,2.04
+11,Electro,12,IDM,4,2023,1.16
+11,Electro,8,Disco,2,2023,1.0
+11,Electro,134,Punk,2,2023,1.0
+11,Electro,196,Chanson,2,2023,1.0
+11,Electro,24,Ambient,10,2023,1.6400000000000001
+11,Electro,32,Downtempo,2,2023,1.0
+11,Electro,140,Darkwave,5,2023,1.24
+11,Electro,42,Synthwave,5,2023,1.24
+11,Electro,79,Synth-pop,7,2023,1.4
+11,Electro,58,Experimental,5,2023,1.24
+11,Electro,40,Acid,3,2023,1.08
+11,Electro,14,Minimal,2,2023,1.0
+11,Electro,75,Abstract,2,2023,1.0
+11,Electro,125,Pop Rock,3,2023,1.08
+11,Electro,81,Indie Rock,2,2023,1.0
+24,Ambient,162,Dark Ambient,29,2023,3.16
+24,Ambient,36,Ambient House,3,2023,1.08
+24,Ambient,142,Drone,3,2023,1.08
+24,Ambient,58,Experimental,6,2023,1.32
+58,Experimental,118,Noise,2,2023,1.0
+58,Experimental,12,IDM,2,2023,1.0
+53,Progressive Trance,16,Trance,127,2023,11.0
+53,Progressive Trance,112,Progressive Breaks,8,2023,1.48
+53,Progressive Trance,5,Progressive House,44,2023,4.359999999999999
+53,Progressive Trance,9,Techno,29,2023,3.16
+53,Progressive Trance,24,Ambient,10,2023,1.6400000000000001
+53,Progressive Trance,89,Hard Trance,7,2023,1.4
+53,Progressive Trance,66,Tech Trance,6,2023,1.32
+53,Progressive Trance,40,Acid,11,2023,1.72
+53,Progressive Trance,80,Psy-Trance,6,2023,1.32
+53,Progressive Trance,212,Neo Trance,2,2023,1.0
+53,Progressive Trance,13,Breaks,11,2023,1.72
+53,Progressive Trance,1,House,22,2023,2.6
+53,Progressive Trance,34,Breakbeat,9,2023,1.56
+53,Progressive Trance,32,Downtempo,17,2023,2.2
+53,Progressive Trance,11,Electro,10,2023,1.6400000000000001
+53,Progressive Trance,3,Tech House,7,2023,1.4
+53,Progressive Trance,50,Tribal,4,2023,1.16
+53,Progressive Trance,4,Deep House,13,2023,1.88
+53,Progressive Trance,68,Deep Techno,3,2023,1.08
+53,Progressive Trance,21,Dance-pop,4,2023,1.16
+53,Progressive Trance,12,IDM,2,2023,1.0
+53,Progressive Trance,6,Tribal House,2,2023,1.0
+53,Progressive Trance,59,UK Garage,2,2023,1.0
+53,Progressive Trance,37,Dubstep,2,2023,1.0
+53,Progressive Trance,79,Synth-pop,2,2023,1.0
+53,Progressive Trance,64,Nu-Disco,2,2023,1.0
+116,Hard Techno,9,Techno,110,2023,9.64
+116,Hard Techno,119,Industrial,18,2023,2.2800000000000002
+116,Hard Techno,143,Freetekno,24,2023,2.76
+116,Hard Techno,40,Acid,18,2023,2.2800000000000002
+116,Hard Techno,34,Breakbeat,3,2023,1.08
+116,Hard Techno,11,Electro,2,2023,1.0
+116,Hard Techno,135,Schranz,7,2023,1.4
+116,Hard Techno,89,Hard Trance,10,2023,1.6400000000000001
+116,Hard Techno,122,Hardcore,21,2023,2.52
+116,Hard Techno,52,Hardstyle,6,2023,1.32
+116,Hard Techno,10,Hard House,2,2023,1.0
+116,Hard Techno,16,Trance,6,2023,1.32
+116,Hard Techno,70,EBM,2,2023,1.0
+116,Hard Techno,50,Tribal,11,2023,1.72
+116,Hard Techno,117,Goa Trance,2,2023,1.0
+116,Hard Techno,67,Drum n Bass,5,2023,1.24
+116,Hard Techno,80,Psy-Trance,5,2023,1.24
+116,Hard Techno,121,Gabber,5,2023,1.24
+116,Hard Techno,58,Experimental,4,2023,1.16
+116,Hard Techno,184,Hyperpop,2,2023,1.0
+116,Hard Techno,162,Dark Ambient,2,2023,1.0
+116,Hard Techno,37,Dubstep,3,2023,1.08
+116,Hard Techno,203,Speedcore,2,2023,1.0
+116,Hard Techno,94,J-pop,2,2023,1.0
+116,Hard Techno,114,J-Core,3,2023,1.08
+37,Dubstep,34,Breakbeat,7,2023,1.4
+37,Dubstep,30,Dub,18,2023,2.2800000000000002
+37,Dubstep,11,Electro,13,2023,1.88
+37,Dubstep,9,Techno,14,2023,1.96
+37,Dubstep,1,House,9,2023,1.56
+37,Dubstep,90,Grime,21,2023,2.52
+37,Dubstep,13,Breaks,7,2023,1.4
+37,Dubstep,72,Chillwave,2,2023,1.0
+37,Dubstep,58,Experimental,13,2023,1.88
+37,Dubstep,32,Downtempo,5,2023,1.24
+37,Dubstep,59,UK Garage,7,2023,1.4
+37,Dubstep,55,Trap,2,2023,1.0
+37,Dubstep,73,Bass Music,10,2023,1.6400000000000001
+37,Dubstep,184,Hyperpop,6,2023,1.32
+37,Dubstep,235,Footwork,2,2023,1.0
+37,Dubstep,108,Hip Hop,5,2023,1.24
+37,Dubstep,127,Chiptune,2,2023,1.0
+37,Dubstep,122,Hardcore,14,2023,1.96
+37,Dubstep,65,Dub Techno,2,2023,1.0
+37,Dubstep,93,Broken Beat,2,2023,1.0
+37,Dubstep,21,Dance-pop,7,2023,1.4
+37,Dubstep,119,Industrial,3,2023,1.08
+37,Dubstep,12,IDM,4,2023,1.16
+37,Dubstep,56,Jungle,4,2023,1.16
+37,Dubstep,16,Trance,8,2023,1.48
+37,Dubstep,39,Future House,3,2023,1.08
+37,Dubstep,24,Ambient,7,2023,1.4
+37,Dubstep,38,Glitch,4,2023,1.16
+37,Dubstep,70,EBM,2,2023,1.0
+37,Dubstep,52,Hardstyle,9,2023,1.56
+37,Dubstep,173,Metalcore,2,2023,1.0
+37,Dubstep,61,Happy Hardcore,7,2023,1.4
+37,Dubstep,82,Breakcore,3,2023,1.08
+37,Dubstep,67,Drum n Bass,19,2023,2.3600000000000003
+37,Dubstep,80,Psy-Trance,7,2023,1.4
+37,Dubstep,45,Leftfield,4,2023,1.16
+37,Dubstep,69,Minimal Techno,2,2023,1.0
+37,Dubstep,114,J-Core,6,2023,1.32
+37,Dubstep,116,Hard Techno,3,2023,1.08
+37,Dubstep,180,Instrumental,2,2023,1.0
+37,Dubstep,104,Glitch Hop,2,2023,1.0
+37,Dubstep,138,Heavy Metal,2,2023,1.0
+37,Dubstep,203,Speedcore,5,2023,1.24
+37,Dubstep,15,Electro House,3,2023,1.08
+37,Dubstep,85,Pop Rap,3,2023,1.08
+37,Dubstep,54,Soul,2,2023,1.0
+37,Dubstep,100,Contemporary R&B,2,2023,1.0
+37,Dubstep,248,Balearic,2,2023,1.0
+37,Dubstep,314,Deconstructed Club,2,2023,1.0
+37,Dubstep,113,Future Bass,3,2023,1.08
+37,Dubstep,94,J-pop,4,2023,1.16
+37,Dubstep,132,Alternative Rock,2,2023,1.0
+37,Dubstep,4,Deep House,2,2023,1.0
+37,Dubstep,135,Schranz,2,2023,1.0
+26,Funk,230,Jazz-Funk,29,2023,3.16
+26,Funk,435,Bayou Funk,5,2023,1.24
+26,Funk,387,Free Funk,6,2023,1.32
+26,Funk,8,Disco,54,2023,5.16
+26,Funk,254,Afrobeat,12,2023,1.8
+26,Funk,54,Soul,61,2023,5.72
+26,Funk,211,New Wave,2,2023,1.0
+26,Funk,107,Boogie,9,2023,1.56
+26,Funk,136,Psychedelic,8,2023,1.48
+26,Funk,87,Soul-Jazz,3,2023,1.08
+26,Funk,11,Electro,5,2023,1.24
+26,Funk,440,P.Funk,3,2023,1.08
+26,Funk,79,Synth-pop,4,2023,1.16
+26,Funk,97,Fusion,5,2023,1.24
+26,Funk,46,African,2,2023,1.0
+26,Funk,1,House,11,2023,1.72
+26,Funk,132,Alternative Rock,2,2023,1.0
+26,Funk,123,Psychedelic Rock,2,2023,1.0
+26,Funk,193,Prog Rock,2,2023,1.0
+26,Funk,164,Samba,2,2023,1.0
+26,Funk,144,MPB,2,2023,1.0
+26,Funk,326,G-Funk,2,2023,1.0
+26,Funk,21,Dance-pop,2,2023,1.0
+26,Funk,83,Vaporwave,4,2023,1.16
+26,Funk,41,Soundtrack,2,2023,1.0
+26,Funk,34,Breakbeat,8,2023,1.48
+26,Funk,30,Dub,2,2023,1.0
+26,Funk,453,Cantopop,2,2023,1.0
+26,Funk,60,Gospel,2,2023,1.0
+26,Funk,102,Indie Pop,2,2023,1.0
+32,Downtempo,1,House,19,2023,2.3600000000000003
+32,Downtempo,24,Ambient,115,2023,10.04
+32,Downtempo,30,Dub,18,2023,2.2800000000000002
+32,Downtempo,58,Experimental,24,2023,2.76
+32,Downtempo,45,Leftfield,7,2023,1.4
+32,Downtempo,34,Breakbeat,8,2023,1.48
+32,Downtempo,96,Ethereal,3,2023,1.08
+32,Downtempo,8,Disco,7,2023,1.4
+32,Downtempo,248,Balearic,19,2023,2.3600000000000003
+32,Downtempo,75,Abstract,6,2023,1.32
+32,Downtempo,14,Minimal,7,2023,1.4
+32,Downtempo,11,Electro,18,2023,2.2800000000000002
+32,Downtempo,12,IDM,14,2023,1.96
+32,Downtempo,436,Flamenco,3,2023,1.08
+32,Downtempo,54,Soul,3,2023,1.08
+32,Downtempo,72,Chillwave,4,2023,1.16
+32,Downtempo,180,Instrumental,6,2023,1.32
+32,Downtempo,111,Ballad,3,2023,1.08
+32,Downtempo,83,Vaporwave,11,2023,1.72
+32,Downtempo,9,Techno,11,2023,1.72
+32,Downtempo,148,Folk,2,2023,1.0
+32,Downtempo,40,Acid,5,2023,1.24
+32,Downtempo,52,Hardstyle,2,2023,1.0
+32,Downtempo,77,Trip Hop,21,2023,2.52
+32,Downtempo,140,Darkwave,2,2023,1.0
+32,Downtempo,65,Dub Techno,2,2023,1.0
+32,Downtempo,102,Indie Pop,4,2023,1.16
+32,Downtempo,42,Synthwave,2,2023,1.0
+32,Downtempo,172,Modern Classical,4,2023,1.16
+32,Downtempo,4,Deep House,7,2023,1.4
+32,Downtempo,53,Progressive Trance,2,2023,1.0
+32,Downtempo,16,Trance,6,2023,1.32
+32,Downtempo,142,Drone,6,2023,1.32
+32,Downtempo,13,Breaks,2,2023,1.0
+32,Downtempo,36,Ambient House,2,2023,1.0
+32,Downtempo,50,Tribal,2,2023,1.0
+32,Downtempo,294,Berlin-School,2,2023,1.0
+32,Downtempo,87,Soul-Jazz,2,2023,1.0
+32,Downtempo,110,Video Game Music,2,2023,1.0
+32,Downtempo,2,Euro House,2,2023,1.0
+32,Downtempo,20,Vocal,3,2023,1.08
+32,Downtempo,79,Synth-pop,4,2023,1.16
+32,Downtempo,81,Indie Rock,2,2023,1.0
+32,Downtempo,132,Alternative Rock,2,2023,1.0
+34,Breakbeat,122,Hardcore,96,2023,8.52
+34,Breakbeat,56,Jungle,29,2023,3.16
+34,Breakbeat,37,Dubstep,4,2023,1.16
+34,Breakbeat,9,Techno,47,2023,4.6
+34,Breakbeat,11,Electro,31,2023,3.32
+34,Breakbeat,1,House,23,2023,2.6799999999999997
+34,Breakbeat,134,Punk,3,2023,1.08
+34,Breakbeat,13,Breaks,61,2023,5.72
+34,Breakbeat,32,Downtempo,18,2023,2.2800000000000002
+34,Breakbeat,40,Acid,11,2023,1.72
+34,Breakbeat,12,IDM,10,2023,1.6400000000000001
+34,Breakbeat,45,Leftfield,11,2023,1.72
+34,Breakbeat,24,Ambient,22,2023,2.6
+34,Breakbeat,83,Vaporwave,4,2023,1.16
+34,Breakbeat,26,Funk,3,2023,1.08
+34,Breakbeat,79,Synth-pop,3,2023,1.08
+34,Breakbeat,7,Garage House,2,2023,1.0
+34,Breakbeat,59,UK Garage,13,2023,1.88
+34,Breakbeat,120,Big Beat,6,2023,1.32
+34,Breakbeat,235,Footwork,2,2023,1.0
+34,Breakbeat,119,Industrial,6,2023,1.32
+34,Breakbeat,58,Experimental,17,2023,2.2
+34,Breakbeat,54,Soul,2,2023,1.0
+34,Breakbeat,132,Alternative Rock,3,2023,1.08
+34,Breakbeat,81,Indie Rock,4,2023,1.16
+34,Breakbeat,108,Hip Hop,4,2023,1.16
+34,Breakbeat,3,Tech House,2,2023,1.0
+34,Breakbeat,4,Deep House,3,2023,1.08
+34,Breakbeat,82,Breakcore,6,2023,1.32
+34,Breakbeat,67,Drum n Bass,18,2023,2.2800000000000002
+34,Breakbeat,73,Bass Music,3,2023,1.08
+34,Breakbeat,30,Dub,5,2023,1.24
+34,Breakbeat,5,Progressive House,5,2023,1.24
+34,Breakbeat,53,Progressive Trance,5,2023,1.24
+34,Breakbeat,41,Soundtrack,2,2023,1.0
+34,Breakbeat,110,Video Game Music,2,2023,1.0
+34,Breakbeat,75,Abstract,4,2023,1.16
+34,Breakbeat,77,Trip Hop,3,2023,1.08
+34,Breakbeat,175,Musique Concrète,2,2023,1.0
+34,Breakbeat,80,Psy-Trance,4,2023,1.16
+34,Breakbeat,8,Disco,4,2023,1.16
+34,Breakbeat,16,Trance,6,2023,1.32
+34,Breakbeat,70,EBM,2,2023,1.0
+34,Breakbeat,127,Chiptune,2,2023,1.0
+34,Breakbeat,215,Alt-Pop,3,2023,1.08
+34,Breakbeat,21,Dance-pop,4,2023,1.16
+34,Breakbeat,162,Dark Ambient,2,2023,1.0
+34,Breakbeat,314,Deconstructed Club,3,2023,1.08
+34,Breakbeat,100,Contemporary R&B,2,2023,1.0
+34,Breakbeat,61,Happy Hardcore,4,2023,1.16
+34,Breakbeat,172,Modern Classical,2,2023,1.0
+54,Soul,87,Soul-Jazz,9,2023,1.56
+54,Soul,219,Neo Soul,25,2023,2.84
+54,Soul,26,Funk,54,2023,5.16
+54,Soul,60,Gospel,7,2023,1.4
+54,Soul,1,House,6,2023,1.32
+54,Soul,278,Country,5,2023,1.24
+54,Soul,8,Disco,24,2023,2.76
+54,Soul,215,Alt-Pop,4,2023,1.16
+54,Soul,20,Vocal,4,2023,1.16
+54,Soul,221,Holiday,4,2023,1.16
+54,Soul,136,Psychedelic,10,2023,1.6400000000000001
+54,Soul,272,Conscious,2,2023,1.0
+54,Soul,107,Boogie,2,2023,1.0
+54,Soul,210,Rhythm & Blues,12,2023,1.8
+54,Soul,230,Jazz-Funk,3,2023,1.08
+54,Soul,100,Contemporary R&B,6,2023,1.32
+54,Soul,111,Ballad,7,2023,1.4
+54,Soul,254,Afrobeat,4,2023,1.16
+54,Soul,58,Experimental,2,2023,1.0
+54,Soul,32,Downtempo,9,2023,1.56
+54,Soul,148,Folk,2,2023,1.0
+54,Soul,102,Indie Pop,2,2023,1.0
+54,Soul,125,Pop Rock,2,2023,1.0
+59,UK Garage,249,Speed Garage,54,2023,5.16
+59,UK Garage,7,Garage House,26,2023,2.92
+59,UK Garage,1,House,42,2023,4.2
+59,UK Garage,274,UK Funky,2,2023,1.0
+59,UK Garage,90,Grime,8,2023,1.48
+59,UK Garage,37,Dubstep,13,2023,1.88
+59,UK Garage,34,Breakbeat,43,2023,4.279999999999999
+59,UK Garage,74,Bassline,9,2023,1.56
+59,UK Garage,13,Breaks,18,2023,2.2800000000000002
+59,UK Garage,24,Ambient,6,2023,1.32
+59,UK Garage,56,Jungle,8,2023,1.48
+59,UK Garage,9,Techno,8,2023,1.48
+59,UK Garage,3,Tech House,2,2023,1.0
+59,UK Garage,40,Acid,3,2023,1.08
+59,UK Garage,73,Bass Music,6,2023,1.32
+59,UK Garage,11,Electro,8,2023,1.48
+59,UK Garage,4,Deep House,6,2023,1.32
+59,UK Garage,12,IDM,2,2023,1.0
+59,UK Garage,132,Alternative Rock,3,2023,1.08
+59,UK Garage,21,Dance-pop,24,2023,2.76
+59,UK Garage,278,Country,2,2023,1.0
+59,UK Garage,85,Pop Rap,2,2023,1.0
+59,UK Garage,58,Experimental,6,2023,1.32
+59,UK Garage,79,Synth-pop,14,2023,1.96
+59,UK Garage,67,Drum n Bass,12,2023,1.8
+59,UK Garage,86,K-pop,24,2023,2.76
+59,UK Garage,100,Contemporary R&B,14,2023,1.96
+59,UK Garage,83,Vaporwave,2,2023,1.0
+59,UK Garage,32,Downtempo,3,2023,1.08
+59,UK Garage,215,Alt-Pop,3,2023,1.08
+59,UK Garage,377,Baltimore Club,6,2023,1.32
+59,UK Garage,113,Future Bass,3,2023,1.08
+59,UK Garage,64,Nu-Disco,4,2023,1.16
+59,UK Garage,108,Hip Hop,2,2023,1.0
+59,UK Garage,28,Europop,2,2023,1.0
+59,UK Garage,16,Trance,2,2023,1.0
+59,UK Garage,127,Chiptune,2,2023,1.0
+56,Jungle,122,Hardcore,28,2023,3.08
+56,Jungle,13,Breaks,7,2023,1.4
+56,Jungle,40,Acid,3,2023,1.08
+56,Jungle,34,Breakbeat,30,2023,3.24
+56,Jungle,82,Breakcore,23,2023,2.6799999999999997
+56,Jungle,62,Dancehall,2,2023,1.0
+56,Jungle,58,Experimental,11,2023,1.72
+56,Jungle,212,Neo Trance,2,2023,1.0
+56,Jungle,9,Techno,9,2023,1.56
+56,Jungle,12,IDM,8,2023,1.48
+56,Jungle,24,Ambient,9,2023,1.56
+56,Jungle,67,Drum n Bass,32,2023,3.4
+56,Jungle,7,Garage House,3,2023,1.08
+56,Jungle,32,Downtempo,5,2023,1.24
+56,Jungle,45,Leftfield,2,2023,1.0
+56,Jungle,114,J-Core,2,2023,1.0
+56,Jungle,16,Trance,5,2023,1.24
+56,Jungle,1,House,4,2023,1.16
+56,Jungle,235,Footwork,8,2023,1.48
+56,Jungle,119,Industrial,2,2023,1.0
+56,Jungle,11,Electro,2,2023,1.0
+56,Jungle,184,Hyperpop,2,2023,1.0
+56,Jungle,59,UK Garage,2,2023,1.0
+56,Jungle,61,Happy Hardcore,3,2023,1.08
+56,Jungle,83,Vaporwave,2,2023,1.0
+56,Jungle,314,Deconstructed Club,2,2023,1.0
+56,Jungle,37,Dubstep,3,2023,1.08
+56,Jungle,203,Speedcore,2,2023,1.0
+56,Jungle,118,Noise,2,2023,1.0
+13,Breaks,9,Techno,51,2023,4.92
+13,Breaks,34,Breakbeat,52,2023,5.0
+13,Breaks,11,Electro,45,2023,4.4399999999999995
+13,Breaks,56,Jungle,11,2023,1.72
+13,Breaks,1,House,39,2023,3.96
+13,Breaks,14,Minimal,16,2023,2.12
+13,Breaks,40,Acid,32,2023,3.4
+13,Breaks,37,Dubstep,6,2023,1.32
+13,Breaks,24,Ambient,22,2023,2.6
+13,Breaks,112,Progressive Breaks,19,2023,2.3600000000000003
+13,Breaks,32,Downtempo,17,2023,2.2
+13,Breaks,12,IDM,18,2023,2.2800000000000002
+13,Breaks,3,Tech House,8,2023,1.48
+13,Breaks,16,Trance,10,2023,1.6400000000000001
+13,Breaks,4,Deep House,5,2023,1.24
+13,Breaks,122,Hardcore,20,2023,2.44
+13,Breaks,143,Freetekno,2,2023,1.0
+13,Breaks,8,Disco,2,2023,1.0
+13,Breaks,53,Progressive Trance,3,2023,1.08
+13,Breaks,5,Progressive House,2,2023,1.0
+13,Breaks,58,Experimental,10,2023,1.6400000000000001
+13,Breaks,72,Chillwave,3,2023,1.08
+13,Breaks,180,Instrumental,3,2023,1.08
+13,Breaks,119,Industrial,5,2023,1.24
+13,Breaks,59,UK Garage,3,2023,1.08
+13,Breaks,90,Grime,2,2023,1.0
+13,Breaks,121,Gabber,2,2023,1.0
+13,Breaks,30,Dub,2,2023,1.0
+13,Breaks,139,Avantgarde,2,2023,1.0
+13,Breaks,31,Acid House,2,2023,1.0
+13,Breaks,151,Acoustic,2,2023,1.0
+13,Breaks,45,Leftfield,4,2023,1.16
+13,Breaks,162,Dark Ambient,2,2023,1.0
+13,Breaks,61,Happy Hardcore,2,2023,1.0
+13,Breaks,82,Breakcore,3,2023,1.08
+13,Breaks,75,Abstract,2,2023,1.0
+13,Breaks,67,Drum n Bass,10,2023,1.6400000000000001
+13,Breaks,123,Psychedelic Rock,2,2023,1.0
+13,Breaks,215,Alt-Pop,3,2023,1.08
+13,Breaks,111,Ballad,3,2023,1.08
+13,Breaks,21,Dance-pop,2,2023,1.0
+13,Breaks,100,Contemporary R&B,5,2023,1.24
+13,Breaks,50,Tribal,2,2023,1.0
+13,Breaks,80,Psy-Trance,2,2023,1.0
+13,Breaks,86,K-pop,4,2023,1.16
+13,Breaks,85,Pop Rap,4,2023,1.16
+13,Breaks,55,Trap,4,2023,1.16
+13,Breaks,89,Hard Trance,2,2023,1.0
+79,Synth-pop,102,Indie Pop,4,2023,1.16
+79,Synth-pop,125,Pop Rock,3,2023,1.08
+79,Synth-pop,21,Dance-pop,4,2023,1.16
+65,Dub Techno,30,Dub,33,2023,3.48
+65,Dub Techno,9,Techno,125,2023,10.84
+65,Dub Techno,68,Deep Techno,24,2023,2.76
+65,Dub Techno,24,Ambient,30,2023,3.24
+65,Dub Techno,32,Downtempo,5,2023,1.24
+65,Dub Techno,69,Minimal Techno,6,2023,1.32
+65,Dub Techno,14,Minimal,5,2023,1.24
+65,Dub Techno,50,Tribal,4,2023,1.16
+65,Dub Techno,1,House,9,2023,1.56
+65,Dub Techno,12,IDM,5,2023,1.24
+65,Dub Techno,58,Experimental,7,2023,1.4
+65,Dub Techno,11,Electro,3,2023,1.08
+65,Dub Techno,4,Deep House,2,2023,1.0
+65,Dub Techno,75,Abstract,2,2023,1.0
+65,Dub Techno,119,Industrial,2,2023,1.0
+65,Dub Techno,123,Psychedelic Rock,2,2023,1.0
+65,Dub Techno,132,Alternative Rock,2,2023,1.0
