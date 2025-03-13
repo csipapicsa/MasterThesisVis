@@ -3,10 +3,10 @@ const dataPath = "data"; // Path to your data directory
 
 // State variables
 let currentYear = 2020;
-let nodeSpacing = 50;
-let curvature = 40;
+let nodeSpacing = 90;
+let curvature = 100;
 let stickiness = 30;
-let topNodesCount = 30;
+let topNodesCount = 100;
 let nodesData = [];
 let linksData = [];
 let filteredNodes = [];
@@ -467,24 +467,81 @@ function renderVisualization() {
         ]);
     
     // Create a marker for the arrow head
+    // const defs = svg.select("defs");
+    // if (defs.empty()) {
+    //     svg.append("defs").selectAll("marker")
+    //         .data(["arrow"])
+    //         .enter().append("marker")
+    //         .attr("id", d => d)
+    //         .attr("viewBox", "0 -5 10 10")
+    //         .attr("refX", 25)
+    //         .attr("refY", 0)
+    //         .attr("markerWidth", 6)
+    //         .attr("markerHeight", 6)
+    //         .attr("orient", "auto")
+    //         .append("path")
+    //         .attr("class", "arrow")
+    //         .attr("d", "M0,-5L10,0L0,5");
+    // }
+
+    // Create a marker for the arrow head with smaller size
+    // const defs = svg.select("defs");
+    // if (defs.empty()) {
+    //     svg.append("defs").selectAll("marker")
+    //         .data(["arrow"])
+    //         .enter().append("marker")
+    //         .attr("id", d => d)
+    //         .attr("viewBox", "0 -3 6 6")  // Reduced viewBox size
+    //         .attr("refX", 15)            // Reduced refX to position arrow closer to line end
+    //         .attr("refY", 0)
+    //         .attr("markerWidth", 1)  // Smaller value = smaller arrowhead
+    //         .attr("markerHeight", 1) // Smaller value = smaller arrowhead
+    //         .attr("orient", "auto")
+    //         .append("path")
+    //         .attr("class", "arrow")
+    //         .attr("d", "M0,-3L6,0L0,3");  // Reduced path size
+    // }
+        
+    // // Draw links as curved paths
+    // const link = linkContainer.selectAll(".link")
+    //     .data(processedLinks)
+    //     .enter().append("path")
+    //     .attr("class", "link")
+    //     .attr("marker-end", "url(#arrow)")
+    //     .style("stroke", "#5b92e5")
+    //     .style("stroke-width", d => d.width)
+    //     .on("mouseover", function(event, d) {
+    //         tooltip.style("display", "block")
+    //             .html(`
+    //                 <strong>From:</strong> ${d.source.name}<br>
+    //                 <strong>To:</strong> ${d.target.name}<br>
+    //                 <strong>Strength:</strong> ${d.weight}
+    //             `)
+    //             .style("left", (event.pageX + 10) + "px")
+    //             .style("top", (event.pageY - 20) + "px");
+    //     })
+    //     .on("mouseout", function() {
+    //         tooltip.style("display", "none");
+    //     });
+    // Create a marker for the arrow head with uniform small size
     const defs = svg.select("defs");
     if (defs.empty()) {
         svg.append("defs").selectAll("marker")
             .data(["arrow"])
             .enter().append("marker")
             .attr("id", d => d)
-            .attr("viewBox", "0 -5 10 10")
-            .attr("refX", 25)
+            .attr("viewBox", "0 -2 4 4")   // Very small viewBox
+            .attr("refX", 25)              // Position close to the end of the line
             .attr("refY", 0)
-            .attr("markerWidth", 6)
-            .attr("markerHeight", 6)
+            .attr("markerWidth", 1)      // Small fixed width
+            .attr("markerHeight", 1)     // Small fixed height
             .attr("orient", "auto")
             .append("path")
             .attr("class", "arrow")
-            .attr("d", "M0,-5L10,0L0,5");
+            .attr("d", "M0,-2L4,0L0,2");   // Simple small triangle
     }
-    
-    // Draw links as curved paths
+
+    // Draw links as curved paths with hover functionality
     const link = linkContainer.selectAll(".link")
         .data(processedLinks)
         .enter().append("path")
@@ -493,11 +550,12 @@ function renderVisualization() {
         .style("stroke", "#5b92e5")
         .style("stroke-width", d => d.width)
         .on("mouseover", function(event, d) {
+            const formattedPercentage = d.width.toFixed(1) + "%";
             tooltip.style("display", "block")
                 .html(`
                     <strong>From:</strong> ${d.source.name}<br>
                     <strong>To:</strong> ${d.target.name}<br>
-                    <strong>Strength:</strong> ${d.weight}
+                    <strong>Co-occurrence in percent:</strong> ${formattedPercentage}
                 `)
                 .style("left", (event.pageX + 10) + "px")
                 .style("top", (event.pageY - 20) + "px");
