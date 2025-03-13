@@ -67,65 +67,9 @@ function initializeVisualization() {
     
     // Set up year dropdown event listener with automatic update
     yearSelect.addEventListener("change", function() {
-        const previousStyle = selectedStyle; // Store the currently selected style
         currentYear = parseInt(this.value);
         yearDisplay.textContent = currentYear;
-        
-        // Fetch and render data, but preserve style selection if possible
-        isLoading = true;
-        errorMessage.style.display = "none";
-        d3.select(".loading").style("display", "block");
-        linkContainer.selectAll("*").remove();
-        nodeContainer.selectAll("*").remove();
-        
-        // Do not reset style filter yet
-        
-        // Load nodes and edges data from CSV files
-        Promise.all([
-            d3.csv(`${dataPath}/nodes_${currentYear}.csv`),
-            d3.csv(`${dataPath}/edges_${currentYear}.csv`)
-        ])
-        .then(([nodes, links]) => {
-            // Process nodes data
-            nodesData = nodes.map(d => ({
-                id: +d.id,
-                name: d.name,
-                total_weight: +d.total_weight,
-                size: +d.size || Math.sqrt(+d.total_weight) * 0.3,
-                isMajorStyle: basicMajorStyles.includes(d.name)
-            }));
-            
-            // Process links data
-            linksData = links.map(d => ({
-                source: +d.source_id,
-                target: +d.target_id,
-                weight: +d.weight,
-                width: +d.width || Math.sqrt(+d.weight) * 0.2
-            }));
-            
-            renderVisualization();
-            
-            // After rendering, check if previous style exists in new year's data
-            if (previousStyle) {
-                const styleExists = filteredNodes.some(node => node.name === previousStyle);
-                if (styleExists) {
-                    // Set the dropdown to the previously selected style
-                    styleSelect.value = previousStyle;
-                    selectedStyle = previousStyle;
-                    applyStyleFilter(); // Apply the filter again
-                }
-            }
-            
-            isLoading = false;
-            d3.select(".loading").style("display", "none");
-        })
-        .catch(error => {
-            console.error("Error loading data:", error);
-            isLoading = false;
-            d3.select(".loading").style("display", "none");
-            errorMessage.textContent = `Error loading data for year ${currentYear}. Make sure the files nodes_${currentYear}.csv and edges_${currentYear}.csv exist in the "data" directory.`;
-            errorMessage.style.display = "block";
-        });
+        fetchDataAndRender(); // Automatically update when year changes
     });
     
     spacingSlider.addEventListener("input", function() {
@@ -349,7 +293,6 @@ function populateStyleDropdown(nodes) {
 
 /**
  * Fetch data for the current year and render the visualization
- * This version resets any style filter
  */
 function fetchDataAndRender() {
     isLoading = true;
