@@ -542,6 +542,29 @@ function renderVisualization() {
     }
 
     // Draw links as curved paths with hover functionality
+    // const link = linkContainer.selectAll(".link")
+    //     .data(processedLinks)
+    //     .enter().append("path")
+    //     .attr("class", "link")
+    //     .attr("marker-end", "url(#arrow)")
+    //     .style("stroke", "#5b92e5")
+    //     .style("stroke-width", d => d.width)
+    //     .on("mouseover", function(event, d) {
+    //         const formattedPercentage = d.width.toFixed(1) + "%";
+    //         tooltip.style("display", "block")
+    //             .html(`
+    //                 <strong>From:</strong> ${d.source.name}<br>
+    //                 <strong>To:</strong> ${d.target.name}<br>
+    //                 <strong>Co-occurrence in percent:</strong> ${formattedPercentage}
+    //             `)
+    //             .style("left", (event.pageX + 10) + "px")
+    //             .style("top", (event.pageY - 20) + "px");
+    //     })
+    //     .on("mouseout", function() {
+    //         tooltip.style("display", "none");
+    //     });
+
+    // And the link code we already modified for reference:
     const link = linkContainer.selectAll(".link")
         .data(processedLinks)
         .enter().append("path")
@@ -550,7 +573,12 @@ function renderVisualization() {
         .style("stroke", "#5b92e5")
         .style("stroke-width", d => d.width)
         .on("mouseover", function(event, d) {
+            // Skip showing tooltip if the link is dimmed
+            if (d3.select(this).classed("dimmed")) return;
+            
+            // Format the width value as a percentage with 1 decimal place
             const formattedPercentage = d.width.toFixed(1) + "%";
+            
             tooltip.style("display", "block")
                 .html(`
                     <strong>From:</strong> ${d.source.name}<br>
@@ -563,7 +591,7 @@ function renderVisualization() {
         .on("mouseout", function() {
             tooltip.style("display", "none");
         });
-    
+        
     // Draw nodes
     const node = nodeContainer.selectAll(".node")
         .data(filteredNodes)
@@ -581,10 +609,29 @@ function renderVisualization() {
         });
             
     // Add circles to nodes
+    // node.append("circle")
+    //     .attr("r", d => d.size)
+    //     .style("fill", d => colorScale(d.total_weight))
+    //     .on("mouseover", function(event, d) {
+    //         const isMajor = d.isMajorStyle ? " (Major Style)" : "";
+    //         tooltip.style("display", "block")
+    //             .html(`
+    //                 <strong>${d.name}</strong>${isMajor}<br>
+    //                 Weight: ${d.total_weight}
+    //             `)
+    //             .style("left", (event.pageX + 10) + "px")
+    //             .style("top", (event.pageY - 20) + "px");
+    //     })
+    //     .on("mouseout", function() {
+    //         tooltip.style("display", "none");
+    //     });
     node.append("circle")
         .attr("r", d => d.size)
         .style("fill", d => colorScale(d.total_weight))
         .on("mouseover", function(event, d) {
+            // Skip showing tooltip if the node is dimmed
+            if (d3.select(this.parentNode).classed("dimmed")) return;
+            
             const isMajor = d.isMajorStyle ? " (Major Style)" : "";
             tooltip.style("display", "block")
                 .html(`
