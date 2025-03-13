@@ -105,9 +105,7 @@ function initializeVisualization() {
         stickiness = parseInt(this.value);
         stickinessValue.textContent = stickiness;
         if (simulation) {
-            // Update alpha decay based on stickiness - higher stickiness means faster settling
-            simulation.alphaDecay(0.01 + (stickiness / 100) * 0.05);
-            // Restart simulation with new alpha decay
+            simulation.alphaDecay(0.01 * (stickiness / 50));
             simulation.alpha(0.3).restart();
         }
     });
@@ -220,15 +218,9 @@ function fitAllNodes() {
     const x = (bounds.xMin + bounds.xMax) / 2;
     const y = (bounds.yMin + bounds.yMax) / 2;
     
-    // Calculate separate scales for width and height to better utilize horizontal space
-    const scaleX = 0.8 / (dx / width);
-    const scaleY = 0.85 / (dy / height);
-    
-    // Use the smaller scale to ensure everything fits, but with a slight bias toward horizontal stretch
-    const scale = Math.min(scaleX * 1.1, scaleY); // Add 10% bias to horizontal scale
-    
-    // Apply translation with a slight upward shift
-    const translate = [width / 2 - scale * x, (height / 2 - scale * y) - (height * 0.03)];
+    // Calculate scale to fit all nodes with padding
+    const scale = 0.85 / Math.max(dx / width, dy / height); // Reduced for more padding
+    const translate = [width / 2 - scale * x, (height / 2 - scale * y) - (height * 0.05)]; // Shift slightly upward
     
     // Apply transformation
     svg.transition().duration(750).call(
@@ -390,17 +382,9 @@ function renderVisualization() {
     simulation = d3.forceSimulation(filteredNodes)
         .force("link", d3.forceLink(processedLinks).id(d => d.id).distance(100))
         .force("charge", d3.forceManyBody().strength(-300 * (nodeSpacing / 50)))
-        // Use center force for initial positioning
-        .force("center", d3.forceCenter(width / 2, height / 2))
-        // Add x-positioning force that spreads nodes more evenly
-        .force("x", d3.forceX().x(function(d) {
-            // Assign nodes to left or right half based on node id
-            return (d.id % 2 === 0) ? width * 0.3 : width * 0.7;
-        }).strength(0.05))
+        .force("center", d3.forceCenter(width / 2, height / 2.5)) // Move higher in the container
         .force("collision", d3.forceCollide().radius(d => d.size * 1.2 * (nodeSpacing / 50)))
-        // Increase alpha decay to make the simulation settle faster
-        .alphaDecay(0.03) // Higher value means simulation cools down faster (default is 0.0228)
-        .velocityDecay(0.4); // Higher value means more friction (default is 0.4)
+        .alphaDecay(0.01 * (stickiness / 50));
     
     // Create a color scale for nodes
     const colorScale = d3.scaleSequential(d3.interpolateBlues)
@@ -491,22 +475,6 @@ function renderVisualization() {
     
     // Update positions on each simulation tick
     simulation.on("tick", () => {
-        // Define safe margins to prevent nodes from getting too close to edges
-        const topMargin = 50;  // Greater top margin for labels
-        const bottomMargin = 50;
-        const sideMargin = 30;
-        
-        // Keep nodes within bounds with appropriate margins
-        filteredNodes.forEach(d => {
-            const r = d.size || 10;
-            
-            // Apply horizontal constraints with margins
-            d.x = Math.max(sideMargin + r, Math.min(width - sideMargin - r, d.x));
-            
-            // Apply vertical constraints with margins
-            d.y = Math.max(topMargin + r, Math.min(height - bottomMargin - r, d.y));
-        });
-        
         // Update link paths
         link.attr("d", function(d) {
             const curveFactor = curvature / 200; // Scale down to reasonable values
@@ -518,6 +486,13 @@ function renderVisualization() {
         
         // Update node positions
         node.attr("transform", d => `translate(${d.x},${d.y})`);
+        
+        // Keep nodes within bounds
+        filteredNodes.forEach(d => {
+            const r = d.size || 10;
+            d.x = Math.max(r, Math.min(width - r, d.x));
+            d.y = Math.max(r, Math.min(height - r, d.y));
+        });
     });
     
     // Fit all nodes after initial layout
