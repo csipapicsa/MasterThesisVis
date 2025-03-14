@@ -87,19 +87,11 @@ function initializeVisualization() {
         ])
         .then(([nodes, links]) => {
             // Process nodes data
-            // nodesData = nodes.map(d => ({
-            //     id: +d.id,
-            //     name: d.name,
-            //     total_weight: +d.total_weight,
-            //     size: +d.size || Math.sqrt(+d.total_weight) * 0.3,
-            //     isMajorStyle: basicMajorStyles.includes(d.name)
-            // }));
             nodesData = nodes.map(d => ({
                 id: +d.id,
                 name: d.name,
                 total_weight: +d.total_weight,
-                release_count: d.release_count ? +d.release_count : undefined,
-                size: +d.size, // Use size directly from CSV, don't calculate from weight
+                size: +d.size || Math.sqrt(+d.total_weight) * 0.3,
                 isMajorStyle: basicMajorStyles.includes(d.name)
             }));
             
@@ -468,16 +460,10 @@ function renderVisualization() {
         .velocityDecay(0.4); // Higher value means more friction (default is 0.4)
     
     // Create a color scale for nodes
-    // const colorScale = d3.scaleSequential(d3.interpolateBlues)
-    //     .domain([
-    //         d3.min(filteredNodes, d => d.total_weight), 
-    //         d3.max(filteredNodes, d => d.total_weight)
-    //     ]);
-
     const colorScale = d3.scaleSequential(d3.interpolateBlues)
         .domain([
-            d3.min(filteredNodes, d => d.size), 
-            d3.max(filteredNodes, d => d.size)
+            d3.min(filteredNodes, d => d.total_weight), 
+            d3.max(filteredNodes, d => d.total_weight)
         ]);
     
     // Create a marker for the arrow head
@@ -639,55 +625,25 @@ function renderVisualization() {
     //     .on("mouseout", function() {
     //         tooltip.style("display", "none");
     //     });
-    // node.append("circle")
-    //     .attr("r", d => d.size)
-    //     .style("fill", d => colorScale(d.total_weight))
-    //     .on("mouseover", function(event, d) {
-    //         // Skip showing tooltip if the node is dimmed
-    //         if (d3.select(this.parentNode).classed("dimmed")) return;
-            
-    //         const isMajor = d.isMajorStyle ? " (Major Style)" : "";
-    //         tooltip.style("display", "block")
-    //             .html(`
-    //                 <strong>${d.name}</strong>${isMajor}<br>
-    //                 Weight: ${d.total_weight}
-    //             `)
-    //             .style("left", (event.pageX + 10) + "px")
-    //             .style("top", (event.pageY - 20) + "px");
-    //     })
-    //     .on("mouseout", function() {
-    //         tooltip.style("display", "none");
-    //     });
     node.append("circle")
-    .attr("r", d => d.size)
-    .style("fill", d => colorScale(d.size))
-    .on("mouseover", function(event, d) {
-        // Skip showing tooltip if the node is dimmed
-        if (d3.select(this.parentNode).classed("dimmed")) return;
-        
-        const isMajor = d.isMajorStyle ? " (Major Style)" : "";
-        
-        // Create tooltip content
-        let tooltipContent = `<strong>${d.name}</strong>${isMajor}<br>`;
-        
-        // Add release count info if available
-        if (d.release_count !== undefined) {
-            tooltipContent += `Unique Releases: ${d.release_count}<br>`;
-        } else {
-            tooltipContent += `Node Size: ${d.size.toFixed(1)}<br>`;
-        }
-        
-        // Always show connection weight
-        tooltipContent += `Connections: ${d.total_weight}`;
-        
-        tooltip.style("display", "block")
-            .html(tooltipContent)
-            .style("left", (event.pageX + 10) + "px")
-            .style("top", (event.pageY - 20) + "px");
-    })
-    .on("mouseout", function() {
-        tooltip.style("display", "none");
-    });
+        .attr("r", d => d.size)
+        .style("fill", d => colorScale(d.total_weight))
+        .on("mouseover", function(event, d) {
+            // Skip showing tooltip if the node is dimmed
+            if (d3.select(this.parentNode).classed("dimmed")) return;
+            
+            const isMajor = d.isMajorStyle ? " (Major Style)" : "";
+            tooltip.style("display", "block")
+                .html(`
+                    <strong>${d.name}</strong>${isMajor}<br>
+                    Weight: ${d.total_weight}
+                `)
+                .style("left", (event.pageX + 10) + "px")
+                .style("top", (event.pageY - 20) + "px");
+        })
+        .on("mouseout", function() {
+            tooltip.style("display", "none");
+        });
             
     // Add labels to nodes
     node.append("text")
