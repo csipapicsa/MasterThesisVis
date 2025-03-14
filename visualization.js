@@ -474,11 +474,52 @@ function renderVisualization() {
     //         d3.max(filteredNodes, d => d.total_weight)
     //     ]);
 
-    const colorScale = d3.scaleSequential(d3.interpolateBlues)
-        .domain([
-            d3.min(filteredNodes, d => d.size), 
-            d3.max(filteredNodes, d => d.size)
-        ]);
+    // const colorScale = d3.scaleSequential(d3.interpolateBlues)
+    //     .domain([
+    //         d3.min(filteredNodes, d => d.size), 
+    //         d3.max(filteredNodes, d => d.size)
+    //     ]);
+
+    // Using a custom interpolator that starts with a light blue instead of white
+    const colorScale = d3.scaleSequential()
+    .domain([
+        d3.min(filteredNodes, d => d.size), 
+        d3.max(filteredNodes, d => d.size)
+    ])
+    .interpolator(d => {
+        // Start from a light blue (RGB 200, 220, 240) instead of white
+        // and go to dark blue (RGB 10, 50, 120)
+        return d3.interpolateRgb(
+            "rgb(200, 220, 240)", // Light blue that's still visible
+            "rgb(10, 50, 120)"    // Dark blue for larger nodes
+        )(d);
+    });
+
+    // more color scale later ont 
+
+    // Option 1: Using d3.interpolateBlues but adjusting the input range
+    const colorScale1 = d3.scaleSequential()
+    .domain([
+        d3.min(filteredNodes, d => d.size), 
+        d3.max(filteredNodes, d => d.size)
+    ])
+    .interpolator(d => d3.interpolateBlues(0.3 + d * 0.7)); // Start from 0.3 instead of 0
+
+    // Option 2: Using the viridis color scheme which has good visibility throughout
+    const colorScale2 = d3.scaleSequential()
+    .domain([
+        d3.min(filteredNodes, d => d.size), 
+        d3.max(filteredNodes, d => d.size)
+    ])
+    .interpolator(d3.interpolateViridis); // A color scheme with good differentiation
+
+    // Option 3: Using a diverging color scheme
+    const colorScale3 = d3.scaleSequential()
+    .domain([
+        d3.min(filteredNodes, d => d.size), 
+        d3.max(filteredNodes, d => d.size)
+    ])
+    .interpolator(d3.interpolateCool); // Blue-green-purple color scheme
     
     // Create a marker for the arrow head
     // const defs = svg.select("defs");
