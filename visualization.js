@@ -99,16 +99,16 @@ function initializeVisualization() {
                 name: d.name,
                 total_weight: +d.total_weight,
                 release_count: d.release_count ? +d.release_count : undefined,
-                size: +d.size, // Use size directly from CSV, don't calculate from weight
-                isMajorStyle: basicMajorStyles.includes(d.name)
+                size: (+d.size) * 0.6, // Scale down size by 40%
+                isMajorStyle: false // Remove major style distinction
             }));
-            
+
             // Process links data
             linksData = links.map(d => ({
                 source: +d.source_id,
                 target: +d.target_id,
                 weight: +d.weight,
-                width: +d.width || Math.sqrt(+d.weight) * 0.2
+                width: +d.width || Math.sqrt(+d.weight) * 0.1  // Reduced from 0.2 to 0.1
             }));
             
             renderVisualization();
@@ -321,38 +321,19 @@ function populateStyleDropdown(nodes) {
     while (styleSelect.options.length > 1) {
         styleSelect.remove(1);
     }
-    
-    // First add major styles
-    const majorStyleOptions = basicMajorStyles.filter(style => 
-        nodes.some(node => node.name === style)
-    ).sort();
-    
-    majorStyleOptions.forEach(styleName => {
-        const option = document.createElement("option");
-        option.value = styleName;
-        option.textContent = styleName + " ★"; // Add star to indicate major style
-        styleSelect.appendChild(option);
-    });
-    
-    // Add separator
-    const separatorOption = document.createElement("option");
-    separatorOption.disabled = true;
-    separatorOption.className = "dropdown-separator";
-    separatorOption.textContent = "------------------------";
-    styleSelect.appendChild(separatorOption);
-    
-    // Add other styles (not in major styles list)
-    const otherStyles = nodes
-        .filter(node => !basicMajorStyles.includes(node.name))
+        // Simply add all styles alphabetically
+    const allStyles = nodes
         .map(node => node.name)
         .sort();
     
-    otherStyles.forEach(styleName => {
+    allStyles.forEach(styleName => {
         const option = document.createElement("option");
         option.value = styleName;
         option.textContent = styleName;
         styleSelect.appendChild(option);
     });
+    
+    
 }
 
 /**
@@ -381,8 +362,8 @@ function fetchDataAndRender() {
             id: +d.id,
             name: d.name,
             total_weight: +d.total_weight,
-            size: +d.size || Math.sqrt(+d.total_weight) * 0.3,
-            isMajorStyle: basicMajorStyles.includes(d.name)
+            size: (+d.size || Math.sqrt(+d.total_weight) * 0.3) * 0.6, // Added 0.6 scaling factor
+            isMajorStyle: false // Remove major style distinction
         }));
         
         // Process links data
@@ -390,7 +371,7 @@ function fetchDataAndRender() {
             source: +d.source_id,
             target: +d.target_id,
             weight: +d.weight,
-            width: +d.width || Math.sqrt(+d.weight) * 0.2
+            width: +d.width || Math.sqrt(+d.weight) * 0.1  // Reduced from 0.2 to 0.1
         }));
         
         renderVisualization();
@@ -415,6 +396,8 @@ function renderVisualization() {
         errorMessage.style.display = "block";
         return;
     }
+
+    svg.selectAll("defs").remove();
     
     const width = svgElement.clientWidth;
     const height = svgElement.clientHeight;
@@ -520,104 +503,25 @@ function renderVisualization() {
         d3.max(filteredNodes, d => d.size)
     ])
     .interpolator(d3.interpolateCool); // Blue-green-purple color scheme
-    
-    // Create a marker for the arrow head
-    // const defs = svg.select("defs");
-    // if (defs.empty()) {
-    //     svg.append("defs").selectAll("marker")
-    //         .data(["arrow"])
-    //         .enter().append("marker")
-    //         .attr("id", d => d)
-    //         .attr("viewBox", "0 -5 10 10")
-    //         .attr("refX", 25)
-    //         .attr("refY", 0)
-    //         .attr("markerWidth", 6)
-    //         .attr("markerHeight", 6)
-    //         .attr("orient", "auto")
-    //         .append("path")
-    //         .attr("class", "arrow")
-    //         .attr("d", "M0,-5L10,0L0,5");
-    // }
 
-    // Create a marker for the arrow head with smaller size
-    // const defs = svg.select("defs");
-    // if (defs.empty()) {
-    //     svg.append("defs").selectAll("marker")
-    //         .data(["arrow"])
-    //         .enter().append("marker")
-    //         .attr("id", d => d)
-    //         .attr("viewBox", "0 -3 6 6")  // Reduced viewBox size
-    //         .attr("refX", 15)            // Reduced refX to position arrow closer to line end
-    //         .attr("refY", 0)
-    //         .attr("markerWidth", 1)  // Smaller value = smaller arrowhead
-    //         .attr("markerHeight", 1) // Smaller value = smaller arrowhead
-    //         .attr("orient", "auto")
-    //         .append("path")
-    //         .attr("class", "arrow")
-    //         .attr("d", "M0,-3L6,0L0,3");  // Reduced path size
-    // }
-        
-    // // Draw links as curved paths
-    // const link = linkContainer.selectAll(".link")
-    //     .data(processedLinks)
-    //     .enter().append("path")
-    //     .attr("class", "link")
-    //     .attr("marker-end", "url(#arrow)")
-    //     .style("stroke", "#5b92e5")
-    //     .style("stroke-width", d => d.width)
-    //     .on("mouseover", function(event, d) {
-    //         tooltip.style("display", "block")
-    //             .html(`
-    //                 <strong>From:</strong> ${d.source.name}<br>
-    //                 <strong>To:</strong> ${d.target.name}<br>
-    //                 <strong>Strength:</strong> ${d.weight}
-    //             `)
-    //             .style("left", (event.pageX + 10) + "px")
-    //             .style("top", (event.pageY - 20) + "px");
-    //     })
-    //     .on("mouseout", function() {
-    //         tooltip.style("display", "none");
-    //     });
-    // Create a marker for the arrow head with uniform small size
-    const defs = svg.select("defs");
-    if (defs.empty()) {
-        svg.append("defs").selectAll("marker")
-            .data(["arrow"])
-            .enter().append("marker")
-            .attr("id", d => d)
-            .attr("viewBox", "0 -2 4 4")   // Very small viewBox
-            .attr("refX", 25)              // Position close to the end of the line
-            .attr("refY", 0)
-            .attr("markerWidth", 1)      // Small fixed width
-            .attr("markerHeight", 1)     // Small fixed height
-            .attr("orient", "auto")
-            .append("path")
-            .attr("class", "arrow")
-            .attr("d", "M0,-2L4,0L0,2");   // Simple small triangle
-    }
+    svg.selectAll("defs").remove();
 
-    // Draw links as curved paths with hover functionality
-    // const link = linkContainer.selectAll(".link")
-    //     .data(processedLinks)
-    //     .enter().append("path")
-    //     .attr("class", "link")
-    //     .attr("marker-end", "url(#arrow)")
-    //     .style("stroke", "#5b92e5")
-    //     .style("stroke-width", d => d.width)
-    //     .on("mouseover", function(event, d) {
-    //         const formattedPercentage = d.width.toFixed(1) + "%";
-    //         tooltip.style("display", "block")
-    //             .html(`
-    //                 <strong>From:</strong> ${d.source.name}<br>
-    //                 <strong>To:</strong> ${d.target.name}<br>
-    //                 <strong>Co-occurrence in percent:</strong> ${formattedPercentage}
-    //             `)
-    //             .style("left", (event.pageX + 10) + "px")
-    //             .style("top", (event.pageY - 20) + "px");
-    //     })
-    //     .on("mouseout", function() {
-    //         tooltip.style("display", "none");
-    //     });
+    const defs = svg.append("defs");
+
+    defs.append("marker")
+        .attr("id", "arrow")
+        .attr("viewBox", "0 -3 6 6")
+        .attr("refX", 10)          // This positions arrows outside nodes
+        .attr("refY", 0)
+        .attr("markerUnits", "userSpaceOnUse")  // This is the key - use absolute coordinates instead of scaling
+        .attr("markerWidth", 6)    // Fixed size in pixels
+        .attr("markerHeight", 6)   // Fixed size in pixels
+        .attr("orient", "auto")
+        .append("path")
+        .attr("d", "M0,-3L6,0L0,3")
+        .style("fill", "black");
+
+
 
     // And the link code we already modified for reference:
     const link = linkContainer.selectAll(".link")
@@ -626,7 +530,7 @@ function renderVisualization() {
         .attr("class", "link")
         .attr("marker-end", "url(#arrow)")
         .style("stroke", "#5b92e5")
-        .style("stroke-width", d => d.width)
+        .style("stroke-width", d => d.width * 0.8)
         .on("mouseover", function(event, d) {
             // Skip showing tooltip if the link is dimmed
             if (d3.select(this).classed("dimmed")) return;
@@ -663,42 +567,6 @@ function renderVisualization() {
             applyStyleFilter();
         });
             
-    // Add circles to nodes
-    // node.append("circle")
-    //     .attr("r", d => d.size)
-    //     .style("fill", d => colorScale(d.total_weight))
-    //     .on("mouseover", function(event, d) {
-    //         const isMajor = d.isMajorStyle ? " (Major Style)" : "";
-    //         tooltip.style("display", "block")
-    //             .html(`
-    //                 <strong>${d.name}</strong>${isMajor}<br>
-    //                 Weight: ${d.total_weight}
-    //             `)
-    //             .style("left", (event.pageX + 10) + "px")
-    //             .style("top", (event.pageY - 20) + "px");
-    //     })
-    //     .on("mouseout", function() {
-    //         tooltip.style("display", "none");
-    //     });
-    // node.append("circle")
-    //     .attr("r", d => d.size)
-    //     .style("fill", d => colorScale(d.total_weight))
-    //     .on("mouseover", function(event, d) {
-    //         // Skip showing tooltip if the node is dimmed
-    //         if (d3.select(this.parentNode).classed("dimmed")) return;
-            
-    //         const isMajor = d.isMajorStyle ? " (Major Style)" : "";
-    //         tooltip.style("display", "block")
-    //             .html(`
-    //                 <strong>${d.name}</strong>${isMajor}<br>
-    //                 Weight: ${d.total_weight}
-    //             `)
-    //             .style("left", (event.pageX + 10) + "px")
-    //             .style("top", (event.pageY - 20) + "px");
-    //     })
-    //     .on("mouseout", function() {
-    //         tooltip.style("display", "none");
-    //     });
     node.append("circle")
     .attr("r", d => d.size)
     .style("fill", d => colorScale(d.size))
@@ -745,7 +613,7 @@ function renderVisualization() {
         
         // Keep nodes within bounds with appropriate margins
         filteredNodes.forEach(d => {
-            const r = d.size || 10;
+            const r = d.size || 2;
             
             // Apply horizontal constraints with margins
             d.x = Math.max(sideMargin + r, Math.min(width - sideMargin - r, d.x));
@@ -755,12 +623,40 @@ function renderVisualization() {
         });
         
         // Update link paths
+        // In the tick function, replace your current path calculation with this:
         link.attr("d", function(d) {
-            const curveFactor = curvature / 200; // Scale down to reasonable values
-            const dx = d.target.x - d.source.x;
-            const dy = d.target.y - d.source.y;
-            const dr = Math.sqrt(dx * dx + dy * dy) / (curveFactor || 0.001);
-            return `M${d.source.x},${d.source.y}A${dr},${dr} 0 0,1 ${d.target.x},${d.target.y}`;
+            // Get the positions
+            const sourceX = d.source.x;
+            const sourceY = d.source.y;
+            const targetX = d.target.x;
+            const targetY = d.target.y;
+            
+            // Calculate distance between nodes
+            const dx = targetX - sourceX;
+            const dy = targetY - sourceY;
+            const dr = Math.sqrt(dx * dx + dy * dy);
+            
+            // If nodes are on top of each other, just return a small arc
+            if (dr === 0) return `M${sourceX},${sourceY}A1,1 0 0,1 ${targetX},${targetY}`;
+            
+            // Calculate the target node radius
+            const targetRadius = d.target.size || 10;
+            
+            // Calculate the point on the edge of the target node
+            // Subtract a bit more (3px) to leave room for the arrow
+            const offset = targetRadius + 1;
+            const offsetX = dx * offset / dr;
+            const offsetY = dy * offset / dr;
+            
+            // Define the end point at the edge of the node
+            const endX = targetX - offsetX;
+            const endY = targetY - offsetY;
+            
+            // Curved path that stops at the edge of the target node
+            const curveFactor = curvature / 200;
+            const curveRadius = dr / (curveFactor || 0.001);
+            
+            return `M${sourceX},${sourceY}A${curveRadius},${curveRadius} 0 0,1 ${endX},${endY}`;
         });
         
         // Update node positions
